@@ -1,0 +1,2041 @@
+,treat.n,treat.sd,treat.m,population,basicsleepcon,esid,metaid,basicSTB,type
+1,28,19.9,17.9,Adolescent,Sleep latency,1,324,Suicidality,case
+2,28,45.4,81,Adolescent,REM latency,2,324,Suicidality,case
+3,28,0.2,1.3,Adolescent,REM density,3,324,Suicidality,case
+4,28,5.3,7.3,Adolescent,Coristol,4,324,Suicidality,case
+5,43,NA,NA,Adolescent,Hypersomnia,5,322,Suicidality,case
+6,43,NA,NA,Adolescent,Insomnia,6,322,Suicidality,case
+7,NA,NA,NA,Adolescent,Insomnia,7,321,SI,case
+8,NA,NA,NA,Adolescent,Early bedtime,8,319,Suicidality,case
+9,NA,NA,NA,Adolescent,Late bedtime,9,319,Suicidality,case
+10,NA,NA,NA,Adolescent,Sleep duration,10,319,Suicidality,case
+11,NA,NA,NA,Adolescent,Sleep duration,11,319,Suicidality,case
+12,NA,NA,NA,Adolescent,Sleep duration,12,319,Suicidality,case
+13,NA,NA,NA,Adolescent,Sleep duration,13,319,Suicidality,case
+14,NA,NA,NA,Adolescent,Sleep duration,14,319,Suicidality,case
+15,NA,NA,NA,Adolescent,Sleep duration,15,319,Suicidality,case
+16,NA,NA,NA,Adolescent,Sleep quality ,16,312,SI,case
+17,NA,NA,NA,Adolescent,Sleep quality ,17,312,SA,case
+18,NA,NA,NA,Adult,Insomnia,18,290,SA,case
+19,NA,NA,NA,Adult,Nightmares,19,290,SA,case
+20,NA,NA,NA,Adult,Insomnia,20,288,SI,case
+21,139,5.3,9.6,Adult,Sleep quality,21,287,SI,case
+22,139,1,1.7,Adult,Sleep quality,22,287,SI,case
+23,139,1.2,2,Adult,Sleep latency,23,287,SI,case
+24,139,1.3,1.2,Adult,Sleep duration,24,287,SI,case
+25,139,1.3,1.7,Adult,Sleep efficiency,25,287,SI,case
+26,139,0.7,1.3,Adult,Sleep disturbance,26,287,SI,case
+27,259,NA,NA,Adult,Insomnia,27,280,Suicidality,case
+28,1208,NA,NA,Adult,Normal Sleep duation (6-9 hr),28,279,SI,case
+29,1208,NA,NA,Adult,Sleep disturbance,29,279,SI,case
+30,NA,NA,NA,Adolescent,Insomnia,30,267,SI,case
+31,NA,NA,NA,Adolescent,Insomnia,31,267,SI,case
+32,NA,NA,NA,Adolescent,Insomnia,32,267,SI,case
+33,NA,NA,NA,Adolescent,Circadian reversal,33,267,SI,case
+34,NA,NA,NA,Adolescent,Nonrestorative sleep,34,267,SI,case
+35,NA,NA,NA,Adolescent,Hypersomnia,35,267,SI,case
+36,NA,NA,NA,Adolescent,Insomnia,36,267,SA,case
+37,NA,NA,NA,Adolescent,Insomnia,37,267,SA,case
+38,NA,NA,NA,Adolescent,Insomnia,38,267,SA,case
+39,NA,NA,NA,Adolescent,Circadian reversal,39,267,SA,case
+40,NA,NA,NA,Adolescent,Nonrestorative sleep,40,267,SA,case
+41,NA,NA,NA,Adolescent,Hypersomnia,41,267,SA,case
+42,NA,NA,NA,Adult,Sleep disturbance,42,266,SI,case
+43,NA,NA,NA,Adult,Sleep disturbance,43,266,SI,case
+44,NA,NA,NA,Adult,Sleep disturbance,44,266,SI,case
+45,NA,NA,NA,Adult,Sleep disturbance,45,266,SA,case
+46,NA,NA,NA,Adult,Sleep disturbance,46,266,SA,case
+47,NA,NA,NA,Adult,Insomnia,47,255,SI,case
+48,NA,NA,NA,Adult,Insomnia,48,255,SI,case
+49,NA,NA,NA,Adult,Insomnia,49,255,SI,case
+50,NA,NA,NA,Adult,Sleep disturbance,50,248,SI,case
+51,NA,NA,NA,Adult,Sleep disturbance,51,248,,case
+52,NA,NA,NA,Adult,Sleep disturbance,52,248,SA,case
+53,NA,NA,NA,Adult,Sleep apnea,53,244,SI,case
+54,35,NA,NA,Adult,Poor sleep,54,243,SA,case
+55,324,NA,NA,Adult,Insomnia,55,240,SI,case
+56,NA,NA,NA,Adolescent,Sleep duration,56,232,SI,case
+57,NA,NA,NA,Adolescent,Sleep duration,57,232,SI,case
+58,NA,NA,NA,Adolescent,Sleep duration,58,232,SI,case
+59,NA,NA,NA,Adolescent,Sleep duration,59,232,SA,case
+60,NA,NA,NA,Adolescent,Sleep duration,60,232,SA,case
+61,NA,NA,NA,Adolescent,Sleep duration,61,232,SA,case
+62,50,NA,NA,Adult,Sleep disorder,62,225,SI,case
+63,50,NA,NA,Adult,No sleep disorder,63,225,SI,case
+64,154,NA,NA,Adult,Insomnia,64,209,SI,case
+65,154,NA,NA,Adult,Hypersomnia,65,209,SI,case
+66,NA,NA,NA,Adult,Insomnia,66,183,Suicidality,case
+67,NA,NA,NA,Adult,Insomnia,67,183,SA,case
+68,NA,NA,NA,Adult,Nightmares,68,183,Suicidality,case
+69,NA,NA,NA,Adult,Nightmares,69,183,SA,case
+70,NA,NA,NA,Adult,Sleep efficiency,70,183,Suicidality,case
+71,NA,NA,NA,Adult,Wake after sleep onset,71,183,Suicidality,case
+72,NA,NA,NA,Adult,Sleep-onset latency,72,183,Suicidality,case
+73,NA,NA,NA,Adult,Total sleep time,73,183,Suicidality,case
+74,NA,NA,NA,Adult,Sleep variability,74,183,Suicidality,case
+75,NA,NA,NA,Adult,Sleep efficiency,75,183,Suicidality,case
+76,NA,NA,NA,Adult,Wake after sleep onset,76,183,Suicidality,case
+77,NA,NA,NA,Adult,Sleep-onset latency,77,183,Suicidality,case
+78,NA,NA,NA,Adult,Total sleep time,78,183,Suicidality,case
+79,NA,NA,NA,Adult,Sleep variability,79,183,Suicidality,case
+80,2674,NA,NA,Adult,Sleep disorder,80,171,SD,case
+81,NA,NA,NA,Adolescent,Insomnia,81,166,SI,case
+82,NA,NA,NA,Adolescent,Insomnia,82,166,SP,case
+83,NA,NA,NA,Adolescent,Insomnia,83,166,SA,case
+84,NA,NA,NA,Adolescent,Insomnia,84,166,SI,case
+85,NA,NA,NA,Adolescent,Insomnia,85,166,SP,case
+86,NA,NA,NA,Adolescent,Insomnia,86,166,SA,case
+87,NA,NA,NA,Adolescent,Insomnia,87,166,SI,case
+88,NA,NA,NA,Adolescent,Insomnia,88,166,SP,case
+89,NA,NA,NA,Adolescent,Insomnia,89,166,SA,case
+90,NA,NA,NA,Adolescent,Insomnia,90,166,SI,case
+91,NA,NA,NA,Adolescent,Insomnia,91,166,SP,case
+92,NA,NA,NA,Adolescent,Insomnia,92,166,SA,case
+93,NA,NA,NA,Adult,Sleep quality,93,157,Suicidality,case
+94,60,2.98,7.73,Adult,Sleep quality,94,156,SI,case
+95,NA,NA,NA,Adult,No nightmares,95,152,SD,case
+96,NA,NA,NA,Adult,Nightmares,96,152,SD,case
+97,NA,NA,NA,Adult,Nightmares,97,152,SD,case
+98,NA,NA,NA,Adolescent Adult,Sleep disturbance,98,151,SA,case
+99,388,NA,NA,Adolescent Adult,Insomnia,99,149,SD,case
+100,388,NA,NA,Adolescent Adult,Insomnia,100,149,SD,case
+101,388,NA,NA,Adolescent Adult,Insomnia,101,149,SD,case
+102,388,NA,NA,Adolescent Adult,Insomnia,102,149,SD,case
+103,NA,NA,NA,Adult,Insomnia,103,140,SI,case
+104,8,NA,NA,Adult,Insomnia,104,139,SA,case
+105,21,47.2,433,Adult,Time recording,105,136,SA,case
+106,21,92.5,355,Adult,Total sleep time,106,136,SA,case
+107,21,53.1,47.1,Adult,Sleep latency,107,136,SA,case
+108,21,97,50.9,Adult,Awake,108,136,SA,case
+109,21,1.3,0.4,Adult,Awake,109,136,SA,case
+110,21,30.9,19.2,Adult,Awake,110,136,SA,case
+111,21,19.8,87.5,Adult,Sleep maintenance,111,136,SA,case
+112,21,21.5,78.4,Adult,Sleep efficiency,112,136,SA,case
+113,21,5.6,7.1,Adult,Stage 1,113,136,SA,case
+114,21,9,60.2,Adult,Stage 2,114,136,SA,case
+115,21,6.5,6.4,Adult,Stage 3 ,115,136,SA,case
+116,21,5.9,4,Adult,Stage 4,116,136,SA,case
+117,21,11.5,10.4,Adult,Delta,117,136,SA,case
+118,21,28.8,758,Adult,REM,118,136,SA,case
+119,21,1,3,Adult,REM,119,136,SA,case
+120,21,7.5,21.8,Adult,REM,120,136,SA,case
+121,21,62.8,115.4,Adult,REM,121,136,SA,case
+122,21,34.2,69.8,Adult,REM,122,136,SA,case
+123,21,25.1,49.3,Adult,REM,123,136,SA,case
+124,21,0.6,1.4,Adult,REM,124,136,SA,case
+125,21,0.1,0.3,Adult,REM,125,136,SA,case
+126,21,9.4,19,Adult,REM,126,136,SA,case
+127,21,17.7,26.8,Adult,REM,127,136,SA,case
+128,21,0.5,1.3,Adult,REM,128,136,SA,case
+129,21,12,25.4,Adult,REM,129,136,SA,case
+130,21,19.4,36.8,Adult,REM,130,136,SA,case
+131,21,0.6,1.4,Adult,REM,131,136,SA,case
+132,21,11.5,27.1,Adult,REM,132,136,SA,case
+133,21,29.5,43.6,Adult,REM,133,136,SA,case
+134,21,0.7,1.5,Adult,REM,134,136,SA,case
+135,21,9.6,20.8,Adult,REM,135,136,SA,case
+136,21,27.1,34,Adult,REM,136,136,SA,case
+137,21,0.6,1.5,Adult,REM,137,136,SA,case
+138,21,442.6,645.3,Adult,REM,138,136,SA,case
+139,21,142.1,167.9,Adult,REM,139,136,SA,case
+140,21,14.2,212.5,Adult,REM,140,136,SA,case
+141,21,178.8,212.3,Adult,REM,141,136,SA,case
+142,21,181.3,189.2,Adult,REM,142,136,SA,case
+143,21,4.4,8.9,Adult,REM,143,136,SA,case
+144,21,4.3,7.7,Adult,REM,144,136,SA,case
+145,21,5.3,8.4,Adult,REM,145,136,SA,case
+146,21,5.7,8,Adult,REM,146,136,SA,case
+147,21,5.3,7.9,Adult,REM,147,136,SA,case
+148,21,4722.1,6802.6,Adult,REM,148,136,SA,case
+149,21,3412.3,2048.2,Adult,REM,149,136,SA,case
+150,21,1861.8,2318.8,Adult,REM,150,136,SA,case
+151,21,723.1,1118.4,Adult,REM,151,136,SA,case
+152,21,599.7,54.5,Adult,REM,152,136,SA,case
+153,21,16.1,26.5,Adult,REM,153,136,SA,case
+154,21,23,34.3,Adult,REM,154,136,SA,case
+155,21,21.3,30.5,Adult,REM,155,136,SA,case
+156,21,11.4,18.9,Adult,REM,156,136,SA,case
+157,21,9.5,12.5,Adult,REM,157,136,SA,case
+158,21,1.3,1.5,Adult,REM,158,136,SA,case
+159,NA,NA,NA,Adult,Insomnia,159,135,SA,case
+160,NA,NA,NA,Adult,Nightmares,160,135,SA,case
+161,NA,NA,NA,Adult,Insomnia,161,135,SA,case
+162,NA,NA,NA,Adult,Nightmares,162,135,SA,case
+163,NA,NA,NA,Adult,Insomnia,163,113,Suicidality,case
+164,NA,NA,NA,Adult,Nightmares,164,113,Suicidality,case
+165,NA,NA,NA,Adult,Insomnia,165,108,Suicidality,case
+166,NA,NA,NA,Adult,Total sleep time,166,108,Suicidality,case
+167,NA,NA,NA,Adult,Insomnia,167,64,SA,case
+168,NA,NA,NA,Adult,Insomnia,168,64,SA,case
+169,NA,NA,NA,Adult,Insomnia,169,65,Suicidality,case
+170,NA,NA,NA,Adult,Nightmares,170,65,Suicidality,case
+171,NA,NA,NA,Adult,Insomnia,171,67,Suicidality,case
+172,NA,NA,NA,Adult,Insomnia,172,67,Suicidality,case
+173,NA,NA,NA,Adult,Insomnia,173,67,Suicidality,case
+174,NA,NA,NA,Adult,Insomnia,174,68,Suicidality,case
+175,NA,NA,NA,Adult,Insomnia,175,69,SD,case
+176,186,0.86,6.4,Adolescent,Sleep duration,176,72,SI,case
+177,35,NA,NA,Adult,Sleep quality ,177,75,SA,case
+178,NA,NA,NA,Adolescent,Sleep duration,178,80,SI,case
+179,NA,NA,NA,Adolescent,Sleep duration,179,80,SI,case
+180,NA,NA,NA,Adolescent,Sleep duration,180,80,SI,case
+181,NA,NA,NA,Adult,Nightmares,181,88,Suicidality,case
+182,NA,NA,NA,Adult,Insomnia,182,88,Suicidality,case
+183,NA,NA,NA,Adult,Total sleep time,183,93,SI,case
+184,NA,NA,NA,Adult,Total sleep time,184,93,SI,case
+185,NA,NA,NA,Adult,Sleep efficiency,185,93,SI,case
+186,NA,NA,NA,Adult,Sleep efficiency,186,93,SI,case
+187,NA,NA,NA,Adult,Sleep onset latency,187,93,SI,case
+188,NA,NA,NA,Adult,Sleep onset latency,188,93,SI,case
+189,NA,NA,NA,Adult,Sleep quality,189,93,SI,case
+190,19,0.88,3.37,Adult,REM,190,77,Suicidality,case
+191,19,27.54,54.82,Adult,REM,191,77,Suicidality,case
+192,19,91,24.55,Adult,REM,192,77,Suicidality,case
+193,19,78.82,151.18,Adult,REM,193,77,Suicidality,case
+194,19,0.7,1.69,Adult,REM,194,77,Suicidality,case
+195,19,7.75,21,Adult,REM,195,77,Suicidality,case
+196,19,37.11,39.29,Adult,REM,196,77,Suicidality,case
+197,19,0.85,1.65,Adult,REM,197,77,Suicidality,case
+198,75,NA,NA,Adult,Insomnia,198,92,SA,case
+199,35,NA,NA,Adult,Nightmares,199,92,SA,case
+200,NA,NA,NA,Adult,Insomnia,200,92,SA,case
+201,NA,NA,NA,Adult,Insomnia + Nightmares,201,92,SA,case
+202,NA,NA,NA,Adult,REM,202,90,SA,case
+203,NA,NA,NA,Adult,REM,203,90,SA,case
+204,NA,NA,NA,Adult,REM,204,90,SA,case
+205,NA,NA,NA,Adult,Slow wave sleep,205,90,SA,case
+206,NA,NA,NA,Adult,Baseline cortisol,206,90,SA,case
+207,NA,NA,NA,Adolescent,Insomnia,207,130,SI,case
+208,NA,NA,NA,Adolescent,Insomnia,208,130,SA,case
+209,NA,NA,NA,Adolescent,Insomnia,209,130,SA,case
+210,NA,NA,NA,Adult,Sleep disturbance,210,121,SD,case
+211,56,3.91,14.48,Adult,Sleep quality,211,70,SA,case
+212,63,NA,NA,Adult,Sleep Disorder,212,169,SI,case
+213,32,NA,NA,Adult,Insomnia,213,169,SI,case
+214,NA,NA,NA,Adolescent Adult,Sleep duration,214,61,SI,case
+215,NA,NA,NA,Adolescent Adult,Sleep duration,215,61,SA,case
+216,NA,NA,NA,Adolescent Adult,Sleep duration,216,61,SI,case
+217,NA,NA,NA,Adolescent Adult,Sleep duration,217,61,SA,case
+218,13,18.8,56.6,Adult,REM,218,3,SI,case
+219,13,5.9,22.6,Adult,REM,219,3,SI,case
+220,13,0.8,4.1,Adult,REM,220,3,SI,case
+221,13,7.6,17.7,Adult,Slow wave sleep,221,3,SI,case
+222,13,29.1,69.2,Adult,Slow wave sleep,222,3,SI,case
+223,13,31.1,394.3,Adult,Total Sleep Time,223,3,SI,case
+224,13,0.8,0.93,Adult,Sleep efficiency,224,3,SI,case
+225,13,NA,NA,Adult,Dreams,225,3,SI,case
+226,13,NA,NA,Adult,Dreams,226,3,SI,case
+227,13,NA,NA,Adult,Dreams,227,3,SI,case
+228,13,NA,NA,Adult,Dreams,228,3,SI,case
+229,13,NA,NA,Adult,Dreams,229,3,SI,case
+230,13,NA,NA,Adult,Dreams,230,3,SI,case
+231,13,NA,NA,Adult,Dreams,231,3,SI,case
+232,13,NA,NA,Adult,Dreams,232,3,SI,case
+233,13,NA,NA,Adult,Dreams,233,3,SI,case
+234,13,NA,NA,Adult,Dreams,234,3,SI,case
+235,13,NA,NA,Adult,Dreams,235,3,SI,case
+236,13,NA,NA,Adult,Dreams,236,3,SI,case
+237,13,NA,NA,Adult,Dreams,237,3,SI,case
+238,13,NA,NA,Adult,Dreams,238,3,SI,case
+239,13,NA,NA,Adult,Dreams,239,3,SI,case
+240,22,2.9,13.4,Adult,Sleep disturbance,240,5,Suicidality,case
+241,22,0.4,2.7,Adult,Sleep quality,241,5,Suicidality,case
+242,22,0.8,2.6,Adult,Sleep latency,242,5,Suicidality,case
+243,22,1.1,2.4,Adult,Sleep duration,243,5,Suicidality,case
+244,22,1,2.5,Adult,sleep efficiency,244,5,Suicidality,case
+245,22,0.6,1.6,Adult,Sleep disturbance,245,5,Suicidality,case
+246,11,NA,NA,Adult,Nightmares,246,6,SA,case
+247,2674,NA,NA,Adult,Sleep Disorder,247,8,SD,case
+248,294,NA,NA,Adult,sleep quality,248,12,Suicidality,case
+249,29,2.1,4.2,Adult,Nightmares,249,1,Suicidality,case
+250,NA,NA,NA,Adult,Insomnia,250,2,Suicidality,case
+251,NA,NA,NA,Adult,Hypersomnia,251,2,Suicidality,case
+252,NA,NA,NA,Adult,No Sleep Problem,252,2,Suicidality,case
+253,NA,NA,NA,Adult,Sleep disturbance,253,3,Suicidality,case
+254,NA,NA,28,Adult,Insomnia,254,7,SA,case
+255,NA,NA,28,Adult,Insomnia,255,7,SA,case
+256,NA,NA,28,Adult,Insomnia,256,7,SA,case
+257,NA,NA,28,Adult,Nightmares,257,7,SA,case
+258,NA,NA,NA,Adolescent,Insomnia,258,9,SI,case
+259,NA,NA,NA,Adolescent,Insomnia,259,9,SP,case
+260,NA,NA,NA,Adolescent,Insomnia,260,9,SA,case
+261,20,0.85,1.9,Adult,Insomnia,261,15,SD,case
+262,20,0.89,2.2,Adult,Insomnia,262,15,SD,case
+263,20,0.85,1.75,Adult,Insomnia,263,15,SD,case
+264,20,0.89,1.8,Adult,Nonrestorative sleep,264,15,SD,case
+265,NA,NA,NA,Adult,No sleep disorder,265,16,SD,case
+266,NA,NA,NA,Adult,Insomnia,266,16,SD,case
+267,NA,NA,NA,Adult,Insomnia,267,16,SD,case
+268,NA,NA,NA,Adult,Insomnia,268,16,SD,case
+269,NA,NA,NA,Adult,Insomnia,269,17,Suicidality,case
+270,NA,NA,NA,Adult,Sleep disturbance,270,13,SI,case
+271,NA,NA,NA,Adult,Sleep problems,271,14,SD,case
+272,434,NA,NA,Adult,Sleep duration,272,18,SA,case
+273,NA,NA,NA,Adult,Insomnia,273,19,SI,case
+274,157,NA,NA,Adult,Sleep problems,274,20,SD,case
+275,NA,NA,NA,Adult,Insomnia,275,24,SA,case
+276,NA,NA,NA,Adult,Sleep problems,276,31,Suicidality,case
+277,NA,NA,NA,Adult,Insomnia,277,32,SI,case
+278,NA,NA,NA,Adult,Sleep disturbance,278,32,Suicidality,case
+279,NA,NA,NA,Adult,Sleep disturbance,279,32,Suicidality,case
+280,NA,NA,NA,Adult,Insomnia,280,36,Suicidality,case
+281,NA,NA,NA,Adult,Nightmares,281,36,Suicidality,case
+282,NA,NA,NA,Adult,Insomnia,282,51,SA,case
+283,NA,NA,NA,Adult,Insomnia,283,51,SI,case
+284,36,NA,NA,Adult,Insomnia,284,42,Suicidality,case
+285,36,NA,NA,Adult,Sleep disturbance,285,42,Suicidality,case
+286,36,NA,NA,Adult,Insomnia,286,42,Suicidality,case
+287,NA,NA,NA,Adolescent,Sleep duration,287,39,SI,case
+288,NA,NA,NA,Adolescent,Sleep duration,288,39,SP,case
+289,NA,NA,NA,Adolescent,Sleep duration,289,39,SA,case
+290,NA,NA,NA,Adolescent,Sleep duration,290,39,SI,case
+291,NA,NA,NA,Adolescent,Sleep duration,291,39,SP,case
+292,NA,NA,NA,Adolescent,Sleep duration,292,39,SA,case
+293,20,10.5,15.3,Adolescent,Delta,293,35,Suicidality,case
+294,20,22.7,28.7,Adolescent,Sleep latency,294,35,Suicidality,case
+295,20,29.8,78.3,Adolescent,Delta,295,35,Suicidality,case
+296,20,45.3,86.7,Adolescent,GH,296,35,Suicidality,case
+297,20,7.6,16.4,Adolescent,GH,297,35,Suicidality,case
+298,20,4.1,2.65,Adolescent,GH,298,35,Suicidality,case
+299,20,11.5,44.8,Adolescent,GH,299,35,Suicidality,case
+300,20,12.4,49.1,Adolescent,GH,300,35,Suicidality,case
+301,20,19.6,71,Adolescent,GH,301,35,Suicidality,case
+302,20,0.57,0.44,Adolescent,GH,302,35,Suicidality,case
+303,13,49.4,110,Adolescent,GH,303,35,Suicidality,case
+304,13,10.2,25.7,Adolescent,GH,304,35,Suicidality,case
+305,13,1.6,2.14,Adolescent,GH,305,35,Suicidality,case
+306,13,13.6,64.7,Adolescent,GH,306,35,Suicidality,case
+307,13,14,71.6,Adolescent,GH,307,35,Suicidality,case
+308,13,15.4,98.8,Adolescent,GH,308,35,Suicidality,case
+309,13,0.1,0.18,Adolescent,GH,309,35,Suicidality,case
+310,13,6.7,12.2,Adolescent,Delta,310,35,Suicidality,case
+311,13,20.7,30.5,Adolescent,Sleep latency,311,35,Suicidality,case
+312,13,29.3,82.8,Adolescent,Delta,312,35,Suicidality,case
+313,13,9.3,18.1,Adolescent,Sleep,313,37,Suicidality,case
+314,13,5.3,9.7,Adolescent,Time awake,314,37,Suicidality,case
+315,13,21,459.5,Adolescent,Total sleep time,315,37,Suicidality,case
+316,13,10.4,16.7,Adolescent,Stage 1,316,37,Suicidality,case
+317,13,36.4,225.5,Adolescent,Stage 2,317,37,Suicidality,case
+318,13,24.1,39.5,Adolescent,Stage 3,318,37,Suicidality,case
+319,13,30.6,81,Adolescent,Stage 4,319,37,Suicidality,case
+320,13,26,96.9,Adolescent,REM,320,37,Suicidality,case
+321,13,53.5,103,Adolescent,REM,321,37,Suicidality,case
+322,13,0.3,1.22,Adolescent,REM,322,37,Suicidality,case
+323,NA,NA,NA,Adult,Insomnia,323,45,SI,case
+324,NA,NA,NA,Adult,Total sleep Time,324,45,SI,case
+325,NA,NA,NA,Adult,Sleep latency,325,45,SI,case
+326,NA,NA,NA,Adult,Sleep efficiency,326,45,SI,case
+327,NA,NA,NA,Adult,Awake,327,45,SI,case
+328,NA,NA,NA,Adult,NREM,328,45,SI,case
+329,NA,NA,NA,Adult,NREM,329,45,SI,case
+330,NA,NA,NA,Adult,NREM,330,45,SI,case
+331,NA,NA,NA,Adult,REM,331,45,SI,case
+332,NA,NA,NA,Adult,REM,332,45,SI,case
+333,NA,NA,NA,Adult,Beta,333,45,SI,case
+334,NA,NA,NA,Adult,Alpha,334,45,SI,case
+335,NA,NA,NA,Adult,Delta,335,45,SI,case
+336,NA,NA,NA,Adult,Alpha-Delta,336,45,SI,case
+337,NA,NA,NA,Adult,Insomnia,337,50,SA,case
+338,NA,NA,NA,Adult,Insomnia,338,50,SA,case
+339,NA,NA,NA,Adult,Sleep duration,339,50,SA,case
+340,NA,NA,NA,Adult,Sleep duration,340,50,SA,case
+341,NA,NA,NA,Adult,Insomia and sleep duration,341,50,SA,case
+342,NA,NA,NA,Adult,Hypersomnia,342,144,SI,case
+343,NA,NA,NA,Adult,Insomnia,343,144,SI,case
+344,NA,NA,NA,Adult,Sleep disturbance,344,144,SI,case
+345,NA,NA,NA,Adult,No Sleep Problem,345,144,SI,case
+346,NA,NA,NA,Adult,Hypersomnia,346,144,SP,case
+347,NA,NA,NA,Adult,Insomnia,347,144,SP,case
+348,NA,NA,NA,Adult,Sleep disturbance,348,144,SP,case
+349,NA,NA,NA,Adult,No Sleep Problem,349,144,SP,case
+350,NA,NA,NA,Adult,Hypersomnia,350,144,SA,case
+351,NA,NA,NA,Adult,Insomnia,351,144,SA,case
+352,NA,NA,NA,Adult,Sleep disturbance,352,144,SA,case
+353,NA,NA,NA,Adult,No Sleep Problem,353,144,SA,case
+354,NA,NA,NA,Adult,Hypersomnia,354,144,SA,case
+355,NA,NA,NA,Adult,Insomnia,355,144,SA,case
+356,NA,NA,NA,Adult,Sleep disturbance,356,144,SA,case
+357,NA,NA,NA,Adult,No Sleep Problem,357,144,SA,case
+358,49,NA,NA,Adult,Sleep disturbance,358,82,SD,case
+359,49,NA,NA,Adult,Insomnia,359,82,SD,case
+360,49,NA,NA,Adult,Sleep disturbance,360,82,SD,case
+361,49,NA,NA,Adult,Insomnia,361,82,SD,case
+362,49,NA,NA,Adult,Lack of deep sleep,362,82,SD,case
+363,49,NA,NA,Adult,Day-night reversal,363,82,SD,case
+364,49,NA,NA,Adult,Sleep disturbance,364,82,SD,case
+365,49,NA,NA,Adult,Frequency of sleep problems,365,82,SD,case
+366,49,NA,NA,Adult,Frequency of sleep problems,366,82,SD,case
+367,49,NA,NA,Adult,Frequency of sleep problems,367,82,SD,case
+368,49,NA,NA,Adult,Frequency of sleep problems,368,82,SD,case
+369,49,NA,NA,Adult,Frequency of sleep problems,369,82,SD,case
+370,NA,NA,NA,Adult,Insomnia,370,29,SI,case
+371,NA,NA,NA,Adult,Sleep disturbance,371,31,Suicidality,case
+372,NA,NA,NA,Adult,Sleep disturbance,372,31,Suicidality,case
+373,NA,NA,NA,Adult,Sleep disturbance,373,31,Suicidality,case
+374,217,NA,NA,Adult,Sleep quality ,374,34,SD,case
+375,261,NA,NA,Adult,Sleep disturbance,375,44,SD,case
+376,NA,NA,NA,Adolescent,Sleep disturbance,376,52,SI,case
+377,NA,NA,NA,Adolescent,Sleep disturbance,377,52,SI,case
+378,NA,NA,NA,Adolescent,Sleep disturbance,378,52,SI,case
+379,NA,NA,NA,Adult,Insomnia,379,53,SD,case
+380,NA,NA,NA,Adult,Insomnia,380,53,SD,case
+381,NA,NA,NA,Adult,Insomnia,381,53,SD,case
+382,NA,NA,NA,Adult,Nonrestorative sleep,382,53,SD,case
+383,NA,NA,NA,Adult,Insomnia,383,53,SD,case
+384,2038,NA,456,Adolescent,Sleep duration,384,54,SI,case
+385,NA,NA,NA,Adolescent,Sleep duration,385,54,SI,case
+386,NA,NA,NA,Adolescent,Sleep duration,386,54,SI,case
+387,NA,NA,NA,Adolescent,Sleep duration,387,54,SI,case
+388,NA,NA,NA,Adolescent,Sleep duration,388,54,SI,case
+389,NA,NA,NA,Adolescent,Sleep duration,389,54,SI,case
+390,NA,NA,NA,Adolescent,Sleep duration,390,54,SI,case
+391,140,NA,NA,Adolescent,Sleep disturbance,391,60,SD,case
+392,140,NA,NA,Adolescent,Insomnia,392,60,SD,case
+393,140,NA,NA,Adolescent,Insomnia,393,60,SD,case
+394,140,NA,NA,Adolescent,Insomnia,394,60,SD,case
+395,140,NA,NA,Adolescent,Insomnia,395,60,SD,case
+396,140,NA,NA,Adolescent,Circadian Reversal,396,60,SD,case
+397,140,NA,NA,Adolescent,Non-restorative Sleep,397,60,SD,case
+398,140,NA,NA,Adolescent,Hypersomnia,398,60,SD,case
+399,140,NA,NA,Adolescent,Sleep disturbance,399,60,SD,case
+400,140,NA,NA,Adolescent,Insomnia,400,60,SD,case
+401,140,NA,NA,Adolescent,Hypersomnia,401,60,SD,case
+402,409,NA,NA,Adult,Sleep disturbance,402,71,SA,case
+403,409,NA,NA,Adult,Sleep disturbance,403,71,SA,case
+404,409,NA,NA,Adult,Sleep disturbance,404,71,SA,case
+405,NA,NA,NA,Adolescent,Nightmares,405,73,SI,case
+406,NA,NA,NA,Adolescent,Sleep disturbance,406,73,SI,case
+407,NA,NA,NA,Adult,Insomnia,407,74,Suicidality,case
+408,72,1.82,3.49,Adult,Insomnia,408,76,SI,case
+409,67,6.1,11.1,Adult,Insomnia,409,81,SI,case
+410,67,7.6,15.4,Adult,Sleep disturbance,410,81,SI,case
+411,40,1.25,8.04,Adolescent,Sleep duration,411,84,SA,case
+412,40,1.64,10.23,Adolescent,Sleep duration,412,84,SA,case
+413,40,1.51,7.78,Adolescent,Sleep duration,413,84,SA,case
+414,40,2.33,9.46,Adolescent,Sleep duration,414,84,SA,case
+415,40,0.85,2.54,Adolescent,Total sleep time,415,84,SA,case
+416,40,1.59,2.85,Adolescent,Total sleep time,416,84,SA,case
+417,40,NA,NA,Adolescent,Nightmares,417,84,SA,case
+418,40,NA,NA,Adolescent,Insomnia,418,84,SA,case
+419,40,NA,NA,Adolescent,Sleep disturbance,419,84,SA,case
+420,40,NA,NA,Adolescent,Sleep disturbance,420,84,SA,case
+421,40,NA,NA,Adolescent,Trouble waking,421,84,SA,case
+422,40,NA,NA,Adolescent,Insomnia,422,84,SA,case
+423,40,NA,NA,Adolescent,Night awakenings,423,84,SA,case
+424,40,NA,NA,Adolescent,Sleep disturbance,424,84,SA,case
+425,40,NA,NA,Adolescent,Trouble waking,425,84,SA,case
+426,211,5.7,8.48,Adult,Insomnia,426,86,SI,case
+427,211,2.85,3.62,Adult,Night awakenings,427,86,SI,case
+428,211,NA,NA,Adult,Trouble getting back to sleep,428,86,SI,case
+429,211,132,75.26,Adult,Sleep onset latency,429,86,SI,case
+430,211,2.13,8.22,Adult,Time in bed,430,86,SI,case
+431,211,139.08,109.14,Adult,Wake after sleep onset,431,86,SI,case
+432,211,23.29,74.04,Adult,Sleep efficiency,432,86,SI,case
+433,211,NA,NA,Adult,Nightmares,433,86,SI,case
+434,211,8.26,7.12,Adult,Nightmares,434,86,SI,case
+435,211,NA,NA,Adult,REM behavior disorder,435,86,SI,case
+436,211,NA,NA,Adult,Disruptive noises during sleep,436,86,SI,case
+437,NA,NA,NA,Adult,Sleep quality ,437,87,SI,case
+438,NA,NA,NA,Adult,Nightmares,438,87,SI,case
+439,NA,NA,NA,Adult,Nightmares,439,87,SI,case
+440,NA,NA,NA,Adult,Nightmares,440,87,SI,case
+441,NA,NA,NA,Adult,Sleep quality,441,87,SA,case
+442,NA,NA,NA,Adult,Nightmares,442,87,SA,case
+443,NA,NA,NA,Adult,Nightmares,443,87,SA,case
+444,NA,NA,NA,Adult,Nightmares,444,87,SA,case
+445,NA,NA,NA,Adult,Nightmares,445,91,SA,case
+446,NA,NA,NA,Adult,Insomnia,446,91,SA,case
+447,NA,NA,NA,Adult,Sleep disturbance,447,91,SA,case
+448,NA,NA,NA,Adult,Nightmares,448,91,SA,case
+449,NA,NA,NA,Adult,Insomnia,449,91,SA,case
+450,NA,NA,NA,Adult,Sleep disturbance,450,91,SA,case
+451,NA,NA,NA,Adult,Insomnia,451,91,SA,case
+452,NA,NA,NA,Adult,Insomnia,452,91,SA,case
+453,NA,NA,NA,Adult,Insomnia,453,91,SA,case
+454,NA,NA,NA,Adult,Nightmares,454,91,SA,case
+455,NA,NA,NA,Adult,Nightmares,455,91,SA,case
+456,NA,NA,NA,Adult,Nightmares,456,91,SA,case
+457,43,NA,2.1,Adult,Sleep disturbance,457,94,SA,case
+458,167,NA,NA,Adolescent,Sleep duration,458,96,SI,case
+459,167,NA,NA,Adolescent,Sleep duration,459,96,SI,case
+460,167,NA,NA,Adolescent,Sleep duration,460,96,SI,case
+461,167,NA,NA,Adolescent,Sleep duration,461,96,SI,case
+462,167,NA,NA,Adolescent,Nightmares,462,96,SI,case
+463,167,NA,NA,Adolescent,Nightmares,463,96,SI,case
+464,167,NA,NA,Adolescent,Nightmares,464,96,SI,case
+465,167,NA,NA,Adolescent,Insomnia,465,96,SI,case
+466,167,NA,NA,Adolescent,Insomnia,466,96,SI,case
+467,167,NA,NA,Adolescent,Insomnia,467,96,SI,case
+468,167,NA,NA,Adolescent,Insomnia,468,96,SI,case
+469,NA,NA,NA,Adult,Sleep duration,469,98,SA,case
+470,NA,NA,NA,Adult,Sleep duration,470,98,SA,case
+471,NA,NA,NA,Adult,Sleep duration,471,98,SA,case
+472,156,NA,NA,Adult,Insomnia,472,105,SD,case
+473,156,NA,NA,Adult,Hypersomnia,473,105,SD,case
+474,NA,NA,NA,Adolescent,Sleep duration,474,107,SI,case
+475,NA,NA,NA,Adolescent,Sleep duration,475,107,SI,case
+476,NA,NA,NA,Adult,Sleep disturbance,476,110,SI,case
+477,NA,NA,NA,Adult,Sleep disturbance,477,110,SI,case
+478,NA,NA,NA,Adult,Insomnia,478,111,Suicidality,case
+479,NA,NA,NA,Adult,Insomnia,479,111,SA,case
+480,NA,NA,NA,Adult,Nightmares,480,111,Suicidality,case
+481,NA,NA,NA,Adult,Nightmares,481,111,SA,case
+482,NA,NA,NA,Adult,Insomnia,482,111,SA,case
+483,NA,NA,NA,Adult,Nightmares,483,111,SA,case
+484,NA,NA,NA,Adult,Insomnia,484,112,Suicidality,case
+485,NA,NA,NA,Adult,Insomnia,485,112,Suicidality,case
+486,NA,NA,NA,Adult,Nightmares,486,112,Suicidality,case
+487,NA,NA,NA,Adult,Nightmares,487,112,Suicidality,case
+488,NA,NA,NA,Adult,Insomnia,488,114,SI,case
+489,NA,NA,NA,Adult,Nightmares,489,114,SI,case
+490,NA,NA,NA,Adult,Insomnia,490,116,SI,case
+491,NA,NA,NA,Adolescent,Sleep duration,491,118,SI,case
+492,NA,NA,NA,Adolescent,Sleep duration,492,118,SI,case
+493,NA,NA,NA,Adolescent,Sleep duration,493,118,SI,case
+494,NA,NA,NA,Adolescent,Sleep duration,494,118,SI,case
+495,NA,NA,NA,Adolescent,Sleep duration,495,118,SI,case
+496,NA,NA,NA,Adolescent,Restorative Sleep,496,118,SI,case
+497,NA,NA,NA,Adolescent,Restorative Sleep,497,118,SI,case
+498,NA,NA,NA,Adolescent,Restorative Sleep,498,118,SI,case
+499,NA,NA,NA,Adolescent,Sleep duration,499,118,SA,case
+500,NA,NA,NA,Adolescent,Sleep duration,500,118,SA,case
+501,NA,NA,NA,Adolescent,Sleep duration,501,118,SA,case
+502,NA,NA,NA,Adolescent,Sleep duration,502,118,SA,case
+503,NA,NA,NA,Adolescent,Restorative Sleep,503,118,SA,case
+504,NA,NA,NA,Adolescent,Restorative Sleep,504,118,SA,case
+505,NA,NA,NA,Adolescent,Restorative Sleep,505,118,SA,case
+506,NA,NA,NA,Adolescent,Restorative Sleep,506,118,SA,case
+507,46,NA,NA,Adult,Insomnia,507,119,SA,case
+508,71,NA,NA,Adult,Insomnia,508,120,SI,case
+509,71,22.6,29.7,Adult,Sleep latency,509,120,SI,case
+510,71,26.3,29.7,Adult,Wake after sleep onset,510,120,SI,case
+511,71,1.2,1.9,Adult,Night awakenings,511,120,SI,case
+512,71,77.1,416.9,Adult,Total sleep time,512,120,SI,case
+513,71,10.2,83.4,Adult,Sleep efficiency,513,120,SI,case
+514,71,NA,NA,Adult,Nocturnal leg jerks,514,120,SI,case
+515,40,NA,NA,Adult,Insomnia,515,122,SD,case
+516,21,3.1,15.1,Adult,Sleep quality,516,123,SI,case
+517,12,3.66,12.5,Adult,Sleep disturbance,517,143,SI,case
+518,12,0.57,2.2,Adult,Sleep quality,518,143,SI,case
+519,12,0.52,2.6,Adult,Sleep latency,519,143,SI,case
+520,12,0.99,1.33,Adult,Sleep duration,520,143,SI,case
+521,12,1.08,1.38,Adult,Sleep efficiency,521,143,SI,case
+522,12,0.39,2.2,Adult,Sleep disturbance,522,143,SI,case
+523,20,NA,12,Adult,Sleep quality,523,154,SD,case
+524,50,NA,NA,Adult,Sleep quality,524,160,Suicidality,case
+525,13,0.8,2,Adult,Sleep quality,525,161,SI,case
+526,13,1,1.6,Adult,Sleep latency,526,161,SI,case
+527,13,1.3,1.1,Adult,Sleep duration,527,161,SI,case
+528,13,1.1,0.6,Adult,Sleep efficiency,528,161,SI,case
+529,13,0.7,1.9,Adult,Sleep disturbance,529,161,SI,case
+530,13,4.8,9.5,Adult,Sleep disturbance,530,161,SI,case
+531,NA,NA,NA,Adult,Insomnia,531,163,SI,case
+532,NA,NA,NA,Adult,Insomnia,532,163,SP,case
+533,NA,NA,NA,Adult,Insomnia,533,163,SA,case
+534,NA,NA,NA,Adult,Insomnia,534,163,SI,case
+535,NA,NA,NA,Adult,Insomnia,535,163,SP,case
+536,NA,NA,NA,Adult,Insomnia,536,163,SA,case
+537,NA,NA,NA,Adult,Insomnia,537,163,SI,case
+538,NA,NA,NA,Adult,Insomnia,538,163,SP,case
+539,NA,NA,NA,Adult,Insomnia,539,163,SA,case
+540,NA,NA,NA,Adolescent,Sleep disturbance,540,165,SI,case
+541,NA,NA,NA,Adolescent,Nightmares,541,165,SI,case
+542,NA,NA,NA,Adult,Insomnia,542,167,SI,case
+543,NA,NA,NA,Adult,Sleep duration,543,172,Suicidality,case
+544,NA,NA,NA,Adult,Circadian Disturbance,544,172,Suicidality,case
+545,NA,NA,NA,Adolescent,Sleep duration,545,178,SI,case
+546,NA,NA,NA,Adolescent,Sleep duration,546,178,SI,case
+547,NA,NA,NA,Adolescent,Sleep duration,547,178,SI,case
+548,64,NA,NA,Adult,Insomnia,548,179,SD,case
+549,NA,NA,NA,Adult,Nightwalking,549,187,SI,case
+550,NA,NA,NA,Adult,Sleep disturbance,550,187,SI,case
+551,NA,NA,NA,Adult,Sleep quality,551,187,SI,case
+552,393,NA,NA,Adult,Insomnia,552,188,SA,case
+553,48,NA,NA,Adult,Insomnia,553,188,SA,case
+554,249,NA,NA,Adult,Insomnia,554,190,SA,case
+555,249,NA,NA,Adult,Insomnia,555,190,SA,case
+556,249,NA,NA,Adult,Insomnia,556,190,SA,case
+557,616,NA,NA,Adult,Insomnia,557,190,SA,case
+558,616,NA,NA,Adult,Insomnia,558,190,SA,case
+559,616,NA,NA,Adult,Insomnia,559,190,SA,case
+560,NA,NA,NA,Adult,Insomnia,560,192,Suicidality,case
+561,30,0.2,9.4,Adult,Sleep quality,561,193,SA,case
+562,NA,NA,NA,Adult,Sleep duration,562,199,SI,case
+563,40,NA,NA,Adolescent,Sleep disturbance,563,201,SI,case
+564,31,NA,NA,Adolescent,Sleep disturbance,564,201,SI,case
+565,NA,NA,NA,Adult,Insomnia,565,200,SI,case
+566,78,NA,NA,Adolescent,Nightmares,566,202,SI,case
+567,78,NA,NA,Adolescent,Sleep disturbance,567,202,SI,case
+568,78,NA,NA,Adolescent,Sleep duration,568,202,SI,case
+569,90,NA,NA,Adolescent,Nightmares,569,202,SI,case
+570,90,NA,NA,Adolescent,Sleep disturbance,570,202,SI,case
+571,90,NA,NA,Adolescent,Sleep duration,571,202,SI,case
+572,NA,NA,NA,Adult,Insomnia,572,204,SI,case
+573,30,1.88,2.8,Adult,Insomnia,573,210,SA,case
+574,NA,NA,NA,Adolescent,Sleep duration,574,212,SI,case
+575,NA,NA,NA,Adolescent,Sleep duration,575,212,SI,case
+576,NA,NA,NA,Adolescent,Sleep duration,576,212,SI,case
+577,NA,NA,NA,Adolescent,Sleep duration,577,212,SI,case
+578,NA,NA,NA,Adolescent,Sleep duration,578,212,SI,case
+579,203,NA,NA,Adult,Sleep disturbance,579,214,SA,case
+580,NA,NA,NA,Adult,Insomnia,580,218,SD,case
+581,4310,NA,NA,Adult,Insomnia,581,219,SA,case
+582,NA,NA,NA,Adolescent,Sleep duration,582,220,SI,case
+583,NA,NA,NA,Adolescent,Sleep duration,583,220,SI,case
+584,NA,NA,NA,Adolescent,Sleep duration,584,220,SI,case
+585,NA,NA,NA,Adolescent,Sleep duration,585,220,SI,case
+586,NA,NA,NA,Adolescent,Sleep duration,586,220,SI,case
+587,NA,NA,NA,Adolescent,Sleep duration,587,220,SI,case
+588,NA,NA,NA,Adolescent,Sleep duration,588,220,SP,case
+589,NA,NA,NA,Adolescent,Sleep duration,589,220,SP,case
+590,NA,NA,NA,Adolescent,Sleep duration,590,220,SP,case
+591,NA,NA,NA,Adolescent,Sleep duration,591,220,SP,case
+592,NA,NA,NA,Adolescent,Sleep duration,592,220,SP,case
+593,NA,NA,NA,Adolescent,Sleep duration,593,220,SP,case
+594,NA,NA,NA,Adolescent,Sleep duration,594,220,SA,case
+595,NA,NA,NA,Adolescent,Sleep duration,595,220,SA,case
+596,NA,NA,NA,Adolescent,Sleep duration,596,220,SA,case
+597,NA,NA,NA,Adolescent,Sleep duration,597,220,SA,case
+598,NA,NA,NA,Adolescent,Sleep duration,598,220,SA,case
+599,NA,NA,NA,Adolescent,Sleep duration,599,220,SA,case
+600,NA,NA,NA,Adolescent,Sleep duration,600,220,SI,case
+601,NA,NA,NA,Adolescent,Sleep duration,601,220,SI,case
+602,NA,NA,NA,Adolescent,Sleep duration,602,220,SI,case
+603,NA,NA,NA,Adolescent,Sleep duration,603,220,SI,case
+604,NA,NA,NA,Adolescent,Sleep duration,604,220,SI,case
+605,NA,NA,NA,Adolescent,Sleep duration,605,220,SI,case
+606,NA,NA,NA,Adolescent,Sleep duration,606,220,SP,case
+607,NA,NA,NA,Adolescent,Sleep duration,607,220,SP,case
+608,NA,NA,NA,Adolescent,Sleep duration,608,220,SP,case
+609,NA,NA,NA,Adolescent,Sleep duration,609,220,SP,case
+610,NA,NA,NA,Adolescent,Sleep duration,610,220,SP,case
+611,NA,NA,NA,Adolescent,Sleep duration,611,220,SP,case
+612,NA,NA,NA,Adolescent,Sleep duration,612,220,SA,case
+613,NA,NA,NA,Adolescent,Sleep duration,613,220,SA,case
+614,NA,NA,NA,Adolescent,Sleep duration,614,220,SA,case
+615,NA,NA,NA,Adolescent,Sleep duration,615,220,SA,case
+616,NA,NA,NA,Adolescent,Sleep duration,616,220,SA,case
+617,NA,NA,NA,Adolescent,Sleep duration,617,220,SA,case
+618,NA,NA,NA,Adult,Insomnia,618,225,SI,case
+619,NA,NA,NA,Adult,Insomnia,619,225,SI,case
+620,NA,NA,NA,Adult,Nightmares,620,225,SI,case
+621,NA,NA,NA,Adult,Nightmares,621,225,SI,case
+622,NA,NA,NA,Adolescent,Insomnia,622,238,SA,case
+623,NA,NA,NA,Adolescent,Hypersomnia,623,238,SA,case
+624,74,NA,NA,Adult,Sleep disturbance,624,242,SD,case
+625,15,NA,NA,Adult,Insomnia,625,245,SD,case
+626,NA,NA,NA,Adolescent,Sleep quality,626,257,SI,case
+627,29,NA,NA,Adult,Insomia,627,258,SA,case
+628,14,NA,NA,Adult,Nightmares,628,258,SA,case
+629,29,NA,NA,Adult,Insomnia,629,258,SA,case
+630,14,NA,NA,Adult,Nightmares,630,258,SA,case
+631,NA,NA,NA,Adult,Nightmares,631,259,SI,case
+632,NA,NA,NA,Adult,Insomnia,632,259,SI,case
+633,360,NA,NA,Adult,Sleep quality,633,261,SI,case
+634,38,NA,NA,Adolescent,Insomnia,634,263,SA,case
+635,9,NA,NA,Adult,Sleep disorder,635,264,SI,case
+636,NA,NA,NA,Adult,Insomnia,636,271,SI,case
+637,NA,NA,NA,Adult,Nightmares,637,271,SI,case
+638,16,2.87,14.47,Adult,Sleep quality,638,283,SA,case
+639,NA,NA,NA,Adult,Insomnia,639,286,SA,case
+640,NA,NA,NA,Adult,Insomnia,640,286,SA,case
+641,16,0.8,1.4,Adult,Insomnia,641,292,SD,case
+642,16,0.9,1,Adult,Insomnia,642,292,SD,case
+643,16,0.9,1.1,Adult,Insomnia,643,292,SD,case
+644,NA,NA,NA,Adolescent,Insomnia,644,303,SI,case
+645,NA,NA,NA,Adult,Insomnia ,645,304,SI,case
+646,NA,NA,NA,Adult,Insomnia,646,304,SI,case
+647,NA,NA,NA,Adult,Insomnia,647,304,SI,case
+648,NA,NA,NA,Adult,Insomnia,648,304,SI,case
+649,388,NA,NA,Adolescent Adult,Insomnia,649,305,SD,case
+650,388,NA,NA,Adolescent Adult,Insomnia,650,305,SD,case
+651,388,NA,NA,Adolescent Adult,Insomnia,651,305,SD,case
+652,388,NA,NA,Adolescent Adult,Insomnia,652,305,SD,case
+653,NA,NA,NA,Adult,Insomnia,653,307,SI,case
+654,486,NA,NA,Adult,Insomnia,654,308,SA,case
+655,379,NA,NA,Adult,Sleep disorder,655,311,SD,case
+656,NA,NA,NA,Adolescent,Sleep duration,656,27,SI,case
+657,NA,NA,NA,Adolescent,Sleep duration,657,27,SI,case
+658,NA,NA,NA,Adolescent,Sleep duration,658,27,SA,case
+659,NA,NA,NA,Adolescent,Insomnia,659,115,SA,case
+660,NA,NA,NA,Adolescent,Insomnia,660,115,SA,case
+661,NA,NA,NA,Adolescent,Insomnia,661,115,SA,case
+662,NA,NA,NA,Adolescent,Insomnia,662,115,SA,case
+663,NA,NA,NA,Adolescent,Non-restorative sleep,663,115,SA,case
+664,NA,NA,NA,Adolescent,Hypersomnia,664,115,SA,case
+665,28,NA,NA,Adult,Insomnia,665,141,SA,case
+666,28,NA,NA,Adult,Insomnia,666,141,SA,case
+667,28,NA,NA,Adult,Insomnia,667,141,SA,case
+668,28,NA,NA,Adult,Nightmares,668,141,SA,case
+669,4610,NA,NA,Adolescent,Time in bed,669,247,SI,case
+670,6992,NA,NA,Adolescent,Time in bed,670,247,SI,case
+671,8450,NA,NA,Adolescent,Time in bed,671,247,SI,case
+672,7706,NA,NA,Adolescent,Time in bed,672,247,SI,case
+673,4595,NA,NA,Adolescent,Time in bed,673,247,SI,case
+674,1497,NA,NA,Adolescent,Time in bed,674,247,SI,case
+675,299,NA,NA,Adolescent,Time in bed,675,247,SI,case
+676,NA,NA,NA,Adult,Sleep duration,676,62,SD,case
+677,NA,NA,NA,Adult,Sleep duration,677,62,SD,case
+678,NA,NA,NA,Adult,Sleep duration,678,62,SD,case
+679,NA,NA,NA,Adult,Insomnia,679,62,SD,case
+680,NA,NA,NA,Adult,Easily woken,680,62,SD,case
+681,,NA,NA,Adolescent,Sleep latency,1,324,Suicidality,suic
+682,,NA,NA,Adolescent,REM latency,2,324,Suicidality,suic
+683,,NA,NA,Adolescent,REM density,3,324,Suicidality,suic
+684,,NA,NA,Adolescent,Coristol,4,324,Suicidality,suic
+685,,NA,NA,Adolescent,Hypersomnia,5,322,Suicidality,suic
+686,,NA,NA,Adolescent,Insomnia,6,322,Suicidality,suic
+687,,NA,NA,Adolescent,Insomnia,7,321,SI,suic
+688,,NA,NA,Adolescent,Early bedtime,8,319,Suicidality,suic
+689,,NA,NA,Adolescent,Late bedtime,9,319,Suicidality,suic
+690,,NA,NA,Adolescent,Sleep duration,10,319,Suicidality,suic
+691,,NA,NA,Adolescent,Sleep duration,11,319,Suicidality,suic
+692,,NA,NA,Adolescent,Sleep duration,12,319,Suicidality,suic
+693,,NA,NA,Adolescent,Sleep duration,13,319,Suicidality,suic
+694,,NA,NA,Adolescent,Sleep duration,14,319,Suicidality,suic
+695,,NA,NA,Adolescent,Sleep duration,15,319,Suicidality,suic
+696,,NA,NA,Adolescent,Sleep quality ,16,312,SI,suic
+697,,NA,NA,Adolescent,Sleep quality ,17,312,SA,suic
+698,,NA,NA,Adult,Insomnia,18,290,SA,suic
+699,,NA,NA,Adult,Nightmares,19,290,SA,suic
+700,,NA,NA,Adult,Insomnia,20,288,SI,suic
+701,,NA,NA,Adult,Sleep quality,21,287,SI,suic
+702,,NA,NA,Adult,Sleep quality,22,287,SI,suic
+703,,NA,NA,Adult,Sleep latency,23,287,SI,suic
+704,,NA,NA,Adult,Sleep duration,24,287,SI,suic
+705,,NA,NA,Adult,Sleep efficiency,25,287,SI,suic
+706,,NA,NA,Adult,Sleep disturbance,26,287,SI,suic
+707,,NA,NA,Adult,Insomnia,27,280,Suicidality,suic
+708,,NA,NA,Adult,Normal Sleep duation (6-9 hr),28,279,SI,suic
+709,,NA,NA,Adult,Sleep disturbance,29,279,SI,suic
+710,,NA,NA,Adolescent,Insomnia,30,267,SI,suic
+711,,NA,NA,Adolescent,Insomnia,31,267,SI,suic
+712,,NA,NA,Adolescent,Insomnia,32,267,SI,suic
+713,,NA,NA,Adolescent,Circadian reversal,33,267,SI,suic
+714,,NA,NA,Adolescent,Nonrestorative sleep,34,267,SI,suic
+715,,NA,NA,Adolescent,Hypersomnia,35,267,SI,suic
+716,,NA,NA,Adolescent,Insomnia,36,267,SA,suic
+717,,NA,NA,Adolescent,Insomnia,37,267,SA,suic
+718,,NA,NA,Adolescent,Insomnia,38,267,SA,suic
+719,,NA,NA,Adolescent,Circadian reversal,39,267,SA,suic
+720,,NA,NA,Adolescent,Nonrestorative sleep,40,267,SA,suic
+721,,NA,NA,Adolescent,Hypersomnia,41,267,SA,suic
+722,,NA,NA,Adult,Sleep disturbance,42,266,SI,suic
+723,,NA,NA,Adult,Sleep disturbance,43,266,SI,suic
+724,,NA,NA,Adult,Sleep disturbance,44,266,SI,suic
+725,,NA,NA,Adult,Sleep disturbance,45,266,SA,suic
+726,,NA,NA,Adult,Sleep disturbance,46,266,SA,suic
+727,,NA,NA,Adult,Insomnia,47,255,SI,suic
+728,,NA,NA,Adult,Insomnia,48,255,SI,suic
+729,,NA,NA,Adult,Insomnia,49,255,SI,suic
+730,497,NA,NA,Adult,Sleep disturbance,50,248,SI,suic
+731,93,NA,NA,Adult,Sleep disturbance,51,248,,suic
+732,93,NA,NA,Adult,Sleep disturbance,52,248,SA,suic
+733,5498,NA,NA,Adult,Sleep apnea,53,244,SI,suic
+734,,NA,NA,Adult,Poor sleep,54,243,SA,suic
+735,,NA,NA,Adult,Insomnia,55,240,SI,suic
+736,,NA,NA,Adolescent,Sleep duration,56,232,SI,suic
+737,,NA,NA,Adolescent,Sleep duration,57,232,SI,suic
+738,,NA,NA,Adolescent,Sleep duration,58,232,SI,suic
+739,,NA,NA,Adolescent,Sleep duration,59,232,SA,suic
+740,,NA,NA,Adolescent,Sleep duration,60,232,SA,suic
+741,,NA,NA,Adolescent,Sleep duration,61,232,SA,suic
+742,,NA,NA,Adult,Sleep disorder,62,225,SI,suic
+743,,NA,NA,Adult,No sleep disorder,63,225,SI,suic
+744,,NA,NA,Adult,Insomnia,64,209,SI,suic
+745,,NA,NA,Adult,Hypersomnia,65,209,SI,suic
+746,,NA,NA,Adult,Insomnia,66,183,Suicidality,suic
+747,,NA,NA,Adult,Insomnia,67,183,SA,suic
+748,,NA,NA,Adult,Nightmares,68,183,Suicidality,suic
+749,,NA,NA,Adult,Nightmares,69,183,SA,suic
+750,,NA,NA,Adult,Sleep efficiency,70,183,Suicidality,suic
+751,,NA,NA,Adult,Wake after sleep onset,71,183,Suicidality,suic
+752,,NA,NA,Adult,Sleep-onset latency,72,183,Suicidality,suic
+753,,NA,NA,Adult,Total sleep time,73,183,Suicidality,suic
+754,,NA,NA,Adult,Sleep variability,74,183,Suicidality,suic
+755,,NA,NA,Adult,Sleep efficiency,75,183,Suicidality,suic
+756,,NA,NA,Adult,Wake after sleep onset,76,183,Suicidality,suic
+757,,NA,NA,Adult,Sleep-onset latency,77,183,Suicidality,suic
+758,,NA,NA,Adult,Total sleep time,78,183,Suicidality,suic
+759,,NA,NA,Adult,Sleep variability,79,183,Suicidality,suic
+760,,NA,NA,Adult,Sleep disorder,80,171,SD,suic
+761,239,NA,NA,Adolescent,Insomnia,81,166,SI,suic
+762,65,NA,NA,Adolescent,Insomnia,82,166,SP,suic
+763,62,NA,NA,Adolescent,Insomnia,83,166,SA,suic
+764,179,NA,NA,Adolescent,Insomnia,84,166,SI,suic
+765,50,NA,NA,Adolescent,Insomnia,85,166,SP,suic
+766,52,NA,NA,Adolescent,Insomnia,86,166,SA,suic
+767,164,NA,NA,Adolescent,Insomnia,87,166,SI,suic
+768,50,NA,NA,Adolescent,Insomnia,88,166,SP,suic
+769,46,NA,NA,Adolescent,Insomnia,89,166,SA,suic
+770,,NA,NA,Adolescent,Insomnia,90,166,SI,suic
+771,,NA,NA,Adolescent,Insomnia,91,166,SP,suic
+772,,NA,NA,Adolescent,Insomnia,92,166,SA,suic
+773,,NA,NA,Adult,Sleep quality,93,157,Suicidality,suic
+774,,NA,NA,Adult,Sleep quality,94,156,SI,suic
+775,73,NA,NA,Adult,No nightmares,95,152,SD,suic
+776,73,NA,NA,Adult,Nightmares,96,152,SD,suic
+777,13,NA,NA,Adult,Nightmares,97,152,SD,suic
+778,27,NA,NA,Adolescent Adult,Sleep disturbance,98,151,SA,suic
+779,,NA,NA,Adolescent Adult,Insomnia,99,149,SD,suic
+780,,NA,NA,Adolescent Adult,Insomnia,100,149,SD,suic
+781,,NA,NA,Adolescent Adult,Insomnia,101,149,SD,suic
+782,,NA,NA,Adolescent Adult,Insomnia,102,149,SD,suic
+783,,NA,NA,Adult,Insomnia,103,140,SI,suic
+784,,NA,NA,Adult,Insomnia,104,139,SA,suic
+785,,NA,NA,Adult,Time recording,105,136,SA,suic
+786,,NA,NA,Adult,Total sleep time,106,136,SA,suic
+787,,NA,NA,Adult,Sleep latency,107,136,SA,suic
+788,,NA,NA,Adult,Awake,108,136,SA,suic
+789,,NA,NA,Adult,Awake,109,136,SA,suic
+790,,NA,NA,Adult,Awake,110,136,SA,suic
+791,,NA,NA,Adult,Sleep maintenance,111,136,SA,suic
+792,,NA,NA,Adult,Sleep efficiency,112,136,SA,suic
+793,,NA,NA,Adult,Stage 1,113,136,SA,suic
+794,,NA,NA,Adult,Stage 2,114,136,SA,suic
+795,,NA,NA,Adult,Stage 3 ,115,136,SA,suic
+796,,NA,NA,Adult,Stage 4,116,136,SA,suic
+797,,NA,NA,Adult,Delta,117,136,SA,suic
+798,,NA,NA,Adult,REM,118,136,SA,suic
+799,,NA,NA,Adult,REM,119,136,SA,suic
+800,,NA,NA,Adult,REM,120,136,SA,suic
+801,,NA,NA,Adult,REM,121,136,SA,suic
+802,,NA,NA,Adult,REM,122,136,SA,suic
+803,,NA,NA,Adult,REM,123,136,SA,suic
+804,,NA,NA,Adult,REM,124,136,SA,suic
+805,,NA,NA,Adult,REM,125,136,SA,suic
+806,,NA,NA,Adult,REM,126,136,SA,suic
+807,,NA,NA,Adult,REM,127,136,SA,suic
+808,,NA,NA,Adult,REM,128,136,SA,suic
+809,,NA,NA,Adult,REM,129,136,SA,suic
+810,,NA,NA,Adult,REM,130,136,SA,suic
+811,,NA,NA,Adult,REM,131,136,SA,suic
+812,,NA,NA,Adult,REM,132,136,SA,suic
+813,,NA,NA,Adult,REM,133,136,SA,suic
+814,,NA,NA,Adult,REM,134,136,SA,suic
+815,,NA,NA,Adult,REM,135,136,SA,suic
+816,,NA,NA,Adult,REM,136,136,SA,suic
+817,,NA,NA,Adult,REM,137,136,SA,suic
+818,,NA,NA,Adult,REM,138,136,SA,suic
+819,,NA,NA,Adult,REM,139,136,SA,suic
+820,,NA,NA,Adult,REM,140,136,SA,suic
+821,,NA,NA,Adult,REM,141,136,SA,suic
+822,,NA,NA,Adult,REM,142,136,SA,suic
+823,,NA,NA,Adult,REM,143,136,SA,suic
+824,,NA,NA,Adult,REM,144,136,SA,suic
+825,,NA,NA,Adult,REM,145,136,SA,suic
+826,,NA,NA,Adult,REM,146,136,SA,suic
+827,,NA,NA,Adult,REM,147,136,SA,suic
+828,,NA,NA,Adult,REM,148,136,SA,suic
+829,,NA,NA,Adult,REM,149,136,SA,suic
+830,,NA,NA,Adult,REM,150,136,SA,suic
+831,,NA,NA,Adult,REM,151,136,SA,suic
+832,,NA,NA,Adult,REM,152,136,SA,suic
+833,,NA,NA,Adult,REM,153,136,SA,suic
+834,,NA,NA,Adult,REM,154,136,SA,suic
+835,,NA,NA,Adult,REM,155,136,SA,suic
+836,,NA,NA,Adult,REM,156,136,SA,suic
+837,,NA,NA,Adult,REM,157,136,SA,suic
+838,,NA,NA,Adult,REM,158,136,SA,suic
+839,,NA,NA,Adult,Insomnia,159,135,SA,suic
+840,,NA,NA,Adult,Nightmares,160,135,SA,suic
+841,,NA,NA,Adult,Insomnia,161,135,SA,suic
+842,,NA,NA,Adult,Nightmares,162,135,SA,suic
+843,,NA,NA,Adult,Insomnia,163,113,Suicidality,suic
+844,,NA,NA,Adult,Nightmares,164,113,Suicidality,suic
+845,,NA,NA,Adult,Insomnia,165,108,Suicidality,suic
+846,,NA,NA,Adult,Total sleep time,166,108,Suicidality,suic
+847,,NA,NA,Adult,Insomnia,167,64,SA,suic
+848,,NA,NA,Adult,Insomnia,168,64,SA,suic
+849,,NA,NA,Adult,Insomnia,169,65,Suicidality,suic
+850,,NA,NA,Adult,Nightmares,170,65,Suicidality,suic
+851,,NA,NA,Adult,Insomnia,171,67,Suicidality,suic
+852,,NA,NA,Adult,Insomnia,172,67,Suicidality,suic
+853,,NA,NA,Adult,Insomnia,173,67,Suicidality,suic
+854,,NA,NA,Adult,Insomnia,174,68,Suicidality,suic
+855,93,NA,NA,Adult,Insomnia,175,69,SD,suic
+856,,NA,NA,Adolescent,Sleep duration,176,72,SI,suic
+857,,NA,NA,Adult,Sleep quality ,177,75,SA,suic
+858,,NA,NA,Adolescent,Sleep duration,178,80,SI,suic
+859,,NA,NA,Adolescent,Sleep duration,179,80,SI,suic
+860,,NA,NA,Adolescent,Sleep duration,180,80,SI,suic
+861,,NA,NA,Adult,Nightmares,181,88,Suicidality,suic
+862,,NA,NA,Adult,Insomnia,182,88,Suicidality,suic
+863,,NA,NA,Adult,Total sleep time,183,93,SI,suic
+864,,NA,NA,Adult,Total sleep time,184,93,SI,suic
+865,,NA,NA,Adult,Sleep efficiency,185,93,SI,suic
+866,,NA,NA,Adult,Sleep efficiency,186,93,SI,suic
+867,,NA,NA,Adult,Sleep onset latency,187,93,SI,suic
+868,,NA,NA,Adult,Sleep onset latency,188,93,SI,suic
+869,,NA,NA,Adult,Sleep quality,189,93,SI,suic
+870,,NA,NA,Adult,REM,190,77,Suicidality,suic
+871,,NA,NA,Adult,REM,191,77,Suicidality,suic
+872,,NA,NA,Adult,REM,192,77,Suicidality,suic
+873,,NA,NA,Adult,REM,193,77,Suicidality,suic
+874,,NA,NA,Adult,REM,194,77,Suicidality,suic
+875,,NA,NA,Adult,REM,195,77,Suicidality,suic
+876,,NA,NA,Adult,REM,196,77,Suicidality,suic
+877,,NA,NA,Adult,REM,197,77,Suicidality,suic
+878,,NA,NA,Adult,Insomnia,198,92,SA,suic
+879,,NA,NA,Adult,Nightmares,199,92,SA,suic
+880,,NA,NA,Adult,Insomnia,200,92,SA,suic
+881,,NA,NA,Adult,Insomnia + Nightmares,201,92,SA,suic
+882,78,NA,NA,Adult,REM,202,90,SA,suic
+883,78,NA,NA,Adult,REM,203,90,SA,suic
+884,78,NA,NA,Adult,REM,204,90,SA,suic
+885,78,NA,NA,Adult,Slow wave sleep,205,90,SA,suic
+886,57,NA,NA,Adult,Baseline cortisol,206,90,SA,suic
+887,,NA,NA,Adolescent,Insomnia,207,130,SI,suic
+888,,NA,NA,Adolescent,Insomnia,208,130,SA,suic
+889,,NA,NA,Adolescent,Insomnia,209,130,SA,suic
+890,,NA,NA,Adult,Sleep disturbance,210,121,SD,suic
+891,,NA,NA,Adult,Sleep quality,211,70,SA,suic
+892,,NA,NA,Adult,Sleep Disorder,212,169,SI,suic
+893,,NA,NA,Adult,Insomnia,213,169,SI,suic
+894,,NA,NA,Adolescent Adult,Sleep duration,214,61,SI,suic
+895,,NA,NA,Adolescent Adult,Sleep duration,215,61,SA,suic
+896,,NA,NA,Adolescent Adult,Sleep duration,216,61,SI,suic
+897,,NA,NA,Adolescent Adult,Sleep duration,217,61,SA,suic
+898,,NA,NA,Adult,REM,218,3,SI,suic
+899,,NA,NA,Adult,REM,219,3,SI,suic
+900,,NA,NA,Adult,REM,220,3,SI,suic
+901,,NA,NA,Adult,Slow wave sleep,221,3,SI,suic
+902,,NA,NA,Adult,Slow wave sleep,222,3,SI,suic
+903,,NA,NA,Adult,Total Sleep Time,223,3,SI,suic
+904,,NA,NA,Adult,Sleep efficiency,224,3,SI,suic
+905,,NA,NA,Adult,Dreams,225,3,SI,suic
+906,,NA,NA,Adult,Dreams,226,3,SI,suic
+907,,NA,NA,Adult,Dreams,227,3,SI,suic
+908,,NA,NA,Adult,Dreams,228,3,SI,suic
+909,,NA,NA,Adult,Dreams,229,3,SI,suic
+910,,NA,NA,Adult,Dreams,230,3,SI,suic
+911,,NA,NA,Adult,Dreams,231,3,SI,suic
+912,,NA,NA,Adult,Dreams,232,3,SI,suic
+913,,NA,NA,Adult,Dreams,233,3,SI,suic
+914,,NA,NA,Adult,Dreams,234,3,SI,suic
+915,,NA,NA,Adult,Dreams,235,3,SI,suic
+916,,NA,NA,Adult,Dreams,236,3,SI,suic
+917,,NA,NA,Adult,Dreams,237,3,SI,suic
+918,,NA,NA,Adult,Dreams,238,3,SI,suic
+919,,NA,NA,Adult,Dreams,239,3,SI,suic
+920,,NA,NA,Adult,Sleep disturbance,240,5,Suicidality,suic
+921,,NA,NA,Adult,Sleep quality,241,5,Suicidality,suic
+922,,NA,NA,Adult,Sleep latency,242,5,Suicidality,suic
+923,,NA,NA,Adult,Sleep duration,243,5,Suicidality,suic
+924,,NA,NA,Adult,sleep efficiency,244,5,Suicidality,suic
+925,,NA,NA,Adult,Sleep disturbance,245,5,Suicidality,suic
+926,,NA,NA,Adult,Nightmares,246,6,SA,suic
+927,,NA,NA,Adult,Sleep Disorder,247,8,SD,suic
+928,,NA,NA,Adult,sleep quality,248,12,Suicidality,suic
+929,,NA,NA,Adult,Nightmares,249,1,Suicidality,suic
+930,,1.3,4.4,Adult,Insomnia,250,2,Suicidality,suic
+931,,1.3,3.7,Adult,Hypersomnia,251,2,Suicidality,suic
+932,,1.2,2.8,Adult,No Sleep Problem,252,2,Suicidality,suic
+933,33,1.8,2.7,Adult,Sleep disturbance,253,3,Suicidality,suic
+934,,NA,NA,Adult,Insomnia,254,7,SA,suic
+935,,NA,NA,Adult,Insomnia,255,7,SA,suic
+936,,NA,NA,Adult,Insomnia,256,7,SA,suic
+937,,NA,NA,Adult,Nightmares,257,7,SA,suic
+938,2948,NA,NA,Adolescent,Insomnia,258,9,SI,suic
+939,2968,NA,NA,Adolescent,Insomnia,259,9,SP,suic
+940,2991,NA,NA,Adolescent,Insomnia,260,9,SA,suic
+941,,NA,NA,Adult,Insomnia,261,15,SD,suic
+942,,NA,NA,Adult,Insomnia,262,15,SD,suic
+943,,NA,NA,Adult,Insomnia,263,15,SD,suic
+944,,NA,NA,Adult,Nonrestorative sleep,264,15,SD,suic
+945,,NA,NA,Adult,No sleep disorder,265,16,SD,suic
+946,,NA,NA,Adult,Insomnia,266,16,SD,suic
+947,,NA,NA,Adult,Insomnia,267,16,SD,suic
+948,,NA,NA,Adult,Insomnia,268,16,SD,suic
+949,350,0.7,3,Adult,Insomnia,269,17,Suicidality,suic
+950,,NA,NA,Adult,Sleep disturbance,270,13,SI,suic
+951,157,NA,NA,Adult,Sleep problems,271,14,SD,suic
+952,,NA,NA,Adult,Sleep duration,272,18,SA,suic
+953,,NA,NA,Adult,Insomnia,273,19,SI,suic
+954,,NA,NA,Adult,Sleep problems,274,20,SD,suic
+955,183,NA,NA,Adult,Insomnia,275,24,SA,suic
+956,,NA,NA,Adult,Sleep problems,276,31,Suicidality,suic
+957,,NA,NA,Adult,Insomnia,277,32,SI,suic
+958,,NA,NA,Adult,Sleep disturbance,278,32,Suicidality,suic
+959,,NA,NA,Adult,Sleep disturbance,279,32,Suicidality,suic
+960,,NA,NA,Adult,Insomnia,280,36,Suicidality,suic
+961,,NA,NA,Adult,Nightmares,281,36,Suicidality,suic
+962,,NA,NA,Adult,Insomnia,282,51,SA,suic
+963,,NA,NA,Adult,Insomnia,283,51,SI,suic
+964,,NA,NA,Adult,Insomnia,284,42,Suicidality,suic
+965,,NA,NA,Adult,Sleep disturbance,285,42,Suicidality,suic
+966,,NA,NA,Adult,Insomnia,286,42,Suicidality,suic
+967,,NA,NA,Adolescent,Sleep duration,287,39,SI,suic
+968,,NA,NA,Adolescent,Sleep duration,288,39,SP,suic
+969,,NA,NA,Adolescent,Sleep duration,289,39,SA,suic
+970,,NA,NA,Adolescent,Sleep duration,290,39,SI,suic
+971,,NA,NA,Adolescent,Sleep duration,291,39,SP,suic
+972,,NA,NA,Adolescent,Sleep duration,292,39,SA,suic
+973,,NA,NA,Adolescent,Delta,293,35,Suicidality,suic
+974,,NA,NA,Adolescent,Sleep latency,294,35,Suicidality,suic
+975,,NA,NA,Adolescent,Delta,295,35,Suicidality,suic
+976,,NA,NA,Adolescent,GH,296,35,Suicidality,suic
+977,,NA,NA,Adolescent,GH,297,35,Suicidality,suic
+978,,NA,NA,Adolescent,GH,298,35,Suicidality,suic
+979,,NA,NA,Adolescent,GH,299,35,Suicidality,suic
+980,,NA,NA,Adolescent,GH,300,35,Suicidality,suic
+981,,NA,NA,Adolescent,GH,301,35,Suicidality,suic
+982,,NA,NA,Adolescent,GH,302,35,Suicidality,suic
+983,,NA,NA,Adolescent,GH,303,35,Suicidality,suic
+984,,NA,NA,Adolescent,GH,304,35,Suicidality,suic
+985,,NA,NA,Adolescent,GH,305,35,Suicidality,suic
+986,,NA,NA,Adolescent,GH,306,35,Suicidality,suic
+987,,NA,NA,Adolescent,GH,307,35,Suicidality,suic
+988,,NA,NA,Adolescent,GH,308,35,Suicidality,suic
+989,,NA,NA,Adolescent,GH,309,35,Suicidality,suic
+990,,NA,NA,Adolescent,Delta,310,35,Suicidality,suic
+991,,NA,NA,Adolescent,Sleep latency,311,35,Suicidality,suic
+992,,NA,NA,Adolescent,Delta,312,35,Suicidality,suic
+993,,NA,NA,Adolescent,Sleep,313,37,Suicidality,suic
+994,,NA,NA,Adolescent,Time awake,314,37,Suicidality,suic
+995,,NA,NA,Adolescent,Total sleep time,315,37,Suicidality,suic
+996,,NA,NA,Adolescent,Stage 1,316,37,Suicidality,suic
+997,,NA,NA,Adolescent,Stage 2,317,37,Suicidality,suic
+998,,NA,NA,Adolescent,Stage 3,318,37,Suicidality,suic
+999,,NA,NA,Adolescent,Stage 4,319,37,Suicidality,suic
+1000,,NA,NA,Adolescent,REM,320,37,Suicidality,suic
+1001,,NA,NA,Adolescent,REM,321,37,Suicidality,suic
+1002,,NA,NA,Adolescent,REM,322,37,Suicidality,suic
+1003,37,2.4,4.2,Adult,Insomnia,323,45,SI,suic
+1004,37,35.2,410.6,Adult,Total sleep Time,324,45,SI,suic
+1005,37,8.8,10.4,Adult,Sleep latency,325,45,SI,suic
+1006,37,5.7,93.7,Adult,Sleep efficiency,326,45,SI,suic
+1007,37,1.5,3.2,Adult,Awake,327,45,SI,suic
+1008,37,2.8,3.7,Adult,NREM,328,45,SI,suic
+1009,37,6.5,53.1,Adult,NREM,329,45,SI,suic
+1010,37,7.3,16.2,Adult,NREM,330,45,SI,suic
+1011,37,4.3,24.2,Adult,REM,331,45,SI,suic
+1012,37,31,74.9,Adult,REM,332,45,SI,suic
+1013,37,NA,NA,Adult,Beta,333,45,SI,suic
+1014,37,NA,NA,Adult,Alpha,334,45,SI,suic
+1015,37,NA,NA,Adult,Delta,335,45,SI,suic
+1016,37,NA,NA,Adult,Alpha-Delta,336,45,SI,suic
+1017,127,6.6,8.5,Adult,Insomnia,337,50,SA,suic
+1018,127,NA,NA,Adult,Insomnia,338,50,SA,suic
+1019,127,2.7,6.2,Adult,Sleep duration,339,50,SA,suic
+1020,127,NA,NA,Adult,Sleep duration,340,50,SA,suic
+1021,127,NA,NA,Adult,Insomia and sleep duration,341,50,SA,suic
+1022,44,5.6,NA,Adult,Hypersomnia,342,144,SI,suic
+1023,404,2.9,NA,Adult,Insomnia,343,144,SI,suic
+1024,184,4,NA,Adult,Sleep disturbance,344,144,SI,suic
+1025,55,8.3,NA,Adult,No Sleep Problem,345,144,SI,suic
+1026,44,5.9,NA,Adult,Hypersomnia,346,144,SP,suic
+1027,404,2.2,NA,Adult,Insomnia,347,144,SP,suic
+1028,184,3.5,NA,Adult,Sleep disturbance,348,144,SP,suic
+1029,55,2.8,NA,Adult,No Sleep Problem,349,144,SP,suic
+1030,44,5.4,NA,Adult,Hypersomnia,350,144,SA,suic
+1031,404,2.1,NA,Adult,Insomnia,351,144,SA,suic
+1032,184,3,NA,Adult,Sleep disturbance,352,144,SA,suic
+1033,55,2.5,NA,Adult,No Sleep Problem,353,144,SA,suic
+1034,44,11.1,NA,Adult,Hypersomnia,354,144,SA,suic
+1035,404,2.5,NA,Adult,Insomnia,355,144,SA,suic
+1036,184,5.1,NA,Adult,Sleep disturbance,356,144,SA,suic
+1037,55,3.2,NA,Adult,No Sleep Problem,357,144,SA,suic
+1038,,NA,NA,Adult,Sleep disturbance,358,82,SD,suic
+1039,,NA,NA,Adult,Insomnia,359,82,SD,suic
+1040,,NA,NA,Adult,Sleep disturbance,360,82,SD,suic
+1041,,NA,NA,Adult,Insomnia,361,82,SD,suic
+1042,,NA,NA,Adult,Lack of deep sleep,362,82,SD,suic
+1043,,NA,NA,Adult,Day-night reversal,363,82,SD,suic
+1044,,NA,NA,Adult,Sleep disturbance,364,82,SD,suic
+1045,,NA,NA,Adult,Frequency of sleep problems,365,82,SD,suic
+1046,,NA,NA,Adult,Frequency of sleep problems,366,82,SD,suic
+1047,,NA,NA,Adult,Frequency of sleep problems,367,82,SD,suic
+1048,,NA,NA,Adult,Frequency of sleep problems,368,82,SD,suic
+1049,,NA,NA,Adult,Frequency of sleep problems,369,82,SD,suic
+1050,,NA,NA,Adult,Insomnia,370,29,SI,suic
+1051,331,NA,NA,Adult,Sleep disturbance,371,31,Suicidality,suic
+1052,245,NA,NA,Adult,Sleep disturbance,372,31,Suicidality,suic
+1053,80,NA,NA,Adult,Sleep disturbance,373,31,Suicidality,suic
+1054,,NA,NA,Adult,Sleep quality ,374,34,SD,suic
+1055,,NA,NA,Adult,Sleep disturbance,375,44,SD,suic
+1056,,NA,NA,Adolescent,Sleep disturbance,376,52,SI,suic
+1057,,NA,NA,Adolescent,Sleep disturbance,377,52,SI,suic
+1058,,NA,NA,Adolescent,Sleep disturbance,378,52,SI,suic
+1059,48,NA,NA,Adult,Insomnia,379,53,SD,suic
+1060,48,NA,NA,Adult,Insomnia,380,53,SD,suic
+1061,48,NA,NA,Adult,Insomnia,381,53,SD,suic
+1062,48,NA,NA,Adult,Nonrestorative sleep,382,53,SD,suic
+1063,48,NA,NA,Adult,Insomnia,383,53,SD,suic
+1064,,NA,NA,Adolescent,Sleep duration,384,54,SI,suic
+1065,,NA,NA,Adolescent,Sleep duration,385,54,SI,suic
+1066,,NA,NA,Adolescent,Sleep duration,386,54,SI,suic
+1067,,NA,NA,Adolescent,Sleep duration,387,54,SI,suic
+1068,,NA,NA,Adolescent,Sleep duration,388,54,SI,suic
+1069,,NA,NA,Adolescent,Sleep duration,389,54,SI,suic
+1070,,NA,NA,Adolescent,Sleep duration,390,54,SI,suic
+1071,,NA,NA,Adolescent,Sleep disturbance,391,60,SD,suic
+1072,,NA,NA,Adolescent,Insomnia,392,60,SD,suic
+1073,,NA,NA,Adolescent,Insomnia,393,60,SD,suic
+1074,,NA,NA,Adolescent,Insomnia,394,60,SD,suic
+1075,,NA,NA,Adolescent,Insomnia,395,60,SD,suic
+1076,,NA,NA,Adolescent,Circadian Reversal,396,60,SD,suic
+1077,,NA,NA,Adolescent,Non-restorative Sleep,397,60,SD,suic
+1078,,NA,NA,Adolescent,Hypersomnia,398,60,SD,suic
+1079,,NA,NA,Adolescent,Sleep disturbance,399,60,SD,suic
+1080,,NA,NA,Adolescent,Insomnia,400,60,SD,suic
+1081,,NA,NA,Adolescent,Hypersomnia,401,60,SD,suic
+1082,,NA,NA,Adult,Sleep disturbance,402,71,SA,suic
+1083,,NA,NA,Adult,Sleep disturbance,403,71,SA,suic
+1084,,NA,NA,Adult,Sleep disturbance,404,71,SA,suic
+1085,,NA,NA,Adolescent,Nightmares,405,73,SI,suic
+1086,,NA,NA,Adolescent,Sleep disturbance,406,73,SI,suic
+1087,,NA,NA,Adult,Insomnia,407,74,Suicidality,suic
+1088,,NA,NA,Adult,Insomnia,408,76,SI,suic
+1089,,NA,NA,Adult,Insomnia,409,81,SI,suic
+1090,,NA,NA,Adult,Sleep disturbance,410,81,SI,suic
+1091,,NA,NA,Adolescent,Sleep duration,411,84,SA,suic
+1092,,NA,NA,Adolescent,Sleep duration,412,84,SA,suic
+1093,,NA,NA,Adolescent,Sleep duration,413,84,SA,suic
+1094,,NA,NA,Adolescent,Sleep duration,414,84,SA,suic
+1095,,NA,NA,Adolescent,Total sleep time,415,84,SA,suic
+1096,,NA,NA,Adolescent,Total sleep time,416,84,SA,suic
+1097,,NA,NA,Adolescent,Nightmares,417,84,SA,suic
+1098,,NA,NA,Adolescent,Insomnia,418,84,SA,suic
+1099,,NA,NA,Adolescent,Sleep disturbance,419,84,SA,suic
+1100,,NA,NA,Adolescent,Sleep disturbance,420,84,SA,suic
+1101,,NA,NA,Adolescent,Trouble waking,421,84,SA,suic
+1102,,NA,NA,Adolescent,Insomnia,422,84,SA,suic
+1103,,NA,NA,Adolescent,Night awakenings,423,84,SA,suic
+1104,,NA,NA,Adolescent,Sleep disturbance,424,84,SA,suic
+1105,,NA,NA,Adolescent,Trouble waking,425,84,SA,suic
+1106,,NA,NA,Adult,Insomnia,426,86,SI,suic
+1107,,NA,NA,Adult,Night awakenings,427,86,SI,suic
+1108,,NA,NA,Adult,Trouble getting back to sleep,428,86,SI,suic
+1109,,NA,NA,Adult,Sleep onset latency,429,86,SI,suic
+1110,,NA,NA,Adult,Time in bed,430,86,SI,suic
+1111,,NA,NA,Adult,Wake after sleep onset,431,86,SI,suic
+1112,,NA,NA,Adult,Sleep efficiency,432,86,SI,suic
+1113,,NA,NA,Adult,Nightmares,433,86,SI,suic
+1114,,NA,NA,Adult,Nightmares,434,86,SI,suic
+1115,,NA,NA,Adult,REM behavior disorder,435,86,SI,suic
+1116,,NA,NA,Adult,Disruptive noises during sleep,436,86,SI,suic
+1117,,NA,NA,Adult,Sleep quality ,437,87,SI,suic
+1118,,NA,NA,Adult,Nightmares,438,87,SI,suic
+1119,,NA,NA,Adult,Nightmares,439,87,SI,suic
+1120,,NA,NA,Adult,Nightmares,440,87,SI,suic
+1121,,NA,NA,Adult,Sleep quality,441,87,SA,suic
+1122,,NA,NA,Adult,Nightmares,442,87,SA,suic
+1123,,NA,NA,Adult,Nightmares,443,87,SA,suic
+1124,,NA,NA,Adult,Nightmares,444,87,SA,suic
+1125,252,NA,NA,Adult,Nightmares,445,91,SA,suic
+1126,252,NA,NA,Adult,Insomnia,446,91,SA,suic
+1127,252,NA,NA,Adult,Sleep disturbance,447,91,SA,suic
+1128,12,NA,NA,Adult,Nightmares,448,91,SA,suic
+1129,12,NA,NA,Adult,Insomnia,449,91,SA,suic
+1130,12,NA,NA,Adult,Sleep disturbance,450,91,SA,suic
+1131,130,NA,NA,Adult,Insomnia,451,91,SA,suic
+1132,151,NA,NA,Adult,Insomnia,452,91,SA,suic
+1133,480,NA,NA,Adult,Insomnia,453,91,SA,suic
+1134,141,NA,NA,Adult,Nightmares,454,91,SA,suic
+1135,104,NA,NA,Adult,Nightmares,455,91,SA,suic
+1136,173,NA,NA,Adult,Nightmares,456,91,SA,suic
+1137,,NA,NA,Adult,Sleep disturbance,457,94,SA,suic
+1138,,NA,NA,Adolescent,Sleep duration,458,96,SI,suic
+1139,,NA,NA,Adolescent,Sleep duration,459,96,SI,suic
+1140,,NA,NA,Adolescent,Sleep duration,460,96,SI,suic
+1141,,NA,NA,Adolescent,Sleep duration,461,96,SI,suic
+1142,,NA,NA,Adolescent,Nightmares,462,96,SI,suic
+1143,,NA,NA,Adolescent,Nightmares,463,96,SI,suic
+1144,,NA,NA,Adolescent,Nightmares,464,96,SI,suic
+1145,,NA,NA,Adolescent,Insomnia,465,96,SI,suic
+1146,,NA,NA,Adolescent,Insomnia,466,96,SI,suic
+1147,,NA,NA,Adolescent,Insomnia,467,96,SI,suic
+1148,,NA,NA,Adolescent,Insomnia,468,96,SI,suic
+1149,1169,NA,NA,Adult,Sleep duration,469,98,SA,suic
+1150,777,NA,NA,Adult,Sleep duration,470,98,SA,suic
+1151,771,NA,NA,Adult,Sleep duration,471,98,SA,suic
+1152,,NA,NA,Adult,Insomnia,472,105,SD,suic
+1153,,NA,NA,Adult,Hypersomnia,473,105,SD,suic
+1154,1406,NA,NA,Adolescent,Sleep duration,474,107,SI,suic
+1155,371,NA,NA,Adolescent,Sleep duration,475,107,SI,suic
+1156,,NA,NA,Adult,Sleep disturbance,476,110,SI,suic
+1157,,NA,NA,Adult,Sleep disturbance,477,110,SI,suic
+1158,,NA,NA,Adult,Insomnia,478,111,Suicidality,suic
+1159,,NA,NA,Adult,Insomnia,479,111,SA,suic
+1160,,NA,NA,Adult,Nightmares,480,111,Suicidality,suic
+1161,,NA,NA,Adult,Nightmares,481,111,SA,suic
+1162,,NA,NA,Adult,Insomnia,482,111,SA,suic
+1163,,NA,NA,Adult,Nightmares,483,111,SA,suic
+1164,307,NA,NA,Adult,Insomnia,484,112,Suicidality,suic
+1165,307,NA,NA,Adult,Insomnia,485,112,Suicidality,suic
+1166,307,NA,NA,Adult,Nightmares,486,112,Suicidality,suic
+1167,307,NA,NA,Adult,Nightmares,487,112,Suicidality,suic
+1168,74,NA,NA,Adult,Insomnia,488,114,SI,suic
+1169,74,NA,NA,Adult,Nightmares,489,114,SI,suic
+1170,29,NA,NA,Adult,Insomnia,490,116,SI,suic
+1171,17783,NA,NA,Adolescent,Sleep duration,491,118,SI,suic
+1172,17783,NA,NA,Adolescent,Sleep duration,492,118,SI,suic
+1173,17783,NA,NA,Adolescent,Sleep duration,493,118,SI,suic
+1174,17783,NA,NA,Adolescent,Sleep duration,494,118,SI,suic
+1175,17783,NA,NA,Adolescent,Sleep duration,495,118,SI,suic
+1176,17783,NA,NA,Adolescent,Restorative Sleep,496,118,SI,suic
+1177,17783,NA,NA,Adolescent,Restorative Sleep,497,118,SI,suic
+1178,17783,NA,NA,Adolescent,Restorative Sleep,498,118,SI,suic
+1179,4460,NA,NA,Adolescent,Sleep duration,499,118,SA,suic
+1180,4460,NA,NA,Adolescent,Sleep duration,500,118,SA,suic
+1181,4460,NA,NA,Adolescent,Sleep duration,501,118,SA,suic
+1182,4460,NA,NA,Adolescent,Sleep duration,502,118,SA,suic
+1183,4460,NA,NA,Adolescent,Restorative Sleep,503,118,SA,suic
+1184,4460,NA,NA,Adolescent,Restorative Sleep,504,118,SA,suic
+1185,4460,NA,NA,Adolescent,Restorative Sleep,505,118,SA,suic
+1186,4460,NA,NA,Adolescent,Restorative Sleep,506,118,SA,suic
+1187,226,NA,NA,Adult,Insomnia,507,119,SA,suic
+1188,,NA,NA,Adult,Insomnia,508,120,SI,suic
+1189,,NA,NA,Adult,Sleep latency,509,120,SI,suic
+1190,,NA,NA,Adult,Wake after sleep onset,510,120,SI,suic
+1191,,NA,NA,Adult,Night awakenings,511,120,SI,suic
+1192,,NA,NA,Adult,Total sleep time,512,120,SI,suic
+1193,,NA,NA,Adult,Sleep efficiency,513,120,SI,suic
+1194,,NA,NA,Adult,Nocturnal leg jerks,514,120,SI,suic
+1195,,NA,NA,Adult,Insomnia,515,122,SD,suic
+1196,,NA,NA,Adult,Sleep quality,516,123,SI,suic
+1197,,NA,NA,Adult,Sleep disturbance,517,143,SI,suic
+1198,,NA,NA,Adult,Sleep quality,518,143,SI,suic
+1199,,NA,NA,Adult,Sleep latency,519,143,SI,suic
+1200,,NA,NA,Adult,Sleep duration,520,143,SI,suic
+1201,,NA,NA,Adult,Sleep efficiency,521,143,SI,suic
+1202,,NA,NA,Adult,Sleep disturbance,522,143,SI,suic
+1203,,NA,NA,Adult,Sleep quality,523,154,SD,suic
+1204,,NA,NA,Adult,Sleep quality,524,160,Suicidality,suic
+1205,,NA,NA,Adult,Sleep quality,525,161,SI,suic
+1206,,NA,NA,Adult,Sleep latency,526,161,SI,suic
+1207,,NA,NA,Adult,Sleep duration,527,161,SI,suic
+1208,,NA,NA,Adult,Sleep efficiency,528,161,SI,suic
+1209,,NA,NA,Adult,Sleep disturbance,529,161,SI,suic
+1210,,NA,NA,Adult,Sleep disturbance,530,161,SI,suic
+1211,109,NA,NA,Adult,Insomnia,531,163,SI,suic
+1212,39,NA,NA,Adult,Insomnia,532,163,SP,suic
+1213,26,NA,NA,Adult,Insomnia,533,163,SA,suic
+1214,116,NA,NA,Adult,Insomnia,534,163,SI,suic
+1215,29,NA,NA,Adult,Insomnia,535,163,SP,suic
+1216,30,NA,NA,Adult,Insomnia,536,163,SA,suic
+1217,96,NA,NA,Adult,Insomnia,537,163,SI,suic
+1218,33,NA,NA,Adult,Insomnia,538,163,SP,suic
+1219,25,NA,NA,Adult,Insomnia,539,163,SA,suic
+1220,30,NA,NA,Adolescent,Sleep disturbance,540,165,SI,suic
+1221,30,NA,NA,Adolescent,Nightmares,541,165,SI,suic
+1222,71,NA,NA,Adult,Insomnia,542,167,SI,suic
+1223,620,NA,NA,Adult,Sleep duration,543,172,Suicidality,suic
+1224,399,NA,NA,Adult,Circadian Disturbance,544,172,Suicidality,suic
+1225,567,NA,NA,Adolescent,Sleep duration,545,178,SI,suic
+1226,567,NA,NA,Adolescent,Sleep duration,546,178,SI,suic
+1227,567,NA,NA,Adolescent,Sleep duration,547,178,SI,suic
+1228,,NA,NA,Adult,Insomnia,548,179,SD,suic
+1229,200,NA,NA,Adult,Nightwalking,549,187,SI,suic
+1230,200,NA,NA,Adult,Sleep disturbance,550,187,SI,suic
+1231,200,NA,NA,Adult,Sleep quality,551,187,SI,suic
+1232,,NA,NA,Adult,Insomnia,552,188,SA,suic
+1233,,NA,NA,Adult,Insomnia,553,188,SA,suic
+1234,,NA,NA,Adult,Insomnia,554,190,SA,suic
+1235,,NA,NA,Adult,Insomnia,555,190,SA,suic
+1236,,NA,NA,Adult,Insomnia,556,190,SA,suic
+1237,,NA,NA,Adult,Insomnia,557,190,SA,suic
+1238,,NA,NA,Adult,Insomnia,558,190,SA,suic
+1239,,NA,NA,Adult,Insomnia,559,190,SA,suic
+1240,22,NA,NA,Adult,Insomnia,560,192,Suicidality,suic
+1241,,NA,NA,Adult,Sleep quality,561,193,SA,suic
+1242,1,079,NA,NA,Adult,Sleep duration,562,199,SI,suic
+1243,,NA,NA,Adolescent,Sleep disturbance,563,201,SI,suic
+1244,,NA,NA,Adolescent,Sleep disturbance,564,201,SI,suic
+1245,24,NA,NA,Adult,Insomnia,565,200,SI,suic
+1246,,NA,NA,Adolescent,Nightmares,566,202,SI,suic
+1247,,NA,NA,Adolescent,Sleep disturbance,567,202,SI,suic
+1248,,NA,NA,Adolescent,Sleep duration,568,202,SI,suic
+1249,,NA,NA,Adolescent,Nightmares,569,202,SI,suic
+1250,,NA,NA,Adolescent,Sleep disturbance,570,202,SI,suic
+1251,,NA,NA,Adolescent,Sleep duration,571,202,SI,suic
+1252,,NA,NA,Adult,Insomnia,572,204,SI,suic
+1253,,NA,NA,Adult,Insomnia,573,210,SA,suic
+1254,,NA,NA,Adolescent,Sleep duration,574,212,SI,suic
+1255,,NA,NA,Adolescent,Sleep duration,575,212,SI,suic
+1256,,NA,NA,Adolescent,Sleep duration,576,212,SI,suic
+1257,,NA,NA,Adolescent,Sleep duration,577,212,SI,suic
+1258,,NA,NA,Adolescent,Sleep duration,578,212,SI,suic
+1259,,NA,NA,Adult,Sleep disturbance,579,214,SA,suic
+1260,32,NA,NA,Adult,Insomnia,580,218,SD,suic
+1261,,NA,NA,Adult,Insomnia,581,219,SA,suic
+1262,1775,NA,NA,Adolescent,Sleep duration,582,220,SI,suic
+1263,1775,NA,NA,Adolescent,Sleep duration,583,220,SI,suic
+1264,1775,NA,NA,Adolescent,Sleep duration,584,220,SI,suic
+1265,1775,NA,NA,Adolescent,Sleep duration,585,220,SI,suic
+1266,1775,NA,NA,Adolescent,Sleep duration,586,220,SI,suic
+1267,1775,NA,NA,Adolescent,Sleep duration,587,220,SI,suic
+1268,1361,NA,NA,Adolescent,Sleep duration,588,220,SP,suic
+1269,1361,NA,NA,Adolescent,Sleep duration,589,220,SP,suic
+1270,1361,NA,NA,Adolescent,Sleep duration,590,220,SP,suic
+1271,1361,NA,NA,Adolescent,Sleep duration,591,220,SP,suic
+1272,1361,NA,NA,Adolescent,Sleep duration,592,220,SP,suic
+1273,1361,NA,NA,Adolescent,Sleep duration,593,220,SP,suic
+1274,839,NA,NA,Adolescent,Sleep duration,594,220,SA,suic
+1275,839,NA,NA,Adolescent,Sleep duration,595,220,SA,suic
+1276,839,NA,NA,Adolescent,Sleep duration,596,220,SA,suic
+1277,839,NA,NA,Adolescent,Sleep duration,597,220,SA,suic
+1278,839,NA,NA,Adolescent,Sleep duration,598,220,SA,suic
+1279,839,NA,NA,Adolescent,Sleep duration,599,220,SA,suic
+1280,2040,NA,NA,Adolescent,Sleep duration,600,220,SI,suic
+1281,2040,NA,NA,Adolescent,Sleep duration,601,220,SI,suic
+1282,2040,NA,NA,Adolescent,Sleep duration,602,220,SI,suic
+1283,2040,NA,NA,Adolescent,Sleep duration,603,220,SI,suic
+1284,2040,NA,NA,Adolescent,Sleep duration,604,220,SI,suic
+1285,2040,NA,NA,Adolescent,Sleep duration,605,220,SI,suic
+1286,1611,NA,NA,Adolescent,Sleep duration,606,220,SP,suic
+1287,1611,NA,NA,Adolescent,Sleep duration,607,220,SP,suic
+1288,1611,NA,NA,Adolescent,Sleep duration,608,220,SP,suic
+1289,1611,NA,NA,Adolescent,Sleep duration,609,220,SP,suic
+1290,1611,NA,NA,Adolescent,Sleep duration,610,220,SP,suic
+1291,1611,NA,NA,Adolescent,Sleep duration,611,220,SP,suic
+1292,931,NA,NA,Adolescent,Sleep duration,612,220,SA,suic
+1293,931,NA,NA,Adolescent,Sleep duration,613,220,SA,suic
+1294,931,NA,NA,Adolescent,Sleep duration,614,220,SA,suic
+1295,931,NA,NA,Adolescent,Sleep duration,615,220,SA,suic
+1296,931,NA,NA,Adolescent,Sleep duration,616,220,SA,suic
+1297,931,NA,NA,Adolescent,Sleep duration,617,220,SA,suic
+1298,,NA,NA,Adult,Insomnia,618,225,SI,suic
+1299,,NA,NA,Adult,Insomnia,619,225,SI,suic
+1300,,NA,NA,Adult,Nightmares,620,225,SI,suic
+1301,,NA,NA,Adult,Nightmares,621,225,SI,suic
+1302,141,NA,NA,Adolescent,Insomnia,622,238,SA,suic
+1303,141,NA,NA,Adolescent,Hypersomnia,623,238,SA,suic
+1304,,NA,NA,Adult,Sleep disturbance,624,242,SD,suic
+1305,,NA,NA,Adult,Insomnia,625,245,SD,suic
+1306,268,NA,NA,Adolescent,Sleep quality,626,257,SI,suic
+1307,,NA,NA,Adult,Insomia,627,258,SA,suic
+1308,,NA,NA,Adult,Nightmares,628,258,SA,suic
+1309,,NA,NA,Adult,Insomnia,629,258,SA,suic
+1310,,NA,NA,Adult,Nightmares,630,258,SA,suic
+1311,,NA,NA,Adult,Nightmares,631,259,SI,suic
+1312,,NA,NA,Adult,Insomnia,632,259,SI,suic
+1313,,NA,NA,Adult,Sleep quality,633,261,SI,suic
+1314,,NA,NA,Adolescent,Insomnia,634,263,SA,suic
+1315,,NA,NA,Adult,Sleep disorder,635,264,SI,suic
+1316,,NA,NA,Adult,Insomnia,636,271,SI,suic
+1317,,NA,NA,Adult,Nightmares,637,271,SI,suic
+1318,,NA,NA,Adult,Sleep quality,638,283,SA,suic
+1319,264,NA,NA,Adult,Insomnia,639,286,SA,suic
+1320,264,NA,NA,Adult,Insomnia,640,286,SA,suic
+1321,,NA,NA,Adult,Insomnia,641,292,SD,suic
+1322,,NA,NA,Adult,Insomnia,642,292,SD,suic
+1323,,NA,NA,Adult,Insomnia,643,292,SD,suic
+1324,408,NA,NA,Adolescent,Insomnia,644,303,SI,suic
+1325,705,NA,NA,Adult,Insomnia ,645,304,SI,suic
+1326,705,NA,NA,Adult,Insomnia,646,304,SI,suic
+1327,705,NA,NA,Adult,Insomnia,647,304,SI,suic
+1328,705,NA,NA,Adult,Insomnia,648,304,SI,suic
+1329,,NA,NA,Adolescent Adult,Insomnia,649,305,SD,suic
+1330,,NA,NA,Adolescent Adult,Insomnia,650,305,SD,suic
+1331,,NA,NA,Adolescent Adult,Insomnia,651,305,SD,suic
+1332,,NA,NA,Adolescent Adult,Insomnia,652,305,SD,suic
+1333,34,NA,NA,Adult,Insomnia,653,307,SI,suic
+1334,,NA,NA,Adult,Insomnia,654,308,SA,suic
+1335,,NA,NA,Adult,Sleep disorder,655,311,SD,suic
+1336,33,NA,NA,Adolescent,Sleep duration,656,27,SI,suic
+1337,20,NA,NA,Adolescent,Sleep duration,657,27,SI,suic
+1338,5,NA,NA,Adolescent,Sleep duration,658,27,SA,suic
+1339,36,NA,NA,Adolescent,Insomnia,659,115,SA,suic
+1340,,NA,NA,Adolescent,Insomnia,660,115,SA,suic
+1341,,NA,NA,Adolescent,Insomnia,661,115,SA,suic
+1342,,NA,NA,Adolescent,Insomnia,662,115,SA,suic
+1343,,NA,NA,Adolescent,Non-restorative sleep,663,115,SA,suic
+1344,,NA,NA,Adolescent,Hypersomnia,664,115,SA,suic
+1345,,NA,NA,Adult,Insomnia,665,141,SA,suic
+1346,,NA,NA,Adult,Insomnia,666,141,SA,suic
+1347,,NA,NA,Adult,Insomnia,667,141,SA,suic
+1348,,NA,NA,Adult,Nightmares,668,141,SA,suic
+1349,,NA,NA,Adolescent,Time in bed,669,247,SI,suic
+1350,,NA,NA,Adolescent,Time in bed,670,247,SI,suic
+1351,,NA,NA,Adolescent,Time in bed,671,247,SI,suic
+1352,,NA,NA,Adolescent,Time in bed,672,247,SI,suic
+1353,,NA,NA,Adolescent,Time in bed,673,247,SI,suic
+1354,,NA,NA,Adolescent,Time in bed,674,247,SI,suic
+1355,,NA,NA,Adolescent,Time in bed,675,247,SI,suic
+1356,14,NA,NA,Adult,Sleep duration,676,62,SD,suic
+1357,81,NA,NA,Adult,Sleep duration,677,62,SD,suic
+1358,54,NA,NA,Adult,Sleep duration,678,62,SD,suic
+1359,,NA,NA,Adult,Insomnia,679,62,SD,suic
+1360,,NA,NA,Adult,Easily woken,680,62,SD,suic
+1361,NA,NA,NA,Adolescent,Sleep latency,1,324,Suicidality,othergrp
+1362,NA,NA,NA,Adolescent,REM latency,2,324,Suicidality,othergrp
+1363,NA,NA,NA,Adolescent,REM density,3,324,Suicidality,othergrp
+1364,NA,NA,NA,Adolescent,Coristol,4,324,Suicidality,othergrp
+1365,NA,NA,NA,Adolescent,Hypersomnia,5,322,Suicidality,othergrp
+1366,NA,NA,NA,Adolescent,Insomnia,6,322,Suicidality,othergrp
+1367,NA,NA,NA,Adolescent,Insomnia,7,321,SI,othergrp
+1368,NA,NA,NA,Adolescent,Early bedtime,8,319,Suicidality,othergrp
+1369,NA,NA,NA,Adolescent,Late bedtime,9,319,Suicidality,othergrp
+1370,NA,NA,NA,Adolescent,Sleep duration,10,319,Suicidality,othergrp
+1371,NA,NA,NA,Adolescent,Sleep duration,11,319,Suicidality,othergrp
+1372,NA,NA,NA,Adolescent,Sleep duration,12,319,Suicidality,othergrp
+1373,NA,NA,NA,Adolescent,Sleep duration,13,319,Suicidality,othergrp
+1374,NA,NA,NA,Adolescent,Sleep duration,14,319,Suicidality,othergrp
+1375,NA,NA,NA,Adolescent,Sleep duration,15,319,Suicidality,othergrp
+1376,NA,NA,NA,Adolescent,Sleep quality ,16,312,SI,othergrp
+1377,NA,NA,NA,Adolescent,Sleep quality ,17,312,SA,othergrp
+1378,NA,NA,NA,Adult,Insomnia,18,290,SA,othergrp
+1379,NA,NA,NA,Adult,Nightmares,19,290,SA,othergrp
+1380,NA,NA,NA,Adult,Insomnia,20,288,SI,othergrp
+1381,NA,NA,NA,Adult,Sleep quality,21,287,SI,othergrp
+1382,NA,NA,NA,Adult,Sleep quality,22,287,SI,othergrp
+1383,NA,NA,NA,Adult,Sleep latency,23,287,SI,othergrp
+1384,NA,NA,NA,Adult,Sleep duration,24,287,SI,othergrp
+1385,NA,NA,NA,Adult,Sleep efficiency,25,287,SI,othergrp
+1386,NA,NA,NA,Adult,Sleep disturbance,26,287,SI,othergrp
+1387,NA,NA,NA,Adult,Insomnia,27,280,Suicidality,othergrp
+1388,NA,NA,NA,Adult,Normal Sleep duation (6-9 hr),28,279,SI,othergrp
+1389,NA,NA,NA,Adult,Sleep disturbance,29,279,SI,othergrp
+1390,NA,NA,NA,Adolescent,Insomnia,30,267,SI,othergrp
+1391,NA,NA,NA,Adolescent,Insomnia,31,267,SI,othergrp
+1392,NA,NA,NA,Adolescent,Insomnia,32,267,SI,othergrp
+1393,NA,NA,NA,Adolescent,Circadian reversal,33,267,SI,othergrp
+1394,NA,NA,NA,Adolescent,Nonrestorative sleep,34,267,SI,othergrp
+1395,NA,NA,NA,Adolescent,Hypersomnia,35,267,SI,othergrp
+1396,NA,NA,NA,Adolescent,Insomnia,36,267,SA,othergrp
+1397,NA,NA,NA,Adolescent,Insomnia,37,267,SA,othergrp
+1398,NA,NA,NA,Adolescent,Insomnia,38,267,SA,othergrp
+1399,NA,NA,NA,Adolescent,Circadian reversal,39,267,SA,othergrp
+1400,NA,NA,NA,Adolescent,Nonrestorative sleep,40,267,SA,othergrp
+1401,NA,NA,NA,Adolescent,Hypersomnia,41,267,SA,othergrp
+1402,NA,NA,NA,Adult,Sleep disturbance,42,266,SI,othergrp
+1403,NA,NA,NA,Adult,Sleep disturbance,43,266,SI,othergrp
+1404,NA,NA,NA,Adult,Sleep disturbance,44,266,SI,othergrp
+1405,NA,NA,NA,Adult,Sleep disturbance,45,266,SA,othergrp
+1406,NA,NA,NA,Adult,Sleep disturbance,46,266,SA,othergrp
+1407,NA,NA,NA,Adult,Insomnia,47,255,SI,othergrp
+1408,NA,NA,NA,Adult,Insomnia,48,255,SI,othergrp
+1409,NA,NA,NA,Adult,Insomnia,49,255,SI,othergrp
+1410,NA,NA,NA,Adult,Sleep disturbance,50,248,SI,othergrp
+1411,NA,NA,NA,Adult,Sleep disturbance,51,248,,othergrp
+1412,NA,NA,NA,Adult,Sleep disturbance,52,248,SA,othergrp
+1413,NA,NA,NA,Adult,Sleep apnea,53,244,SI,othergrp
+1414,NA,NA,NA,Adult,Poor sleep,54,243,SA,othergrp
+1415,NA,NA,NA,Adult,Insomnia,55,240,SI,othergrp
+1416,NA,NA,NA,Adolescent,Sleep duration,56,232,SI,othergrp
+1417,NA,NA,NA,Adolescent,Sleep duration,57,232,SI,othergrp
+1418,NA,NA,NA,Adolescent,Sleep duration,58,232,SI,othergrp
+1419,NA,NA,NA,Adolescent,Sleep duration,59,232,SA,othergrp
+1420,NA,NA,NA,Adolescent,Sleep duration,60,232,SA,othergrp
+1421,NA,NA,NA,Adolescent,Sleep duration,61,232,SA,othergrp
+1422,NA,NA,NA,Adult,Sleep disorder,62,225,SI,othergrp
+1423,NA,NA,NA,Adult,No sleep disorder,63,225,SI,othergrp
+1424,NA,NA,NA,Adult,Insomnia,64,209,SI,othergrp
+1425,NA,NA,NA,Adult,Hypersomnia,65,209,SI,othergrp
+1426,NA,NA,NA,Adult,Insomnia,66,183,Suicidality,othergrp
+1427,NA,NA,NA,Adult,Insomnia,67,183,SA,othergrp
+1428,NA,NA,NA,Adult,Nightmares,68,183,Suicidality,othergrp
+1429,NA,NA,NA,Adult,Nightmares,69,183,SA,othergrp
+1430,NA,NA,NA,Adult,Sleep efficiency,70,183,Suicidality,othergrp
+1431,NA,NA,NA,Adult,Wake after sleep onset,71,183,Suicidality,othergrp
+1432,NA,NA,NA,Adult,Sleep-onset latency,72,183,Suicidality,othergrp
+1433,NA,NA,NA,Adult,Total sleep time,73,183,Suicidality,othergrp
+1434,NA,NA,NA,Adult,Sleep variability,74,183,Suicidality,othergrp
+1435,NA,NA,NA,Adult,Sleep efficiency,75,183,Suicidality,othergrp
+1436,NA,NA,NA,Adult,Wake after sleep onset,76,183,Suicidality,othergrp
+1437,NA,NA,NA,Adult,Sleep-onset latency,77,183,Suicidality,othergrp
+1438,NA,NA,NA,Adult,Total sleep time,78,183,Suicidality,othergrp
+1439,NA,NA,NA,Adult,Sleep variability,79,183,Suicidality,othergrp
+1440,NA,NA,NA,Adult,Sleep disorder,80,171,SD,othergrp
+1441,NA,NA,NA,Adolescent,Insomnia,81,166,SI,othergrp
+1442,NA,NA,NA,Adolescent,Insomnia,82,166,SP,othergrp
+1443,NA,NA,NA,Adolescent,Insomnia,83,166,SA,othergrp
+1444,NA,NA,NA,Adolescent,Insomnia,84,166,SI,othergrp
+1445,NA,NA,NA,Adolescent,Insomnia,85,166,SP,othergrp
+1446,NA,NA,NA,Adolescent,Insomnia,86,166,SA,othergrp
+1447,NA,NA,NA,Adolescent,Insomnia,87,166,SI,othergrp
+1448,NA,NA,NA,Adolescent,Insomnia,88,166,SP,othergrp
+1449,NA,NA,NA,Adolescent,Insomnia,89,166,SA,othergrp
+1450,NA,NA,NA,Adolescent,Insomnia,90,166,SI,othergrp
+1451,NA,NA,NA,Adolescent,Insomnia,91,166,SP,othergrp
+1452,NA,NA,NA,Adolescent,Insomnia,92,166,SA,othergrp
+1453,NA,NA,NA,Adult,Sleep quality,93,157,Suicidality,othergrp
+1454,NA,NA,NA,Adult,Sleep quality,94,156,SI,othergrp
+1455,NA,NA,NA,Adult,No nightmares,95,152,SD,othergrp
+1456,NA,NA,NA,Adult,Nightmares,96,152,SD,othergrp
+1457,NA,NA,NA,Adult,Nightmares,97,152,SD,othergrp
+1458,NA,NA,NA,Adolescent Adult,Sleep disturbance,98,151,SA,othergrp
+1459,NA,NA,NA,Adolescent Adult,Insomnia,99,149,SD,othergrp
+1460,NA,NA,NA,Adolescent Adult,Insomnia,100,149,SD,othergrp
+1461,NA,NA,NA,Adolescent Adult,Insomnia,101,149,SD,othergrp
+1462,NA,NA,NA,Adolescent Adult,Insomnia,102,149,SD,othergrp
+1463,NA,NA,NA,Adult,Insomnia,103,140,SI,othergrp
+1464,NA,NA,NA,Adult,Insomnia,104,139,SA,othergrp
+1465,21,38.8,424.1,Adult,Time recording,105,136,SA,othergrp
+1466,21,42.5,358.3,Adult,Total sleep time,106,136,SA,othergrp
+1467,21,15.8,23.2,Adult,Sleep latency,107,136,SA,othergrp
+1468,21,43.5,42.7,Adult,Awake,108,136,SA,othergrp
+1469,21,0.1,0.1,Adult,Awake,109,136,SA,othergrp
+1470,21,23.2,22.6,Adult,Awake,110,136,SA,othergrp
+1471,21,9.5,89.7,Adult,Sleep maintenance,111,136,SA,othergrp
+1472,21,8.2,84.7,Adult,Sleep efficiency,112,136,SA,othergrp
+1473,21,4.2,6.7,Adult,Stage 1,113,136,SA,othergrp
+1474,21,9.8,58.6,Adult,Stage 2,114,136,SA,othergrp
+1475,21,5.6,7.3,Adult,Stage 3 ,115,136,SA,othergrp
+1476,21,6.9,3.7,Adult,Stage 4,116,136,SA,othergrp
+1477,21,10.1,11,Adult,Delta,117,136,SA,othergrp
+1478,21,32.1,85.7,Adult,REM,118,136,SA,othergrp
+1479,21,1,3.5,Adult,REM,119,136,SA,othergrp
+1480,21,7.7,23.5,Adult,REM,120,136,SA,othergrp
+1481,21,75.2,122.6,Adult,REM,121,136,SA,othergrp
+1482,21,55.2,62.6,Adult,REM,122,136,SA,othergrp
+1483,21,46.5,44.4,Adult,REM,123,136,SA,othergrp
+1484,21,0.4,1.4,Adult,REM,124,136,SA,othergrp
+1485,21,0.1,0.3,Adult,REM,125,136,SA,othergrp
+1486,21,9.7,21.7,Adult,REM,126,136,SA,othergrp
+1487,21,17.4,29.1,Adult,REM,127,136,SA,othergrp
+1488,21,0.4,1.3,Adult,REM,128,136,SA,othergrp
+1489,21,9,17.2,Adult,REM,129,136,SA,othergrp
+1490,21,17,22.3,Adult,REM,130,136,SA,othergrp
+1491,21,0.4,1.2,Adult,REM,131,136,SA,othergrp
+1492,21,11.3,25.4,Adult,REM,132,136,SA,othergrp
+1493,21,25.3,36.5,Adult,REM,133,136,SA,othergrp
+1494,21,0.4,1.4,Adult,REM,134,136,SA,othergrp
+1495,21,12.6,28.6,Adult,REM,135,136,SA,othergrp
+1496,21,28.9,44.9,Adult,REM,136,136,SA,othergrp
+1497,21,0.5,1.6,Adult,REM,137,136,SA,othergrp
+1498,21,489.4,623.1,Adult,REM,138,136,SA,othergrp
+1499,21,84.8,128.8,Adult,REM,139,136,SA,othergrp
+1500,21,121.7,107.3,Adult,REM,140,136,SA,othergrp
+1501,21,103,128.3,Adult,REM,141,136,SA,othergrp
+1502,21,137.5,202.8,Adult,REM,142,136,SA,othergrp
+1503,21,3.9,7.4,Adult,REM,143,136,SA,othergrp
+1504,21,4,6.2,Adult,REM,144,136,SA,othergrp
+1505,21,3.4,5.5,Adult,REM,145,136,SA,othergrp
+1506,21,3.1,6,Adult,REM,146,136,SA,othergrp
+1507,21,4.4,8.3,Adult,REM,147,136,SA,othergrp
+1508,21,3449.1,6765,Adult,REM,148,136,SA,othergrp
+1509,21,2243.1,2013.9,Adult,REM,149,136,SA,othergrp
+1510,21,946.2,1940.3,Adult,REM,150,136,SA,othergrp
+1511,21,1123.2,1636.8,Adult,REM,151,136,SA,othergrp
+1512,21,588.6,864.9,Adult,REM,152,136,SA,othergrp
+1513,21,13.5,24.7,Adult,REM,153,136,SA,othergrp
+1514,21,18.1,27.6,Adult,REM,154,136,SA,othergrp
+1515,21,17,30.9,Adult,REM,155,136,SA,othergrp
+1516,21,17.6,26.1,Adult,REM,156,136,SA,othergrp
+1517,21,11.6,15.3,Adult,REM,157,136,SA,othergrp
+1518,21,0.4,1,Adult,REM,158,136,SA,othergrp
+1519,NA,NA,NA,Adult,Insomnia,159,135,SA,othergrp
+1520,NA,NA,NA,Adult,Nightmares,160,135,SA,othergrp
+1521,NA,NA,NA,Adult,Insomnia,161,135,SA,othergrp
+1522,NA,NA,NA,Adult,Nightmares,162,135,SA,othergrp
+1523,NA,NA,NA,Adult,Insomnia,163,113,Suicidality,othergrp
+1524,NA,NA,NA,Adult,Nightmares,164,113,Suicidality,othergrp
+1525,NA,NA,NA,Adult,Insomnia,165,108,Suicidality,othergrp
+1526,NA,NA,NA,Adult,Total sleep time,166,108,Suicidality,othergrp
+1527,NA,NA,NA,Adult,Insomnia,167,64,SA,othergrp
+1528,NA,NA,NA,Adult,Insomnia,168,64,SA,othergrp
+1529,NA,NA,NA,Adult,Insomnia,169,65,Suicidality,othergrp
+1530,NA,NA,NA,Adult,Nightmares,170,65,Suicidality,othergrp
+1531,NA,NA,NA,Adult,Insomnia,171,67,Suicidality,othergrp
+1532,NA,NA,NA,Adult,Insomnia,172,67,Suicidality,othergrp
+1533,NA,NA,NA,Adult,Insomnia,173,67,Suicidality,othergrp
+1534,NA,NA,NA,Adult,Insomnia,174,68,Suicidality,othergrp
+1535,NA,NA,NA,Adult,Insomnia,175,69,SD,othergrp
+1536,NA,NA,NA,Adolescent,Sleep duration,176,72,SI,othergrp
+1537,NA,NA,NA,Adult,Sleep quality ,177,75,SA,othergrp
+1538,NA,NA,NA,Adolescent,Sleep duration,178,80,SI,othergrp
+1539,NA,NA,NA,Adolescent,Sleep duration,179,80,SI,othergrp
+1540,NA,NA,NA,Adolescent,Sleep duration,180,80,SI,othergrp
+1541,NA,NA,NA,Adult,Nightmares,181,88,Suicidality,othergrp
+1542,NA,NA,NA,Adult,Insomnia,182,88,Suicidality,othergrp
+1543,NA,NA,NA,Adult,Total sleep time,183,93,SI,othergrp
+1544,NA,NA,NA,Adult,Total sleep time,184,93,SI,othergrp
+1545,NA,NA,NA,Adult,Sleep efficiency,185,93,SI,othergrp
+1546,NA,NA,NA,Adult,Sleep efficiency,186,93,SI,othergrp
+1547,NA,NA,NA,Adult,Sleep onset latency,187,93,SI,othergrp
+1548,NA,NA,NA,Adult,Sleep onset latency,188,93,SI,othergrp
+1549,NA,NA,NA,Adult,Sleep quality,189,93,SI,othergrp
+1550,NA,NA,NA,Adult,REM,190,77,Suicidality,othergrp
+1551,NA,NA,NA,Adult,REM,191,77,Suicidality,othergrp
+1552,NA,NA,NA,Adult,REM,192,77,Suicidality,othergrp
+1553,NA,NA,NA,Adult,REM,193,77,Suicidality,othergrp
+1554,NA,NA,NA,Adult,REM,194,77,Suicidality,othergrp
+1555,NA,NA,NA,Adult,REM,195,77,Suicidality,othergrp
+1556,NA,NA,NA,Adult,REM,196,77,Suicidality,othergrp
+1557,NA,NA,NA,Adult,REM,197,77,Suicidality,othergrp
+1558,313,NA,NA,Adult,Insomnia,198,92,SA,othergrp
+1559,353,NA,NA,Adult,Nightmares,199,92,SA,othergrp
+1560,NA,NA,NA,Adult,Insomnia,200,92,SA,othergrp
+1561,NA,NA,NA,Adult,Insomnia + Nightmares,201,92,SA,othergrp
+1562,NA,NA,NA,Adult,REM,202,90,SA,othergrp
+1563,NA,NA,NA,Adult,REM,203,90,SA,othergrp
+1564,NA,NA,NA,Adult,REM,204,90,SA,othergrp
+1565,NA,NA,NA,Adult,Slow wave sleep,205,90,SA,othergrp
+1566,NA,NA,NA,Adult,Baseline cortisol,206,90,SA,othergrp
+1567,NA,NA,NA,Adolescent,Insomnia,207,130,SI,othergrp
+1568,NA,NA,NA,Adolescent,Insomnia,208,130,SA,othergrp
+1569,NA,NA,NA,Adolescent,Insomnia,209,130,SA,othergrp
+1570,NA,NA,NA,Adult,Sleep disturbance,210,121,SD,othergrp
+1571,50,7.09,10.18,Adult,Sleep quality,211,70,SA,othergrp
+1572,NA,NA,NA,Adult,Sleep Disorder,212,169,SI,othergrp
+1573,NA,NA,NA,Adult,Insomnia,213,169,SI,othergrp
+1574,NA,NA,NA,Adolescent Adult,Sleep duration,214,61,SI,othergrp
+1575,NA,NA,NA,Adolescent Adult,Sleep duration,215,61,SA,othergrp
+1576,NA,NA,NA,Adolescent Adult,Sleep duration,216,61,SI,othergrp
+1577,NA,NA,NA,Adolescent Adult,Sleep duration,217,61,SA,othergrp
+1578,NA,NA,NA,Adult,REM,218,3,SI,othergrp
+1579,NA,NA,NA,Adult,REM,219,3,SI,othergrp
+1580,NA,NA,NA,Adult,REM,220,3,SI,othergrp
+1581,NA,NA,NA,Adult,Slow wave sleep,221,3,SI,othergrp
+1582,NA,NA,NA,Adult,Slow wave sleep,222,3,SI,othergrp
+1583,NA,NA,NA,Adult,Total Sleep Time,223,3,SI,othergrp
+1584,NA,NA,NA,Adult,Sleep efficiency,224,3,SI,othergrp
+1585,NA,NA,NA,Adult,Dreams,225,3,SI,othergrp
+1586,NA,NA,NA,Adult,Dreams,226,3,SI,othergrp
+1587,NA,NA,NA,Adult,Dreams,227,3,SI,othergrp
+1588,NA,NA,NA,Adult,Dreams,228,3,SI,othergrp
+1589,NA,NA,NA,Adult,Dreams,229,3,SI,othergrp
+1590,NA,NA,NA,Adult,Dreams,230,3,SI,othergrp
+1591,NA,NA,NA,Adult,Dreams,231,3,SI,othergrp
+1592,NA,NA,NA,Adult,Dreams,232,3,SI,othergrp
+1593,NA,NA,NA,Adult,Dreams,233,3,SI,othergrp
+1594,NA,NA,NA,Adult,Dreams,234,3,SI,othergrp
+1595,NA,NA,NA,Adult,Dreams,235,3,SI,othergrp
+1596,NA,NA,NA,Adult,Dreams,236,3,SI,othergrp
+1597,NA,NA,NA,Adult,Dreams,237,3,SI,othergrp
+1598,NA,NA,NA,Adult,Dreams,238,3,SI,othergrp
+1599,NA,NA,NA,Adult,Dreams,239,3,SI,othergrp
+1600,NA,NA,NA,Adult,Sleep disturbance,240,5,Suicidality,othergrp
+1601,NA,NA,NA,Adult,Sleep quality,241,5,Suicidality,othergrp
+1602,NA,NA,NA,Adult,Sleep latency,242,5,Suicidality,othergrp
+1603,NA,NA,NA,Adult,Sleep duration,243,5,Suicidality,othergrp
+1604,NA,NA,NA,Adult,sleep efficiency,244,5,Suicidality,othergrp
+1605,NA,NA,NA,Adult,Sleep disturbance,245,5,Suicidality,othergrp
+1606,NA,NA,NA,Adult,Nightmares,246,6,SA,othergrp
+1607,NA,NA,NA,Adult,Sleep Disorder,247,8,SD,othergrp
+1608,199,NA,NA,Adult,sleep quality,248,12,Suicidality,othergrp
+1609,34,1.8,2.9,Adult,Nightmares,249,1,Suicidality,othergrp
+1610,NA,NA,NA,Adult,Insomnia,250,2,Suicidality,othergrp
+1611,NA,NA,NA,Adult,Hypersomnia,251,2,Suicidality,othergrp
+1612,NA,NA,NA,Adult,No Sleep Problem,252,2,Suicidality,othergrp
+1613,34,1.2,2.8,Adult,Sleep disturbance,253,3,Suicidality,othergrp
+1614,NA,NA,NA,Adult,Insomnia,254,7,SA,othergrp
+1615,NA,NA,NA,Adult,Insomnia,255,7,SA,othergrp
+1616,NA,NA,NA,Adult,Insomnia,256,7,SA,othergrp
+1617,NA,NA,NA,Adult,Nightmares,257,7,SA,othergrp
+1618,NA,NA,NA,Adolescent,Insomnia,258,9,SI,othergrp
+1619,NA,NA,NA,Adolescent,Insomnia,259,9,SP,othergrp
+1620,NA,NA,NA,Adolescent,Insomnia,260,9,SA,othergrp
+1621,NA,NA,NA,Adult,Insomnia,261,15,SD,othergrp
+1622,NA,NA,NA,Adult,Insomnia,262,15,SD,othergrp
+1623,NA,NA,NA,Adult,Insomnia,263,15,SD,othergrp
+1624,NA,NA,NA,Adult,Nonrestorative sleep,264,15,SD,othergrp
+1625,NA,NA,NA,Adult,No sleep disorder,265,16,SD,othergrp
+1626,NA,NA,NA,Adult,Insomnia,266,16,SD,othergrp
+1627,NA,NA,NA,Adult,Insomnia,267,16,SD,othergrp
+1628,NA,NA,NA,Adult,Insomnia,268,16,SD,othergrp
+1629,NA,NA,NA,Adult,Insomnia,269,17,Suicidality,othergrp
+1630,NA,NA,NA,Adult,Sleep disturbance,270,13,SI,othergrp
+1631,NA,NA,NA,Adult,Sleep problems,271,14,SD,othergrp
+1632,83,NA,NA,Adult,Sleep duration,272,18,SA,othergrp
+1633,NA,NA,NA,Adult,Insomnia,273,19,SI,othergrp
+1634,16,NA,NA,Adult,Sleep problems,274,20,SD,othergrp
+1635,NA,NA,NA,Adult,Insomnia,275,24,SA,othergrp
+1636,NA,NA,NA,Adult,Sleep problems,276,31,Suicidality,othergrp
+1637,NA,NA,NA,Adult,Insomnia,277,32,SI,othergrp
+1638,NA,NA,NA,Adult,Sleep disturbance,278,32,Suicidality,othergrp
+1639,NA,NA,NA,Adult,Sleep disturbance,279,32,Suicidality,othergrp
+1640,NA,NA,NA,Adult,Insomnia,280,36,Suicidality,othergrp
+1641,NA,NA,NA,Adult,Nightmares,281,36,Suicidality,othergrp
+1642,NA,NA,NA,Adult,Insomnia,282,51,SA,othergrp
+1643,NA,NA,NA,Adult,Insomnia,283,51,SI,othergrp
+1644,NA,NA,NA,Adult,Insomnia,284,42,Suicidality,othergrp
+1645,NA,NA,NA,Adult,Sleep disturbance,285,42,Suicidality,othergrp
+1646,NA,NA,NA,Adult,Insomnia,286,42,Suicidality,othergrp
+1647,NA,NA,NA,Adolescent,Sleep duration,287,39,SI,othergrp
+1648,NA,NA,NA,Adolescent,Sleep duration,288,39,SP,othergrp
+1649,NA,NA,NA,Adolescent,Sleep duration,289,39,SA,othergrp
+1650,NA,NA,NA,Adolescent,Sleep duration,290,39,SI,othergrp
+1651,NA,NA,NA,Adolescent,Sleep duration,291,39,SP,othergrp
+1652,NA,NA,NA,Adolescent,Sleep duration,292,39,SA,othergrp
+1653,23,7.9,14,Adolescent,Delta,293,35,Suicidality,othergrp
+1654,23,20.6,27.8,Adolescent,Sleep latency,294,35,Suicidality,othergrp
+1655,23,30,86.3,Adolescent,Delta,295,35,Suicidality,othergrp
+1656,23,9.5,91.3,Adolescent,GH,296,35,Suicidality,othergrp
+1657,23,9.2,16.3,Adolescent,GH,297,35,Suicidality,othergrp
+1658,23,2.7,2.71,Adolescent,GH,298,35,Suicidality,othergrp
+1659,23,13.9,50,Adolescent,GH,299,35,Suicidality,othergrp
+1660,23,14,53.8,Adolescent,GH,300,35,Suicidality,othergrp
+1661,23,15.6,74.7,Adolescent,GH,301,35,Suicidality,othergrp
+1662,23,0.95,0.53,Adolescent,GH,302,35,Suicidality,othergrp
+1663,NA,NA,NA,Adolescent,GH,303,35,Suicidality,othergrp
+1664,NA,NA,NA,Adolescent,GH,304,35,Suicidality,othergrp
+1665,NA,NA,NA,Adolescent,GH,305,35,Suicidality,othergrp
+1666,NA,NA,NA,Adolescent,GH,306,35,Suicidality,othergrp
+1667,NA,NA,NA,Adolescent,GH,307,35,Suicidality,othergrp
+1668,NA,NA,NA,Adolescent,GH,308,35,Suicidality,othergrp
+1669,NA,NA,NA,Adolescent,GH,309,35,Suicidality,othergrp
+1670,NA,NA,NA,Adolescent,Delta,310,35,Suicidality,othergrp
+1671,NA,NA,NA,Adolescent,Sleep latency,311,35,Suicidality,othergrp
+1672,NA,NA,NA,Adolescent,Delta,312,35,Suicidality,othergrp
+1673,30,21.1,31.6,Adolescent,Sleep,313,37,Suicidality,othergrp
+1674,30,9.6,8.8,Adolescent,Time awake,314,37,Suicidality,othergrp
+1675,30,32.3,455.4,Adolescent,Total sleep time,315,37,Suicidality,othergrp
+1676,30,9.2,18.4,Adolescent,Stage 1,316,37,Suicidality,othergrp
+1677,30,31,221.6,Adolescent,Stage 2,317,37,Suicidality,othergrp
+1678,30,16.6,33.1,Adolescent,Stage 3,318,37,Suicidality,othergrp
+1679,30,31.4,67.6,Adolescent,Stage 4,319,37,Suicidality,othergrp
+1680,30,18.2,114.8,Adolescent,REM,320,37,Suicidality,othergrp
+1681,30,26.9,71.6,Adolescent,REM,321,37,Suicidality,othergrp
+1682,30,0.28,1.38,Adolescent,REM,322,37,Suicidality,othergrp
+1683,47,2,3.4,Adult,Insomnia,323,45,SI,othergrp
+1684,47,31.7,434.9,Adult,Total sleep Time,324,45,SI,othergrp
+1685,47,8.8,9.7,Adult,Sleep latency,325,45,SI,othergrp
+1686,47,4.8,93.5,Adult,Sleep efficiency,326,45,SI,othergrp
+1687,47,2.3,3.6,Adult,Awake,327,45,SI,othergrp
+1688,47,3.4,4.5,Adult,NREM,328,45,SI,othergrp
+1689,47,7.8,53,Adult,NREM,329,45,SI,othergrp
+1690,47,8,14.8,Adult,NREM,330,45,SI,othergrp
+1691,47,5.6,24,Adult,REM,331,45,SI,othergrp
+1692,47,6,87.3,Adult,REM,332,45,SI,othergrp
+1693,NA,NA,NA,Adult,Beta,333,45,SI,othergrp
+1694,NA,NA,NA,Adult,Alpha,334,45,SI,othergrp
+1695,NA,NA,NA,Adult,Delta,335,45,SI,othergrp
+1696,NA,NA,NA,Adult,Alpha-Delta,336,45,SI,othergrp
+1697,NA,NA,NA,Adult,Insomnia,337,50,SA,othergrp
+1698,NA,NA,NA,Adult,Insomnia,338,50,SA,othergrp
+1699,NA,NA,NA,Adult,Sleep duration,339,50,SA,othergrp
+1700,NA,NA,NA,Adult,Sleep duration,340,50,SA,othergrp
+1701,NA,NA,NA,Adult,Insomia and sleep duration,341,50,SA,othergrp
+1702,NA,NA,NA,Adult,Hypersomnia,342,144,SI,othergrp
+1703,NA,NA,NA,Adult,Insomnia,343,144,SI,othergrp
+1704,NA,NA,NA,Adult,Sleep disturbance,344,144,SI,othergrp
+1705,NA,NA,NA,Adult,No Sleep Problem,345,144,SI,othergrp
+1706,NA,NA,NA,Adult,Hypersomnia,346,144,SP,othergrp
+1707,NA,NA,NA,Adult,Insomnia,347,144,SP,othergrp
+1708,NA,NA,NA,Adult,Sleep disturbance,348,144,SP,othergrp
+1709,NA,NA,NA,Adult,No Sleep Problem,349,144,SP,othergrp
+1710,NA,NA,NA,Adult,Hypersomnia,350,144,SA,othergrp
+1711,NA,NA,NA,Adult,Insomnia,351,144,SA,othergrp
+1712,NA,NA,NA,Adult,Sleep disturbance,352,144,SA,othergrp
+1713,NA,NA,NA,Adult,No Sleep Problem,353,144,SA,othergrp
+1714,NA,NA,NA,Adult,Hypersomnia,354,144,SA,othergrp
+1715,NA,NA,NA,Adult,Insomnia,355,144,SA,othergrp
+1716,NA,NA,NA,Adult,Sleep disturbance,356,144,SA,othergrp
+1717,NA,NA,NA,Adult,No Sleep Problem,357,144,SA,othergrp
+1718,NA,NA,NA,Adult,Sleep disturbance,358,82,SD,othergrp
+1719,NA,NA,NA,Adult,Insomnia,359,82,SD,othergrp
+1720,NA,NA,NA,Adult,Sleep disturbance,360,82,SD,othergrp
+1721,NA,NA,NA,Adult,Insomnia,361,82,SD,othergrp
+1722,NA,NA,NA,Adult,Lack of deep sleep,362,82,SD,othergrp
+1723,NA,NA,NA,Adult,Day-night reversal,363,82,SD,othergrp
+1724,NA,NA,NA,Adult,Sleep disturbance,364,82,SD,othergrp
+1725,NA,NA,NA,Adult,Frequency of sleep problems,365,82,SD,othergrp
+1726,NA,NA,NA,Adult,Frequency of sleep problems,366,82,SD,othergrp
+1727,NA,NA,NA,Adult,Frequency of sleep problems,367,82,SD,othergrp
+1728,NA,NA,NA,Adult,Frequency of sleep problems,368,82,SD,othergrp
+1729,NA,NA,NA,Adult,Frequency of sleep problems,369,82,SD,othergrp
+1730,NA,NA,NA,Adult,Insomnia,370,29,SI,othergrp
+1731,NA,NA,NA,Adult,Sleep disturbance,371,31,Suicidality,othergrp
+1732,NA,NA,NA,Adult,Sleep disturbance,372,31,Suicidality,othergrp
+1733,NA,NA,NA,Adult,Sleep disturbance,373,31,Suicidality,othergrp
+1734,NA,NA,NA,Adult,Sleep quality ,374,34,SD,othergrp
+1735,NA,NA,NA,Adult,Sleep disturbance,375,44,SD,othergrp
+1736,NA,NA,NA,Adolescent,Sleep disturbance,376,52,SI,othergrp
+1737,NA,NA,NA,Adolescent,Sleep disturbance,377,52,SI,othergrp
+1738,NA,NA,NA,Adolescent,Sleep disturbance,378,52,SI,othergrp
+1739,NA,NA,NA,Adult,Insomnia,379,53,SD,othergrp
+1740,NA,NA,NA,Adult,Insomnia,380,53,SD,othergrp
+1741,NA,NA,NA,Adult,Insomnia,381,53,SD,othergrp
+1742,NA,NA,NA,Adult,Nonrestorative sleep,382,53,SD,othergrp
+1743,NA,NA,NA,Adult,Insomnia,383,53,SD,othergrp
+1744,NA,NA,NA,Adolescent,Sleep duration,384,54,SI,othergrp
+1745,NA,NA,NA,Adolescent,Sleep duration,385,54,SI,othergrp
+1746,NA,NA,NA,Adolescent,Sleep duration,386,54,SI,othergrp
+1747,NA,NA,NA,Adolescent,Sleep duration,387,54,SI,othergrp
+1748,NA,NA,NA,Adolescent,Sleep duration,388,54,SI,othergrp
+1749,NA,NA,NA,Adolescent,Sleep duration,389,54,SI,othergrp
+1750,NA,NA,NA,Adolescent,Sleep duration,390,54,SI,othergrp
+1751,NA,NA,NA,Adolescent,Sleep disturbance,391,60,SD,othergrp
+1752,NA,NA,NA,Adolescent,Insomnia,392,60,SD,othergrp
+1753,NA,NA,NA,Adolescent,Insomnia,393,60,SD,othergrp
+1754,NA,NA,NA,Adolescent,Insomnia,394,60,SD,othergrp
+1755,NA,NA,NA,Adolescent,Insomnia,395,60,SD,othergrp
+1756,NA,NA,NA,Adolescent,Circadian Reversal,396,60,SD,othergrp
+1757,NA,NA,NA,Adolescent,Non-restorative Sleep,397,60,SD,othergrp
+1758,NA,NA,NA,Adolescent,Hypersomnia,398,60,SD,othergrp
+1759,NA,NA,NA,Adolescent,Sleep disturbance,399,60,SD,othergrp
+1760,NA,NA,NA,Adolescent,Insomnia,400,60,SD,othergrp
+1761,NA,NA,NA,Adolescent,Hypersomnia,401,60,SD,othergrp
+1762,NA,NA,NA,Adult,Sleep disturbance,402,71,SA,othergrp
+1763,NA,NA,NA,Adult,Sleep disturbance,403,71,SA,othergrp
+1764,NA,NA,NA,Adult,Sleep disturbance,404,71,SA,othergrp
+1765,NA,NA,NA,Adolescent,Nightmares,405,73,SI,othergrp
+1766,NA,NA,NA,Adolescent,Sleep disturbance,406,73,SI,othergrp
+1767,NA,NA,NA,Adult,Insomnia,407,74,Suicidality,othergrp
+1768,28,1.72,2.32,Adult,Insomnia,408,76,SI,othergrp
+1769,NA,NA,NA,Adult,Insomnia,409,81,SI,othergrp
+1770,NA,NA,NA,Adult,Sleep disturbance,410,81,SI,othergrp
+1771,NA,NA,NA,Adolescent,Sleep duration,411,84,SA,othergrp
+1772,NA,NA,NA,Adolescent,Sleep duration,412,84,SA,othergrp
+1773,NA,NA,NA,Adolescent,Sleep duration,413,84,SA,othergrp
+1774,NA,NA,NA,Adolescent,Sleep duration,414,84,SA,othergrp
+1775,NA,NA,NA,Adolescent,Total sleep time,415,84,SA,othergrp
+1776,NA,NA,NA,Adolescent,Total sleep time,416,84,SA,othergrp
+1777,NA,NA,NA,Adolescent,Nightmares,417,84,SA,othergrp
+1778,NA,NA,NA,Adolescent,Insomnia,418,84,SA,othergrp
+1779,NA,NA,NA,Adolescent,Sleep disturbance,419,84,SA,othergrp
+1780,NA,NA,NA,Adolescent,Sleep disturbance,420,84,SA,othergrp
+1781,NA,NA,NA,Adolescent,Trouble waking,421,84,SA,othergrp
+1782,NA,NA,NA,Adolescent,Insomnia,422,84,SA,othergrp
+1783,NA,NA,NA,Adolescent,Night awakenings,423,84,SA,othergrp
+1784,NA,NA,NA,Adolescent,Sleep disturbance,424,84,SA,othergrp
+1785,NA,NA,NA,Adolescent,Trouble waking,425,84,SA,othergrp
+1786,NA,NA,NA,Adult,Insomnia,426,86,SI,othergrp
+1787,NA,NA,NA,Adult,Night awakenings,427,86,SI,othergrp
+1788,NA,NA,NA,Adult,Trouble getting back to sleep,428,86,SI,othergrp
+1789,NA,NA,NA,Adult,Sleep onset latency,429,86,SI,othergrp
+1790,NA,NA,NA,Adult,Time in bed,430,86,SI,othergrp
+1791,NA,NA,NA,Adult,Wake after sleep onset,431,86,SI,othergrp
+1792,NA,NA,NA,Adult,Sleep efficiency,432,86,SI,othergrp
+1793,NA,NA,NA,Adult,Nightmares,433,86,SI,othergrp
+1794,NA,NA,NA,Adult,Nightmares,434,86,SI,othergrp
+1795,NA,NA,NA,Adult,REM behavior disorder,435,86,SI,othergrp
+1796,NA,NA,NA,Adult,Disruptive noises during sleep,436,86,SI,othergrp
+1797,NA,NA,NA,Adult,Sleep quality ,437,87,SI,othergrp
+1798,NA,NA,NA,Adult,Nightmares,438,87,SI,othergrp
+1799,NA,NA,NA,Adult,Nightmares,439,87,SI,othergrp
+1800,NA,NA,NA,Adult,Nightmares,440,87,SI,othergrp
+1801,NA,NA,NA,Adult,Sleep quality,441,87,SA,othergrp
+1802,NA,NA,NA,Adult,Nightmares,442,87,SA,othergrp
+1803,NA,NA,NA,Adult,Nightmares,443,87,SA,othergrp
+1804,NA,NA,NA,Adult,Nightmares,444,87,SA,othergrp
+1805,NA,NA,NA,Adult,Nightmares,445,91,SA,othergrp
+1806,NA,NA,NA,Adult,Insomnia,446,91,SA,othergrp
+1807,NA,NA,NA,Adult,Sleep disturbance,447,91,SA,othergrp
+1808,NA,NA,NA,Adult,Nightmares,448,91,SA,othergrp
+1809,NA,NA,NA,Adult,Insomnia,449,91,SA,othergrp
+1810,NA,NA,NA,Adult,Sleep disturbance,450,91,SA,othergrp
+1811,NA,NA,NA,Adult,Insomnia,451,91,SA,othergrp
+1812,NA,NA,NA,Adult,Insomnia,452,91,SA,othergrp
+1813,NA,NA,NA,Adult,Insomnia,453,91,SA,othergrp
+1814,NA,NA,NA,Adult,Nightmares,454,91,SA,othergrp
+1815,NA,NA,NA,Adult,Nightmares,455,91,SA,othergrp
+1816,NA,NA,NA,Adult,Nightmares,456,91,SA,othergrp
+1817,NA,NA,NA,Adult,Sleep disturbance,457,94,SA,othergrp
+1818,NA,NA,NA,Adolescent,Sleep duration,458,96,SI,othergrp
+1819,NA,NA,NA,Adolescent,Sleep duration,459,96,SI,othergrp
+1820,NA,NA,NA,Adolescent,Sleep duration,460,96,SI,othergrp
+1821,NA,NA,NA,Adolescent,Sleep duration,461,96,SI,othergrp
+1822,NA,NA,NA,Adolescent,Nightmares,462,96,SI,othergrp
+1823,NA,NA,NA,Adolescent,Nightmares,463,96,SI,othergrp
+1824,NA,NA,NA,Adolescent,Nightmares,464,96,SI,othergrp
+1825,NA,NA,NA,Adolescent,Insomnia,465,96,SI,othergrp
+1826,NA,NA,NA,Adolescent,Insomnia,466,96,SI,othergrp
+1827,NA,NA,NA,Adolescent,Insomnia,467,96,SI,othergrp
+1828,NA,NA,NA,Adolescent,Insomnia,468,96,SI,othergrp
+1829,NA,NA,NA,Adult,Sleep duration,469,98,SA,othergrp
+1830,NA,NA,NA,Adult,Sleep duration,470,98,SA,othergrp
+1831,NA,NA,NA,Adult,Sleep duration,471,98,SA,othergrp
+1832,NA,NA,NA,Adult,Insomnia,472,105,SD,othergrp
+1833,NA,NA,NA,Adult,Hypersomnia,473,105,SD,othergrp
+1834,NA,NA,NA,Adolescent,Sleep duration,474,107,SI,othergrp
+1835,NA,NA,NA,Adolescent,Sleep duration,475,107,SI,othergrp
+1836,NA,NA,NA,Adult,Sleep disturbance,476,110,SI,othergrp
+1837,NA,NA,NA,Adult,Sleep disturbance,477,110,SI,othergrp
+1838,NA,NA,NA,Adult,Insomnia,478,111,Suicidality,othergrp
+1839,NA,NA,NA,Adult,Insomnia,479,111,SA,othergrp
+1840,NA,NA,NA,Adult,Nightmares,480,111,Suicidality,othergrp
+1841,NA,NA,NA,Adult,Nightmares,481,111,SA,othergrp
+1842,NA,NA,NA,Adult,Insomnia,482,111,SA,othergrp
+1843,NA,NA,NA,Adult,Nightmares,483,111,SA,othergrp
+1844,NA,NA,NA,Adult,Insomnia,484,112,Suicidality,othergrp
+1845,NA,NA,NA,Adult,Insomnia,485,112,Suicidality,othergrp
+1846,NA,NA,NA,Adult,Nightmares,486,112,Suicidality,othergrp
+1847,NA,NA,NA,Adult,Nightmares,487,112,Suicidality,othergrp
+1848,NA,NA,NA,Adult,Insomnia,488,114,SI,othergrp
+1849,NA,NA,NA,Adult,Nightmares,489,114,SI,othergrp
+1850,NA,NA,NA,Adult,Insomnia,490,116,SI,othergrp
+1851,NA,NA,NA,Adolescent,Sleep duration,491,118,SI,othergrp
+1852,NA,NA,NA,Adolescent,Sleep duration,492,118,SI,othergrp
+1853,NA,NA,NA,Adolescent,Sleep duration,493,118,SI,othergrp
+1854,NA,NA,NA,Adolescent,Sleep duration,494,118,SI,othergrp
+1855,NA,NA,NA,Adolescent,Sleep duration,495,118,SI,othergrp
+1856,NA,NA,NA,Adolescent,Restorative Sleep,496,118,SI,othergrp
+1857,NA,NA,NA,Adolescent,Restorative Sleep,497,118,SI,othergrp
+1858,NA,NA,NA,Adolescent,Restorative Sleep,498,118,SI,othergrp
+1859,NA,NA,NA,Adolescent,Sleep duration,499,118,SA,othergrp
+1860,NA,NA,NA,Adolescent,Sleep duration,500,118,SA,othergrp
+1861,NA,NA,NA,Adolescent,Sleep duration,501,118,SA,othergrp
+1862,NA,NA,NA,Adolescent,Sleep duration,502,118,SA,othergrp
+1863,NA,NA,NA,Adolescent,Restorative Sleep,503,118,SA,othergrp
+1864,NA,NA,NA,Adolescent,Restorative Sleep,504,118,SA,othergrp
+1865,NA,NA,NA,Adolescent,Restorative Sleep,505,118,SA,othergrp
+1866,NA,NA,NA,Adolescent,Restorative Sleep,506,118,SA,othergrp
+1867,NA,NA,NA,Adult,Insomnia,507,119,SA,othergrp
+1868,NA,NA,NA,Adult,Insomnia,508,120,SI,othergrp
+1869,NA,NA,NA,Adult,Sleep latency,509,120,SI,othergrp
+1870,NA,NA,NA,Adult,Wake after sleep onset,510,120,SI,othergrp
+1871,NA,NA,NA,Adult,Night awakenings,511,120,SI,othergrp
+1872,NA,NA,NA,Adult,Total sleep time,512,120,SI,othergrp
+1873,NA,NA,NA,Adult,Sleep efficiency,513,120,SI,othergrp
+1874,NA,NA,NA,Adult,Nocturnal leg jerks,514,120,SI,othergrp
+1875,NA,NA,NA,Adult,Insomnia,515,122,SD,othergrp
+1876,NA,NA,NA,Adult,Sleep quality,516,123,SI,othergrp
+1877,NA,NA,NA,Adult,Sleep disturbance,517,143,SI,othergrp
+1878,NA,NA,NA,Adult,Sleep quality,518,143,SI,othergrp
+1879,NA,NA,NA,Adult,Sleep latency,519,143,SI,othergrp
+1880,NA,NA,NA,Adult,Sleep duration,520,143,SI,othergrp
+1881,NA,NA,NA,Adult,Sleep efficiency,521,143,SI,othergrp
+1882,NA,NA,NA,Adult,Sleep disturbance,522,143,SI,othergrp
+1883,NA,NA,NA,Adult,Sleep quality,523,154,SD,othergrp
+1884,NA,NA,NA,Adult,Sleep quality,524,160,Suicidality,othergrp
+1885,NA,NA,NA,Adult,Sleep quality,525,161,SI,othergrp
+1886,NA,NA,NA,Adult,Sleep latency,526,161,SI,othergrp
+1887,NA,NA,NA,Adult,Sleep duration,527,161,SI,othergrp
+1888,NA,NA,NA,Adult,Sleep efficiency,528,161,SI,othergrp
+1889,NA,NA,NA,Adult,Sleep disturbance,529,161,SI,othergrp
+1890,NA,NA,NA,Adult,Sleep disturbance,530,161,SI,othergrp
+1891,119,NA,NA,Adult,Insomnia,531,163,SI,othergrp
+1892,26,NA,NA,Adult,Insomnia,532,163,SP,othergrp
+1893,19,NA,NA,Adult,Insomnia,533,163,SA,othergrp
+1894,113,NA,NA,Adult,Insomnia,534,163,SI,othergrp
+1895,26,NA,NA,Adult,Insomnia,535,163,SP,othergrp
+1896,15,NA,NA,Adult,Insomnia,536,163,SA,othergrp
+1897,133,NA,NA,Adult,Insomnia,537,163,SI,othergrp
+1898,32,NA,NA,Adult,Insomnia,538,163,SP,othergrp
+1899,20,NA,NA,Adult,Insomnia,539,163,SA,othergrp
+1900,NA,NA,NA,Adolescent,Sleep disturbance,540,165,SI,othergrp
+1901,NA,NA,NA,Adolescent,Nightmares,541,165,SI,othergrp
+1902,NA,NA,NA,Adult,Insomnia,542,167,SI,othergrp
+1903,NA,NA,NA,Adult,Sleep duration,543,172,Suicidality,othergrp
+1904,NA,NA,NA,Adult,Circadian Disturbance,544,172,Suicidality,othergrp
+1905,NA,NA,NA,Adolescent,Sleep duration,545,178,SI,othergrp
+1906,NA,NA,NA,Adolescent,Sleep duration,546,178,SI,othergrp
+1907,NA,NA,NA,Adolescent,Sleep duration,547,178,SI,othergrp
+1908,NA,NA,NA,Adult,Insomnia,548,179,SD,othergrp
+1909,NA,NA,NA,Adult,Nightwalking,549,187,SI,othergrp
+1910,NA,NA,NA,Adult,Sleep disturbance,550,187,SI,othergrp
+1911,NA,NA,NA,Adult,Sleep quality,551,187,SI,othergrp
+1912,NA,NA,NA,Adult,Insomnia,552,188,SA,othergrp
+1913,NA,NA,NA,Adult,Insomnia,553,188,SA,othergrp
+1914,NA,NA,NA,Adult,Insomnia,554,190,SA,othergrp
+1915,NA,NA,NA,Adult,Insomnia,555,190,SA,othergrp
+1916,NA,NA,NA,Adult,Insomnia,556,190,SA,othergrp
+1917,NA,NA,NA,Adult,Insomnia,557,190,SA,othergrp
+1918,NA,NA,NA,Adult,Insomnia,558,190,SA,othergrp
+1919,NA,NA,NA,Adult,Insomnia,559,190,SA,othergrp
+1920,NA,NA,NA,Adult,Insomnia,560,192,Suicidality,othergrp
+1921,NA,NA,NA,Adult,Sleep quality,561,193,SA,othergrp
+1922,NA,NA,NA,Adult,Sleep duration,562,199,SI,othergrp
+1923,NA,NA,NA,Adolescent,Sleep disturbance,563,201,SI,othergrp
+1924,NA,NA,NA,Adolescent,Sleep disturbance,564,201,SI,othergrp
+1925,NA,NA,NA,Adult,Insomnia,565,200,SI,othergrp
+1926,38,NA,NA,Adolescent,Nightmares,566,202,SI,othergrp
+1927,38,NA,NA,Adolescent,Sleep disturbance,567,202,SI,othergrp
+1928,38,NA,NA,Adolescent,Sleep duration,568,202,SI,othergrp
+1929,67,NA,NA,Adolescent,Nightmares,569,202,SI,othergrp
+1930,67,NA,NA,Adolescent,Sleep disturbance,570,202,SI,othergrp
+1931,67,NA,NA,Adolescent,Sleep duration,571,202,SI,othergrp
+1932,NA,NA,NA,Adult,Insomnia,572,204,SI,othergrp
+1933,NA,NA,NA,Adult,Insomnia,573,210,SA,othergrp
+1934,NA,NA,NA,Adolescent,Sleep duration,574,212,SI,othergrp
+1935,NA,NA,NA,Adolescent,Sleep duration,575,212,SI,othergrp
+1936,NA,NA,NA,Adolescent,Sleep duration,576,212,SI,othergrp
+1937,NA,NA,NA,Adolescent,Sleep duration,577,212,SI,othergrp
+1938,NA,NA,NA,Adolescent,Sleep duration,578,212,SI,othergrp
+1939,163,NA,NA,Adult,Sleep disturbance,579,214,SA,othergrp
+1940,NA,NA,NA,Adult,Insomnia,580,218,SD,othergrp
+1941,753,NA,NA,Adult,Insomnia,581,219,SA,othergrp
+1942,NA,NA,NA,Adolescent,Sleep duration,582,220,SI,othergrp
+1943,NA,NA,NA,Adolescent,Sleep duration,583,220,SI,othergrp
+1944,NA,NA,NA,Adolescent,Sleep duration,584,220,SI,othergrp
+1945,NA,NA,NA,Adolescent,Sleep duration,585,220,SI,othergrp
+1946,NA,NA,NA,Adolescent,Sleep duration,586,220,SI,othergrp
+1947,NA,NA,NA,Adolescent,Sleep duration,587,220,SI,othergrp
+1948,NA,NA,NA,Adolescent,Sleep duration,588,220,SP,othergrp
+1949,NA,NA,NA,Adolescent,Sleep duration,589,220,SP,othergrp
+1950,NA,NA,NA,Adolescent,Sleep duration,590,220,SP,othergrp
+1951,NA,NA,NA,Adolescent,Sleep duration,591,220,SP,othergrp
+1952,NA,NA,NA,Adolescent,Sleep duration,592,220,SP,othergrp
+1953,NA,NA,NA,Adolescent,Sleep duration,593,220,SP,othergrp
+1954,NA,NA,NA,Adolescent,Sleep duration,594,220,SA,othergrp
+1955,NA,NA,NA,Adolescent,Sleep duration,595,220,SA,othergrp
+1956,NA,NA,NA,Adolescent,Sleep duration,596,220,SA,othergrp
+1957,NA,NA,NA,Adolescent,Sleep duration,597,220,SA,othergrp
+1958,NA,NA,NA,Adolescent,Sleep duration,598,220,SA,othergrp
+1959,NA,NA,NA,Adolescent,Sleep duration,599,220,SA,othergrp
+1960,NA,NA,NA,Adolescent,Sleep duration,600,220,SI,othergrp
+1961,NA,NA,NA,Adolescent,Sleep duration,601,220,SI,othergrp
+1962,NA,NA,NA,Adolescent,Sleep duration,602,220,SI,othergrp
+1963,NA,NA,NA,Adolescent,Sleep duration,603,220,SI,othergrp
+1964,NA,NA,NA,Adolescent,Sleep duration,604,220,SI,othergrp
+1965,NA,NA,NA,Adolescent,Sleep duration,605,220,SI,othergrp
+1966,NA,NA,NA,Adolescent,Sleep duration,606,220,SP,othergrp
+1967,NA,NA,NA,Adolescent,Sleep duration,607,220,SP,othergrp
+1968,NA,NA,NA,Adolescent,Sleep duration,608,220,SP,othergrp
+1969,NA,NA,NA,Adolescent,Sleep duration,609,220,SP,othergrp
+1970,NA,NA,NA,Adolescent,Sleep duration,610,220,SP,othergrp
+1971,NA,NA,NA,Adolescent,Sleep duration,611,220,SP,othergrp
+1972,NA,NA,NA,Adolescent,Sleep duration,612,220,SA,othergrp
+1973,NA,NA,NA,Adolescent,Sleep duration,613,220,SA,othergrp
+1974,NA,NA,NA,Adolescent,Sleep duration,614,220,SA,othergrp
+1975,NA,NA,NA,Adolescent,Sleep duration,615,220,SA,othergrp
+1976,NA,NA,NA,Adolescent,Sleep duration,616,220,SA,othergrp
+1977,NA,NA,NA,Adolescent,Sleep duration,617,220,SA,othergrp
+1978,NA,NA,NA,Adult,Insomnia,618,225,SI,othergrp
+1979,NA,NA,NA,Adult,Insomnia,619,225,SI,othergrp
+1980,NA,NA,NA,Adult,Nightmares,620,225,SI,othergrp
+1981,NA,NA,NA,Adult,Nightmares,621,225,SI,othergrp
+1982,NA,NA,NA,Adolescent,Insomnia,622,238,SA,othergrp
+1983,NA,NA,NA,Adolescent,Hypersomnia,623,238,SA,othergrp
+1984,NA,NA,NA,Adult,Sleep disturbance,624,242,SD,othergrp
+1985,NA,NA,NA,Adult,Insomnia,625,245,SD,othergrp
+1986,NA,NA,NA,Adolescent,Sleep quality,626,257,SI,othergrp
+1987,121,NA,NA,Adult,Insomia,627,258,SA,othergrp
+1988,136,NA,NA,Adult,Nightmares,628,258,SA,othergrp
+1989,121,NA,NA,Adult,Insomnia,629,258,SA,othergrp
+1990,136,NA,NA,Adult,Nightmares,630,258,SA,othergrp
+1991,NA,NA,NA,Adult,Nightmares,631,259,SI,othergrp
+1992,NA,NA,NA,Adult,Insomnia,632,259,SI,othergrp
+1993,NA,NA,NA,Adult,Sleep quality,633,261,SI,othergrp
+1994,NA,NA,NA,Adolescent,Insomnia,634,263,SA,othergrp
+1995,NA,NA,NA,Adult,Sleep disorder,635,264,SI,othergrp
+1996,NA,NA,NA,Adult,Insomnia,636,271,SI,othergrp
+1997,NA,NA,NA,Adult,Nightmares,637,271,SI,othergrp
+1998,36,3.95,11.17,Adult,Sleep quality,638,283,SA,othergrp
+1999,NA,NA,NA,Adult,Insomnia,639,286,SA,othergrp
+2000,NA,NA,NA,Adult,Insomnia,640,286,SA,othergrp
+2001,NA,NA,NA,Adult,Insomnia,641,292,SD,othergrp
+2002,NA,NA,NA,Adult,Insomnia,642,292,SD,othergrp
+2003,NA,NA,NA,Adult,Insomnia,643,292,SD,othergrp
+2004,NA,NA,NA,Adolescent,Insomnia,644,303,SI,othergrp
+2005,273,NA,NA,Adult,Insomnia ,645,304,SI,othergrp
+2006,273,NA,NA,Adult,Insomnia,646,304,SI,othergrp
+2007,273,NA,NA,Adult,Insomnia,647,304,SI,othergrp
+2008,273,NA,NA,Adult,Insomnia,648,304,SI,othergrp
+2009,NA,NA,NA,Adolescent Adult,Insomnia,649,305,SD,othergrp
+2010,NA,NA,NA,Adolescent Adult,Insomnia,650,305,SD,othergrp
+2011,NA,NA,NA,Adolescent Adult,Insomnia,651,305,SD,othergrp
+2012,NA,NA,NA,Adolescent Adult,Insomnia,652,305,SD,othergrp
+2013,NA,NA,NA,Adult,Insomnia,653,307,SI,othergrp
+2014,NA,NA,NA,Adult,Insomnia,654,308,SA,othergrp
+2015,NA,NA,NA,Adult,Sleep disorder,655,311,SD,othergrp
+2016,NA,NA,NA,Adolescent,Sleep duration,656,27,SI,othergrp
+2017,NA,NA,NA,Adolescent,Sleep duration,657,27,SI,othergrp
+2018,NA,NA,NA,Adolescent,Sleep duration,658,27,SA,othergrp
+2019,NA,NA,NA,Adolescent,Insomnia,659,115,SA,othergrp
+2020,NA,NA,NA,Adolescent,Insomnia,660,115,SA,othergrp
+2021,NA,NA,NA,Adolescent,Insomnia,661,115,SA,othergrp
+2022,NA,NA,NA,Adolescent,Insomnia,662,115,SA,othergrp
+2023,NA,NA,NA,Adolescent,Non-restorative sleep,663,115,SA,othergrp
+2024,NA,NA,NA,Adolescent,Hypersomnia,664,115,SA,othergrp
+2025,NA,NA,NA,Adult,Insomnia,665,141,SA,othergrp
+2026,NA,NA,NA,Adult,Insomnia,666,141,SA,othergrp
+2027,NA,NA,NA,Adult,Insomnia,667,141,SA,othergrp
+2028,NA,NA,NA,Adult,Nightmares,668,141,SA,othergrp
+2029,NA,NA,NA,Adolescent,Time in bed,669,247,SI,othergrp
+2030,NA,NA,NA,Adolescent,Time in bed,670,247,SI,othergrp
+2031,NA,NA,NA,Adolescent,Time in bed,671,247,SI,othergrp
+2032,NA,NA,NA,Adolescent,Time in bed,672,247,SI,othergrp
+2033,NA,NA,NA,Adolescent,Time in bed,673,247,SI,othergrp
+2034,NA,NA,NA,Adolescent,Time in bed,674,247,SI,othergrp
+2035,NA,NA,NA,Adolescent,Time in bed,675,247,SI,othergrp
+2036,NA,NA,NA,Adult,Sleep duration,676,62,SD,othergrp
+2037,NA,NA,NA,Adult,Sleep duration,677,62,SD,othergrp
+2038,NA,NA,NA,Adult,Sleep duration,678,62,SD,othergrp
+2039,NA,NA,NA,Adult,Insomnia,679,62,SD,othergrp
+2040,NA,NA,NA,Adult,Easily woken,680,62,SD,othergrp

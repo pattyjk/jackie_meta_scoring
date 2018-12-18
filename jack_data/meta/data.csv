@@ -1,0 +1,302 @@
+population,basicsleepcon,esid,metaid,basicSTB,ctrl.n,ctrl.sd,ctrl.m,treat.n,treat.sd,treat.m,type,yi,vi
+Adolescent Adult,Insomnia,100,149,SD,416,NA,NA,388,NA,NA,case,NA,NA
+Adolescent Adult,Insomnia,101,149,SD,416,NA,NA,388,NA,NA,case,NA,NA
+Adolescent Adult,Insomnia,102,149,SD,416,NA,NA,388,NA,NA,case,NA,NA
+Adolescent Adult,Insomnia,649,305,SD,416,NA,NA,388,NA,NA,case,NA,NA
+Adolescent Adult,Insomnia,650,305,SD,416,NA,NA,388,NA,NA,case,NA,NA
+Adolescent Adult,Insomnia,651,305,SD,416,NA,NA,388,NA,NA,case,NA,NA
+Adolescent Adult,Insomnia,652,305,SD,416,NA,NA,388,NA,NA,case,NA,NA
+Adolescent Adult,Insomnia,99,149,SD,416,NA,NA,388,NA,NA,case,NA,NA
+Adolescent Adult,Sleep disturbance,98,151,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Hypersomnia,35,267,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Hypersomnia,398,60,SD,131,NA,NA,140,NA,NA,case,NA,NA
+Adolescent,Hypersomnia,401,60,SD,131,NA,NA,140,NA,NA,case,NA,NA
+Adolescent,Hypersomnia,41,267,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Hypersomnia,5,322,Suicidality,92,NA,NA,43,NA,NA,case,NA,NA
+Adolescent,Hypersomnia,623,238,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Hypersomnia,664,115,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,207,130,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,208,130,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,209,130,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,258,9,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,259,9,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,260,9,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,30,267,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,31,267,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,32,267,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,36,267,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,37,267,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,38,267,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,392,60,SD,131,NA,NA,140,NA,NA,case,NA,NA
+Adolescent,Insomnia,393,60,SD,131,NA,NA,140,NA,NA,case,NA,NA
+Adolescent,Insomnia,394,60,SD,131,NA,NA,140,NA,NA,case,NA,NA
+Adolescent,Insomnia,395,60,SD,131,NA,NA,140,NA,NA,case,NA,NA
+Adolescent,Insomnia,400,60,SD,131,NA,NA,140,NA,NA,case,NA,NA
+Adolescent,Insomnia,418,84,SA,40,NA,NA,40,NA,NA,case,NA,NA
+Adolescent,Insomnia,422,84,SA,40,NA,NA,40,NA,NA,case,NA,NA
+Adolescent,Insomnia,465,96,SI,1052,NA,NA,167,NA,NA,case,NA,NA
+Adolescent,Insomnia,466,96,SI,1052,NA,NA,167,NA,NA,case,NA,NA
+Adolescent,Insomnia,467,96,SI,1052,NA,NA,167,NA,NA,case,NA,NA
+Adolescent,Insomnia,468,96,SI,1052,NA,NA,167,NA,NA,case,NA,NA
+Adolescent,Insomnia,6,322,Suicidality,92,NA,NA,43,NA,NA,case,NA,NA
+Adolescent,Insomnia,622,238,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,634,263,SA,76,NA,NA,38,NA,NA,case,NA,NA
+Adolescent,Insomnia,644,303,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,659,115,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,660,115,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,661,115,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,662,115,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,7,321,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,81,166,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,82,166,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,83,166,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,84,166,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,85,166,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,86,166,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,87,166,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,88,166,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,89,166,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,90,166,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,91,166,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Insomnia,92,166,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Nightmares,405,73,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Nightmares,417,84,SA,40,NA,NA,40,NA,NA,case,NA,NA
+Adolescent,Nightmares,462,96,SI,1052,NA,NA,167,NA,NA,case,NA,NA
+Adolescent,Nightmares,463,96,SI,1052,NA,NA,167,NA,NA,case,NA,NA
+Adolescent,Nightmares,464,96,SI,1052,NA,NA,167,NA,NA,case,NA,NA
+Adolescent,Nightmares,541,165,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Nightmares,566,202,SI,720,NA,NA,78,NA,NA,case,NA,NA
+Adolescent,Nightmares,569,202,SI,526,NA,NA,90,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,376,52,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,377,52,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,378,52,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,391,60,SD,131,NA,NA,140,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,399,60,SD,131,NA,NA,140,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,406,73,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,419,84,SA,40,NA,NA,40,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,420,84,SA,40,NA,NA,40,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,424,84,SA,40,NA,NA,40,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,540,165,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,563,201,SI,347,NA,NA,40,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,564,201,SI,170,NA,NA,31,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,567,202,SI,720,NA,NA,78,NA,NA,case,NA,NA
+Adolescent,Sleep disturbance,570,202,SI,526,NA,NA,90,NA,NA,case,NA,NA
+Adult,Hypersomnia,251,2,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Hypersomnia,342,144,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Hypersomnia,346,144,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Hypersomnia,350,144,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Hypersomnia,354,144,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Hypersomnia,473,105,SD,81,NA,NA,156,NA,NA,case,NA,NA
+Adult,Hypersomnia,65,209,SI,5887,NA,4,154,NA,NA,case,NA,NA
+Adult,Insomnia,103,140,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,104,139,SA,40,NA,NA,8,NA,NA,case,NA,NA
+Adult,Insomnia,159,135,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,161,135,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,163,113,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,165,108,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,167,64,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,168,64,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,169,65,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,171,67,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,172,67,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,173,67,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,174,68,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,175,69,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,18,290,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,182,88,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,198,92,SA,NA,NA,NA,75,NA,NA,case,NA,NA
+Adult,Insomnia,20,288,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,200,92,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,213,169,SI,75,NA,NA,32,NA,NA,case,NA,NA
+Adult,Insomnia,250,2,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,254,7,SA,72,NA,NA,NA,NA,28,case,NA,NA
+Adult,Insomnia,255,7,SA,72,NA,NA,NA,NA,28,case,NA,NA
+Adult,Insomnia,256,7,SA,72,NA,NA,NA,NA,28,case,NA,NA
+Adult,Insomnia,261,15,SD,400,0.66,1.44,20,0.85,1.9,case,0.277210772584486,0.0105320988188673
+Adult,Insomnia,262,15,SD,400,0.84,1.84,20,0.89,2.2,case,0.178691788743376,0.00870388148541611
+Adult,Insomnia,263,15,SD,400,0.72,1.56,20,0.85,1.75,case,0.114929966673977,0.0123284627460452
+Adult,Insomnia,266,16,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,267,16,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,268,16,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,269,17,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,27,280,Suicidality,863,NA,NA,259,NA,NA,case,NA,NA
+Adult,Insomnia,273,19,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,275,24,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,277,32,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,280,36,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,282,51,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,283,51,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,284,42,Suicidality,29,NA,NA,36,NA,NA,case,NA,NA
+Adult,Insomnia,286,42,Suicidality,29,NA,NA,36,NA,NA,case,NA,NA
+Adult,Insomnia,323,45,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,337,50,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,338,50,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,343,144,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,347,144,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,351,144,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,355,144,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,359,82,SD,145,NA,NA,49,NA,NA,case,NA,NA
+Adult,Insomnia,361,82,SD,145,NA,NA,49,NA,NA,case,NA,NA
+Adult,Insomnia,370,29,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,379,53,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,380,53,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,381,53,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,383,53,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,407,74,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,408,76,SI,35,1.71,2.34,72,1.82,3.49,case,0.399750806844726,0.0190349273014061
+Adult,Insomnia,409,81,SI,215,4.6,7.3,67,6.1,11.1,case,0.419070760163943,0.0063543823487683
+Adult,Insomnia,426,86,SI,1373,6.08,14.51,211,5.7,8.48,case,-0.537127617092285,0.00226917006450582
+Adult,Insomnia,446,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,449,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,451,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,452,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,453,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,47,255,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,472,105,SD,81,NA,NA,156,NA,NA,case,NA,NA
+Adult,Insomnia,478,111,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,479,111,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,48,255,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,482,111,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,484,112,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,485,112,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,488,114,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,49,255,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,490,116,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,507,119,SA,4,NA,NA,46,NA,NA,case,NA,NA
+Adult,Insomnia,508,120,SI,696,NA,NA,71,NA,NA,case,NA,NA
+Adult,Insomnia,515,122,SD,40,NA,NA,40,NA,NA,case,NA,NA
+Adult,Insomnia,531,163,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,532,163,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,533,163,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,534,163,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,535,163,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,536,163,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,537,163,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,538,163,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,539,163,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,542,167,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,548,179,SD,128,NA,NA,64,NA,NA,case,NA,NA
+Adult,Insomnia,55,240,SI,8170,NA,NA,324,NA,NA,case,NA,NA
+Adult,Insomnia,552,188,SA,1394,NA,NA,393,NA,NA,case,NA,NA
+Adult,Insomnia,553,188,SA,203,NA,NA,48,NA,NA,case,NA,NA
+Adult,Insomnia,554,190,SA,4263,NA,NA,249,NA,NA,case,NA,NA
+Adult,Insomnia,555,190,SA,4263,NA,NA,249,NA,NA,case,NA,NA
+Adult,Insomnia,556,190,SA,4263,NA,NA,249,NA,NA,case,NA,NA
+Adult,Insomnia,557,190,SA,4263,NA,NA,616,NA,NA,case,NA,NA
+Adult,Insomnia,558,190,SA,4263,NA,NA,616,NA,NA,case,NA,NA
+Adult,Insomnia,559,190,SA,4263,NA,NA,616,NA,NA,case,NA,NA
+Adult,Insomnia,560,192,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,565,200,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,572,204,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,573,210,SA,30,1.12,1.3,30,1.88,2.8,case,0.767255152713667,0.0397688282413557
+Adult,Insomnia,580,218,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,581,219,SA,205899,NA,NA,4310,NA,NA,case,NA,NA
+Adult,Insomnia,618,225,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,619,225,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,625,245,SD,82,NA,NA,15,NA,NA,case,NA,NA
+Adult,Insomnia,629,258,SA,NA,NA,NA,29,NA,NA,case,NA,NA
+Adult,Insomnia,632,259,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,636,271,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,639,286,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,64,209,SI,5887,NA,13,154,NA,NA,case,NA,NA
+Adult,Insomnia,640,286,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,641,292,SD,262,1,1,16,0.8,1.4,case,0.336472236621213,0.0242249571584359
+Adult,Insomnia,642,292,SD,262,0.9,1.2,16,0.9,1,case,-0.182321556793955,0.0527719465648855
+Adult,Insomnia,643,292,SD,262,0.9,1.1,16,0.9,1.1,case,0,0.0443938868210208
+Adult,Insomnia,646,304,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,647,304,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,648,304,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,653,307,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,654,308,SA,1937,NA,NA,486,NA,NA,case,NA,NA
+Adult,Insomnia,66,183,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,665,141,SA,70,NA,NA,28,NA,NA,case,NA,NA
+Adult,Insomnia,666,141,SA,70,NA,NA,28,NA,NA,case,NA,NA
+Adult,Insomnia,667,141,SA,70,NA,NA,28,NA,NA,case,NA,NA
+Adult,Insomnia,67,183,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Insomnia,679,62,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,160,135,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,162,135,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,164,113,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,170,65,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,181,88,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,19,290,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,199,92,SA,NA,NA,NA,35,NA,NA,case,NA,NA
+Adult,Nightmares,246,6,SA,19,NA,NA,11,NA,NA,case,NA,NA
+Adult,Nightmares,249,1,Suicidality,NA,NA,NA,29,2.1,4.2,case,NA,NA
+Adult,Nightmares,257,7,SA,72,NA,NA,NA,NA,28,case,NA,NA
+Adult,Nightmares,281,36,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,433,86,SI,1373,NA,NA,211,NA,NA,case,NA,NA
+Adult,Nightmares,434,86,SI,1373,6.06,3.32,211,8.26,7.12,case,0.762942942495487,0.00880508862519908
+Adult,Nightmares,438,87,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,439,87,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,440,87,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,442,87,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,443,87,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,444,87,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,445,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,448,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,454,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,455,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,456,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,480,111,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,481,111,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,483,111,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,486,112,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,487,112,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,489,114,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,620,225,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,621,225,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,628,258,SA,NA,NA,NA,14,NA,NA,case,NA,NA
+Adult,Nightmares,630,258,SA,NA,NA,NA,14,NA,NA,case,NA,NA
+Adult,Nightmares,631,259,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,637,271,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,668,141,SA,70,NA,NA,28,NA,NA,case,NA,NA
+Adult,Nightmares,68,183,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,69,183,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,96,152,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Nightmares,97,152,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,210,121,SD,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,240,5,Suicidality,19,3.9,8.3,22,2.9,13.4,case,0.478999192154313,0.0137492973214678
+Adult,Sleep disturbance,245,5,Suicidality,19,0.4,1.6,22,0.6,1.6,case,0,0.00968151913875598
+Adult,Sleep disturbance,253,3,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,26,287,SI,3174,0.5,1,139,0.7,1.3,case,0.262364264467491,0.00216467020564821
+Adult,Sleep disturbance,270,13,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,278,32,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,279,32,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,285,42,Suicidality,29,NA,NA,36,NA,NA,case,NA,NA
+Adult,Sleep disturbance,29,279,SI,9682,NA,NA,1208,NA,NA,case,NA,NA
+Adult,Sleep disturbance,344,144,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,348,144,SP,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,352,144,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,356,144,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,358,82,SD,145,NA,NA,49,NA,NA,case,NA,NA
+Adult,Sleep disturbance,360,82,SD,145,NA,NA,49,NA,NA,case,NA,NA
+Adult,Sleep disturbance,364,82,SD,145,NA,NA,49,NA,NA,case,NA,NA
+Adult,Sleep disturbance,371,31,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,372,31,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,373,31,Suicidality,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,375,44,SD,522,NA,NA,261,NA,NA,case,NA,NA
+Adult,Sleep disturbance,402,71,SA,409,NA,NA,409,NA,NA,case,NA,NA
+Adult,Sleep disturbance,403,71,SA,409,NA,NA,409,NA,NA,case,NA,NA
+Adult,Sleep disturbance,404,71,SA,409,NA,NA,409,NA,NA,case,NA,NA
+Adult,Sleep disturbance,410,81,SI,215,6.9,11.1,67,7.6,15.4,case,0.327422401101295,0.00543232643005437
+Adult,Sleep disturbance,42,266,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,43,266,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,44,266,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,447,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,45,266,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,450,91,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,457,94,SA,43,NA,0.9,43,NA,2.1,case,0.847297860387204,NA
+Adult,Sleep disturbance,46,266,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,476,110,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,477,110,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,50,248,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,51,248,,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,517,143,SI,39,1.07,10.97,12,3.66,12.5,case,0.130564370021116,0.00738826374860426
+Adult,Sleep disturbance,52,248,SA,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,522,143,SI,39,0.56,2,12,0.39,2.2,case,0.0953101798043249,0.00462905806314897
+Adult,Sleep disturbance,529,161,SI,86,0.7,1.4,13,0.7,1.9,case,0.305381649551182,0.0133480592074292
+Adult,Sleep disturbance,530,161,SI,86,4.1,6.2,13,4.8,9.5,case,0.426742506555449,0.0247226989535063
+Adult,Sleep disturbance,550,187,SI,NA,NA,NA,NA,NA,NA,case,NA,NA
+Adult,Sleep disturbance,579,214,SA,NA,NA,NA,203,NA,NA,case,NA,NA
+Adult,Sleep disturbance,624,242,SD,24,NA,NA,74,NA,NA,case,NA,NA

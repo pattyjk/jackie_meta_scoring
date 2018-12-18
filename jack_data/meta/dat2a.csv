@@ -1,0 +1,1006 @@
+esid,ctrl.n,ctrl.sd,ctrl.m,population.x,basicsleepcon.x,metaid.x,basicSTB.x,treat.n,treat.sd,treat.m,population.y,basicsleepcon.y,metaid.y,basicSTB.y,type,yi,vi
+5,92,NA,NA,Adolescent,Hypersomnia,322,Suicidality,43,NA,NA,Adolescent,Hypersomnia,322,Suicidality,case,NA,NA
+5,92,NA,NA,Adolescent,Hypersomnia,322,Suicidality,NA,NA,NA,Adolescent,Hypersomnia,322,Suicidality,othergrp,NA,NA
+5,92,NA,NA,Adolescent,Hypersomnia,322,Suicidality,,NA,NA,Adolescent,Hypersomnia,322,Suicidality,suic,NA,NA
+6,92,NA,NA,Adolescent,Insomnia,322,Suicidality,NA,NA,NA,Adolescent,Insomnia,322,Suicidality,othergrp,NA,NA
+6,92,NA,NA,Adolescent,Insomnia,322,Suicidality,43,NA,NA,Adolescent,Insomnia,322,Suicidality,case,NA,NA
+6,92,NA,NA,Adolescent,Insomnia,322,Suicidality,,NA,NA,Adolescent,Insomnia,322,Suicidality,suic,NA,NA
+7,NA,NA,NA,Adolescent,Insomnia,321,SI,NA,NA,NA,Adolescent,Insomnia,321,SI,othergrp,NA,NA
+7,NA,NA,NA,Adolescent,Insomnia,321,SI,,NA,NA,Adolescent,Insomnia,321,SI,suic,NA,NA
+7,NA,NA,NA,Adolescent,Insomnia,321,SI,NA,NA,NA,Adolescent,Insomnia,321,SI,case,NA,NA
+18,NA,NA,NA,Adult,Insomnia,290,SA,,NA,NA,Adult,Insomnia,290,SA,suic,NA,NA
+18,NA,NA,NA,Adult,Insomnia,290,SA,NA,NA,NA,Adult,Insomnia,290,SA,othergrp,NA,NA
+18,NA,NA,NA,Adult,Insomnia,290,SA,NA,NA,NA,Adult,Insomnia,290,SA,case,NA,NA
+19,NA,NA,NA,Adult,Nightmares,290,SA,NA,NA,NA,Adult,Nightmares,290,SA,othergrp,NA,NA
+19,NA,NA,NA,Adult,Nightmares,290,SA,NA,NA,NA,Adult,Nightmares,290,SA,case,NA,NA
+19,NA,NA,NA,Adult,Nightmares,290,SA,,NA,NA,Adult,Nightmares,290,SA,suic,NA,NA
+20,NA,NA,NA,Adult,Insomnia,288,SI,NA,NA,NA,Adult,Insomnia,288,SI,othergrp,NA,NA
+20,NA,NA,NA,Adult,Insomnia,288,SI,NA,NA,NA,Adult,Insomnia,288,SI,case,NA,NA
+20,NA,NA,NA,Adult,Insomnia,288,SI,,NA,NA,Adult,Insomnia,288,SI,suic,NA,NA
+21,3174,4.3,6.4,Adult,Sleep disturbance,287,SI,NA,NA,NA,Adult,Sleep quality,287,SI,othergrp,NA,NA
+21,3174,4.3,6.4,Adult,Sleep disturbance,287,SI,139,5.3,9.6,Adult,Sleep quality,287,SI,case,0.405465108108164,0.00233500009568196
+21,3174,4.3,6.4,Adult,Sleep disturbance,287,SI,,NA,NA,Adult,Sleep quality,287,SI,suic,NA,NA
+22,3174,0.8,1.1,Adult,Sleep disturbance,287,SI,139,1,1.7,Adult,Sleep quality,287,SI,case,0.435318071257845,0.0026560012270353
+22,3174,0.8,1.1,Adult,Sleep disturbance,287,SI,,NA,NA,Adult,Sleep quality,287,SI,suic,NA,NA
+22,3174,0.8,1.1,Adult,Sleep disturbance,287,SI,NA,NA,NA,Adult,Sleep quality,287,SI,othergrp,NA,NA
+26,3174,0.5,1,Adult,Sleep disturbance,287,SI,139,0.7,1.3,Adult,Sleep disturbance,287,SI,case,0.262364264467491,0.00216467020564821
+26,3174,0.5,1,Adult,Sleep disturbance,287,SI,,NA,NA,Adult,Sleep disturbance,287,SI,suic,NA,NA
+26,3174,0.5,1,Adult,Sleep disturbance,287,SI,NA,NA,NA,Adult,Sleep disturbance,287,SI,othergrp,NA,NA
+27,863,NA,NA,Adult,Insomnia,280,Suicidality,,NA,NA,Adult,Insomnia,280,Suicidality,suic,NA,NA
+27,863,NA,NA,Adult,Insomnia,280,Suicidality,NA,NA,NA,Adult,Insomnia,280,Suicidality,othergrp,NA,NA
+27,863,NA,NA,Adult,Insomnia,280,Suicidality,259,NA,NA,Adult,Insomnia,280,Suicidality,case,NA,NA
+29,9682,NA,NA,Adult,Sleep disturbance,279,SI,1208,NA,NA,Adult,Sleep disturbance,279,SI,case,NA,NA
+29,9682,NA,NA,Adult,Sleep disturbance,279,SI,,NA,NA,Adult,Sleep disturbance,279,SI,suic,NA,NA
+29,9682,NA,NA,Adult,Sleep disturbance,279,SI,NA,NA,NA,Adult,Sleep disturbance,279,SI,othergrp,NA,NA
+30,NA,NA,NA,Adolescent,Insomnia,267,SI,NA,NA,NA,Adolescent,Insomnia,267,SI,case,NA,NA
+30,NA,NA,NA,Adolescent,Insomnia,267,SI,,NA,NA,Adolescent,Insomnia,267,SI,suic,NA,NA
+30,NA,NA,NA,Adolescent,Insomnia,267,SI,NA,NA,NA,Adolescent,Insomnia,267,SI,othergrp,NA,NA
+31,NA,NA,NA,Adolescent,Insomnia,267,SI,NA,NA,NA,Adolescent,Insomnia,267,SI,case,NA,NA
+31,NA,NA,NA,Adolescent,Insomnia,267,SI,,NA,NA,Adolescent,Insomnia,267,SI,suic,NA,NA
+31,NA,NA,NA,Adolescent,Insomnia,267,SI,NA,NA,NA,Adolescent,Insomnia,267,SI,othergrp,NA,NA
+32,NA,NA,NA,Adolescent,Insomnia,267,SI,NA,NA,NA,Adolescent,Insomnia,267,SI,case,NA,NA
+32,NA,NA,NA,Adolescent,Insomnia,267,SI,,NA,NA,Adolescent,Insomnia,267,SI,suic,NA,NA
+32,NA,NA,NA,Adolescent,Insomnia,267,SI,NA,NA,NA,Adolescent,Insomnia,267,SI,othergrp,NA,NA
+33,NA,NA,NA,Adolescent,Sleep disturbance,267,SI,NA,NA,NA,Adolescent,Circadian reversal,267,SI,case,NA,NA
+33,NA,NA,NA,Adolescent,Sleep disturbance,267,SI,,NA,NA,Adolescent,Circadian reversal,267,SI,suic,NA,NA
+33,NA,NA,NA,Adolescent,Sleep disturbance,267,SI,NA,NA,NA,Adolescent,Circadian reversal,267,SI,othergrp,NA,NA
+34,NA,NA,NA,Adolescent,Sleep disturbance,267,SI,NA,NA,NA,Adolescent,Nonrestorative sleep,267,SI,othergrp,NA,NA
+34,NA,NA,NA,Adolescent,Sleep disturbance,267,SI,NA,NA,NA,Adolescent,Nonrestorative sleep,267,SI,case,NA,NA
+34,NA,NA,NA,Adolescent,Sleep disturbance,267,SI,,NA,NA,Adolescent,Nonrestorative sleep,267,SI,suic,NA,NA
+35,NA,NA,NA,Adolescent,Hypersomnia,267,SI,NA,NA,NA,Adolescent,Hypersomnia,267,SI,othergrp,NA,NA
+35,NA,NA,NA,Adolescent,Hypersomnia,267,SI,NA,NA,NA,Adolescent,Hypersomnia,267,SI,case,NA,NA
+35,NA,NA,NA,Adolescent,Hypersomnia,267,SI,,NA,NA,Adolescent,Hypersomnia,267,SI,suic,NA,NA
+36,NA,NA,NA,Adolescent,Insomnia,267,SA,,NA,NA,Adolescent,Insomnia,267,SA,suic,NA,NA
+36,NA,NA,NA,Adolescent,Insomnia,267,SA,NA,NA,NA,Adolescent,Insomnia,267,SA,othergrp,NA,NA
+36,NA,NA,NA,Adolescent,Insomnia,267,SA,NA,NA,NA,Adolescent,Insomnia,267,SA,case,NA,NA
+37,NA,NA,NA,Adolescent,Insomnia,267,SA,NA,NA,NA,Adolescent,Insomnia,267,SA,case,NA,NA
+37,NA,NA,NA,Adolescent,Insomnia,267,SA,,NA,NA,Adolescent,Insomnia,267,SA,suic,NA,NA
+37,NA,NA,NA,Adolescent,Insomnia,267,SA,NA,NA,NA,Adolescent,Insomnia,267,SA,othergrp,NA,NA
+38,NA,NA,NA,Adolescent,Insomnia,267,SA,NA,NA,NA,Adolescent,Insomnia,267,SA,case,NA,NA
+38,NA,NA,NA,Adolescent,Insomnia,267,SA,NA,NA,NA,Adolescent,Insomnia,267,SA,othergrp,NA,NA
+38,NA,NA,NA,Adolescent,Insomnia,267,SA,,NA,NA,Adolescent,Insomnia,267,SA,suic,NA,NA
+39,NA,NA,NA,Adolescent,Sleep disturbance,267,SA,NA,NA,NA,Adolescent,Circadian reversal,267,SA,othergrp,NA,NA
+39,NA,NA,NA,Adolescent,Sleep disturbance,267,SA,NA,NA,NA,Adolescent,Circadian reversal,267,SA,case,NA,NA
+39,NA,NA,NA,Adolescent,Sleep disturbance,267,SA,,NA,NA,Adolescent,Circadian reversal,267,SA,suic,NA,NA
+40,NA,NA,NA,Adolescent,Sleep disturbance,267,SA,,NA,NA,Adolescent,Nonrestorative sleep,267,SA,suic,NA,NA
+40,NA,NA,NA,Adolescent,Sleep disturbance,267,SA,NA,NA,NA,Adolescent,Nonrestorative sleep,267,SA,othergrp,NA,NA
+40,NA,NA,NA,Adolescent,Sleep disturbance,267,SA,NA,NA,NA,Adolescent,Nonrestorative sleep,267,SA,case,NA,NA
+41,NA,NA,NA,Adolescent,Hypersomnia,267,SA,NA,NA,NA,Adolescent,Hypersomnia,267,SA,othergrp,NA,NA
+41,NA,NA,NA,Adolescent,Hypersomnia,267,SA,NA,NA,NA,Adolescent,Hypersomnia,267,SA,case,NA,NA
+41,NA,NA,NA,Adolescent,Hypersomnia,267,SA,,NA,NA,Adolescent,Hypersomnia,267,SA,suic,NA,NA
+42,NA,NA,NA,Adult,Sleep disturbance,266,SI,NA,NA,NA,Adult,Sleep disturbance,266,SI,case,NA,NA
+42,NA,NA,NA,Adult,Sleep disturbance,266,SI,,NA,NA,Adult,Sleep disturbance,266,SI,suic,NA,NA
+42,NA,NA,NA,Adult,Sleep disturbance,266,SI,NA,NA,NA,Adult,Sleep disturbance,266,SI,othergrp,NA,NA
+43,NA,NA,NA,Adult,Sleep disturbance,266,SI,NA,NA,NA,Adult,Sleep disturbance,266,SI,case,NA,NA
+43,NA,NA,NA,Adult,Sleep disturbance,266,SI,NA,NA,NA,Adult,Sleep disturbance,266,SI,othergrp,NA,NA
+43,NA,NA,NA,Adult,Sleep disturbance,266,SI,,NA,NA,Adult,Sleep disturbance,266,SI,suic,NA,NA
+44,NA,NA,NA,Adult,Sleep disturbance,266,SI,NA,NA,NA,Adult,Sleep disturbance,266,SI,case,NA,NA
+44,NA,NA,NA,Adult,Sleep disturbance,266,SI,,NA,NA,Adult,Sleep disturbance,266,SI,suic,NA,NA
+44,NA,NA,NA,Adult,Sleep disturbance,266,SI,NA,NA,NA,Adult,Sleep disturbance,266,SI,othergrp,NA,NA
+45,NA,NA,NA,Adult,Sleep disturbance,266,SA,NA,NA,NA,Adult,Sleep disturbance,266,SA,case,NA,NA
+45,NA,NA,NA,Adult,Sleep disturbance,266,SA,NA,NA,NA,Adult,Sleep disturbance,266,SA,othergrp,NA,NA
+45,NA,NA,NA,Adult,Sleep disturbance,266,SA,,NA,NA,Adult,Sleep disturbance,266,SA,suic,NA,NA
+46,NA,NA,NA,Adult,Sleep disturbance,266,SA,NA,NA,NA,Adult,Sleep disturbance,266,SA,case,NA,NA
+46,NA,NA,NA,Adult,Sleep disturbance,266,SA,,NA,NA,Adult,Sleep disturbance,266,SA,suic,NA,NA
+46,NA,NA,NA,Adult,Sleep disturbance,266,SA,NA,NA,NA,Adult,Sleep disturbance,266,SA,othergrp,NA,NA
+47,NA,NA,NA,Adult,Insomnia,255,SI,NA,NA,NA,Adult,Insomnia,255,SI,case,NA,NA
+47,NA,NA,NA,Adult,Insomnia,255,SI,NA,NA,NA,Adult,Insomnia,255,SI,othergrp,NA,NA
+47,NA,NA,NA,Adult,Insomnia,255,SI,,NA,NA,Adult,Insomnia,255,SI,suic,NA,NA
+48,NA,NA,NA,Adult,Insomnia,255,SI,NA,NA,NA,Adult,Insomnia,255,SI,othergrp,NA,NA
+48,NA,NA,NA,Adult,Insomnia,255,SI,NA,NA,NA,Adult,Insomnia,255,SI,case,NA,NA
+48,NA,NA,NA,Adult,Insomnia,255,SI,,NA,NA,Adult,Insomnia,255,SI,suic,NA,NA
+49,NA,NA,NA,Adult,Insomnia,255,SI,NA,NA,NA,Adult,Insomnia,255,SI,case,NA,NA
+49,NA,NA,NA,Adult,Insomnia,255,SI,,NA,NA,Adult,Insomnia,255,SI,suic,NA,NA
+49,NA,NA,NA,Adult,Insomnia,255,SI,NA,NA,NA,Adult,Insomnia,255,SI,othergrp,NA,NA
+50,NA,NA,NA,Adult,Sleep disturbance,248,SI,497,NA,NA,Adult,Sleep disturbance,248,SI,suic,NA,NA
+50,NA,NA,NA,Adult,Sleep disturbance,248,SI,NA,NA,NA,Adult,Sleep disturbance,248,SI,case,NA,NA
+50,NA,NA,NA,Adult,Sleep disturbance,248,SI,NA,NA,NA,Adult,Sleep disturbance,248,SI,othergrp,NA,NA
+51,NA,NA,NA,Adult,Sleep disturbance,248,,NA,NA,NA,Adult,Sleep disturbance,248,,othergrp,NA,NA
+51,NA,NA,NA,Adult,Sleep disturbance,248,,93,NA,NA,Adult,Sleep disturbance,248,,suic,NA,NA
+51,NA,NA,NA,Adult,Sleep disturbance,248,,NA,NA,NA,Adult,Sleep disturbance,248,,case,NA,NA
+52,NA,NA,NA,Adult,Sleep disturbance,248,SA,93,NA,NA,Adult,Sleep disturbance,248,SA,suic,NA,NA
+52,NA,NA,NA,Adult,Sleep disturbance,248,SA,NA,NA,NA,Adult,Sleep disturbance,248,SA,case,NA,NA
+52,NA,NA,NA,Adult,Sleep disturbance,248,SA,NA,NA,NA,Adult,Sleep disturbance,248,SA,othergrp,NA,NA
+55,8170,NA,NA,Adult,Insomnia,240,SI,,NA,NA,Adult,Insomnia,240,SI,suic,NA,NA
+55,8170,NA,NA,Adult,Insomnia,240,SI,NA,NA,NA,Adult,Insomnia,240,SI,othergrp,NA,NA
+55,8170,NA,NA,Adult,Insomnia,240,SI,324,NA,NA,Adult,Insomnia,240,SI,case,NA,NA
+62,38,NA,74.1,Adult,Sleep disturbance,225,SI,50,NA,NA,Adult,Sleep disorder,225,SI,case,NA,NA
+62,38,NA,74.1,Adult,Sleep disturbance,225,SI,,NA,NA,Adult,Sleep disorder,225,SI,suic,NA,NA
+62,38,NA,74.1,Adult,Sleep disturbance,225,SI,NA,NA,NA,Adult,Sleep disorder,225,SI,othergrp,NA,NA
+64,5887,NA,13,Adult,Insomnia,209,SI,NA,NA,NA,Adult,Insomnia,209,SI,othergrp,NA,NA
+64,5887,NA,13,Adult,Insomnia,209,SI,,NA,NA,Adult,Insomnia,209,SI,suic,NA,NA
+64,5887,NA,13,Adult,Insomnia,209,SI,154,NA,NA,Adult,Insomnia,209,SI,case,NA,NA
+65,5887,NA,4,Adult,Hypersomnia,209,SI,,NA,NA,Adult,Hypersomnia,209,SI,suic,NA,NA
+65,5887,NA,4,Adult,Hypersomnia,209,SI,154,NA,NA,Adult,Hypersomnia,209,SI,case,NA,NA
+65,5887,NA,4,Adult,Hypersomnia,209,SI,NA,NA,NA,Adult,Hypersomnia,209,SI,othergrp,NA,NA
+66,NA,NA,NA,Adult,Insomnia,183,Suicidality,NA,NA,NA,Adult,Insomnia,183,Suicidality,case,NA,NA
+66,NA,NA,NA,Adult,Insomnia,183,Suicidality,,NA,NA,Adult,Insomnia,183,Suicidality,suic,NA,NA
+66,NA,NA,NA,Adult,Insomnia,183,Suicidality,NA,NA,NA,Adult,Insomnia,183,Suicidality,othergrp,NA,NA
+67,NA,NA,NA,Adult,Insomnia,183,SA,,NA,NA,Adult,Insomnia,183,SA,suic,NA,NA
+67,NA,NA,NA,Adult,Insomnia,183,SA,NA,NA,NA,Adult,Insomnia,183,SA,othergrp,NA,NA
+67,NA,NA,NA,Adult,Insomnia,183,SA,NA,NA,NA,Adult,Insomnia,183,SA,case,NA,NA
+68,NA,NA,NA,Adult,Nightmares,183,Suicidality,,NA,NA,Adult,Nightmares,183,Suicidality,suic,NA,NA
+68,NA,NA,NA,Adult,Nightmares,183,Suicidality,NA,NA,NA,Adult,Nightmares,183,Suicidality,othergrp,NA,NA
+68,NA,NA,NA,Adult,Nightmares,183,Suicidality,NA,NA,NA,Adult,Nightmares,183,Suicidality,case,NA,NA
+69,NA,NA,NA,Adult,Nightmares,183,SA,,NA,NA,Adult,Nightmares,183,SA,suic,NA,NA
+69,NA,NA,NA,Adult,Nightmares,183,SA,NA,NA,NA,Adult,Nightmares,183,SA,othergrp,NA,NA
+69,NA,NA,NA,Adult,Nightmares,183,SA,NA,NA,NA,Adult,Nightmares,183,SA,case,NA,NA
+80,267400,NA,NA,Adult,Sleep disturbance,171,SD,NA,NA,NA,Adult,Sleep disorder,171,SD,othergrp,NA,NA
+80,267400,NA,NA,Adult,Sleep disturbance,171,SD,,NA,NA,Adult,Sleep disorder,171,SD,suic,NA,NA
+80,267400,NA,NA,Adult,Sleep disturbance,171,SD,2674,NA,NA,Adult,Sleep disorder,171,SD,case,NA,NA
+81,NA,NA,NA,Adolescent,Insomnia,166,SI,239,NA,NA,Adolescent,Insomnia,166,SI,suic,NA,NA
+81,NA,NA,NA,Adolescent,Insomnia,166,SI,NA,NA,NA,Adolescent,Insomnia,166,SI,case,NA,NA
+81,NA,NA,NA,Adolescent,Insomnia,166,SI,NA,NA,NA,Adolescent,Insomnia,166,SI,othergrp,NA,NA
+82,NA,NA,NA,Adolescent,Insomnia,166,SP,65,NA,NA,Adolescent,Insomnia,166,SP,suic,NA,NA
+82,NA,NA,NA,Adolescent,Insomnia,166,SP,NA,NA,NA,Adolescent,Insomnia,166,SP,othergrp,NA,NA
+82,NA,NA,NA,Adolescent,Insomnia,166,SP,NA,NA,NA,Adolescent,Insomnia,166,SP,case,NA,NA
+83,NA,NA,NA,Adolescent,Insomnia,166,SA,NA,NA,NA,Adolescent,Insomnia,166,SA,othergrp,NA,NA
+83,NA,NA,NA,Adolescent,Insomnia,166,SA,NA,NA,NA,Adolescent,Insomnia,166,SA,case,NA,NA
+83,NA,NA,NA,Adolescent,Insomnia,166,SA,62,NA,NA,Adolescent,Insomnia,166,SA,suic,NA,NA
+84,NA,NA,NA,Adolescent,Insomnia,166,SI,NA,NA,NA,Adolescent,Insomnia,166,SI,othergrp,NA,NA
+84,NA,NA,NA,Adolescent,Insomnia,166,SI,NA,NA,NA,Adolescent,Insomnia,166,SI,case,NA,NA
+84,NA,NA,NA,Adolescent,Insomnia,166,SI,179,NA,NA,Adolescent,Insomnia,166,SI,suic,NA,NA
+85,NA,NA,NA,Adolescent,Insomnia,166,SP,NA,NA,NA,Adolescent,Insomnia,166,SP,case,NA,NA
+85,NA,NA,NA,Adolescent,Insomnia,166,SP,50,NA,NA,Adolescent,Insomnia,166,SP,suic,NA,NA
+85,NA,NA,NA,Adolescent,Insomnia,166,SP,NA,NA,NA,Adolescent,Insomnia,166,SP,othergrp,NA,NA
+86,NA,NA,NA,Adolescent,Insomnia,166,SA,52,NA,NA,Adolescent,Insomnia,166,SA,suic,NA,NA
+86,NA,NA,NA,Adolescent,Insomnia,166,SA,NA,NA,NA,Adolescent,Insomnia,166,SA,othergrp,NA,NA
+86,NA,NA,NA,Adolescent,Insomnia,166,SA,NA,NA,NA,Adolescent,Insomnia,166,SA,case,NA,NA
+87,NA,NA,NA,Adolescent,Insomnia,166,SI,NA,NA,NA,Adolescent,Insomnia,166,SI,othergrp,NA,NA
+87,NA,NA,NA,Adolescent,Insomnia,166,SI,NA,NA,NA,Adolescent,Insomnia,166,SI,case,NA,NA
+87,NA,NA,NA,Adolescent,Insomnia,166,SI,164,NA,NA,Adolescent,Insomnia,166,SI,suic,NA,NA
+88,NA,NA,NA,Adolescent,Insomnia,166,SP,NA,NA,NA,Adolescent,Insomnia,166,SP,othergrp,NA,NA
+88,NA,NA,NA,Adolescent,Insomnia,166,SP,NA,NA,NA,Adolescent,Insomnia,166,SP,case,NA,NA
+88,NA,NA,NA,Adolescent,Insomnia,166,SP,50,NA,NA,Adolescent,Insomnia,166,SP,suic,NA,NA
+89,NA,NA,NA,Adolescent,Insomnia,166,SA,NA,NA,NA,Adolescent,Insomnia,166,SA,case,NA,NA
+89,NA,NA,NA,Adolescent,Insomnia,166,SA,NA,NA,NA,Adolescent,Insomnia,166,SA,othergrp,NA,NA
+89,NA,NA,NA,Adolescent,Insomnia,166,SA,46,NA,NA,Adolescent,Insomnia,166,SA,suic,NA,NA
+90,NA,NA,NA,Adolescent,Insomnia,166,SI,,NA,NA,Adolescent,Insomnia,166,SI,suic,NA,NA
+90,NA,NA,NA,Adolescent,Insomnia,166,SI,NA,NA,NA,Adolescent,Insomnia,166,SI,case,NA,NA
+90,NA,NA,NA,Adolescent,Insomnia,166,SI,NA,NA,NA,Adolescent,Insomnia,166,SI,othergrp,NA,NA
+91,NA,NA,NA,Adolescent,Insomnia,166,SP,NA,NA,NA,Adolescent,Insomnia,166,SP,othergrp,NA,NA
+91,NA,NA,NA,Adolescent,Insomnia,166,SP,,NA,NA,Adolescent,Insomnia,166,SP,suic,NA,NA
+91,NA,NA,NA,Adolescent,Insomnia,166,SP,NA,NA,NA,Adolescent,Insomnia,166,SP,case,NA,NA
+92,NA,NA,NA,Adolescent,Insomnia,166,SA,NA,NA,NA,Adolescent,Insomnia,166,SA,othergrp,NA,NA
+92,NA,NA,NA,Adolescent,Insomnia,166,SA,,NA,NA,Adolescent,Insomnia,166,SA,suic,NA,NA
+92,NA,NA,NA,Adolescent,Insomnia,166,SA,NA,NA,NA,Adolescent,Insomnia,166,SA,case,NA,NA
+93,NA,NA,NA,Adult,Sleep disturbance,157,Suicidality,NA,NA,NA,Adult,Sleep quality,157,Suicidality,case,NA,NA
+93,NA,NA,NA,Adult,Sleep disturbance,157,Suicidality,NA,NA,NA,Adult,Sleep quality,157,Suicidality,othergrp,NA,NA
+93,NA,NA,NA,Adult,Sleep disturbance,157,Suicidality,,NA,NA,Adult,Sleep quality,157,Suicidality,suic,NA,NA
+94,799,3.02,5.78,Adult,Sleep disturbance,156,SI,,NA,NA,Adult,Sleep quality,156,SI,suic,NA,NA
+94,799,3.02,5.78,Adult,Sleep disturbance,156,SI,NA,NA,NA,Adult,Sleep quality,156,SI,othergrp,NA,NA
+94,799,3.02,5.78,Adult,Sleep disturbance,156,SI,60,2.98,7.73,Adult,Sleep quality,156,SI,case,0.290705179915044,0.00281865240700374
+96,NA,NA,NA,Adult,Nightmares,152,SD,73,NA,NA,Adult,Nightmares,152,SD,suic,NA,NA
+96,NA,NA,NA,Adult,Nightmares,152,SD,NA,NA,NA,Adult,Nightmares,152,SD,othergrp,NA,NA
+96,NA,NA,NA,Adult,Nightmares,152,SD,NA,NA,NA,Adult,Nightmares,152,SD,case,NA,NA
+97,NA,NA,NA,Adult,Nightmares,152,SD,NA,NA,NA,Adult,Nightmares,152,SD,othergrp,NA,NA
+97,NA,NA,NA,Adult,Nightmares,152,SD,NA,NA,NA,Adult,Nightmares,152,SD,case,NA,NA
+97,NA,NA,NA,Adult,Nightmares,152,SD,13,NA,NA,Adult,Nightmares,152,SD,suic,NA,NA
+98,NA,NA,NA,Adolescent Adult,Sleep disturbance,151,SA,NA,NA,NA,Adolescent Adult,Sleep disturbance,151,SA,othergrp,NA,NA
+98,NA,NA,NA,Adolescent Adult,Sleep disturbance,151,SA,27,NA,NA,Adolescent Adult,Sleep disturbance,151,SA,suic,NA,NA
+98,NA,NA,NA,Adolescent Adult,Sleep disturbance,151,SA,NA,NA,NA,Adolescent Adult,Sleep disturbance,151,SA,case,NA,NA
+99,416,NA,NA,Adolescent Adult,Insomnia,149,SD,,NA,NA,Adolescent Adult,Insomnia,149,SD,suic,NA,NA
+99,416,NA,NA,Adolescent Adult,Insomnia,149,SD,NA,NA,NA,Adolescent Adult,Insomnia,149,SD,othergrp,NA,NA
+99,416,NA,NA,Adolescent Adult,Insomnia,149,SD,388,NA,NA,Adolescent Adult,Insomnia,149,SD,case,NA,NA
+100,416,NA,NA,Adolescent Adult,Insomnia,149,SD,NA,NA,NA,Adolescent Adult,Insomnia,149,SD,othergrp,NA,NA
+100,416,NA,NA,Adolescent Adult,Insomnia,149,SD,388,NA,NA,Adolescent Adult,Insomnia,149,SD,case,NA,NA
+100,416,NA,NA,Adolescent Adult,Insomnia,149,SD,,NA,NA,Adolescent Adult,Insomnia,149,SD,suic,NA,NA
+101,416,NA,NA,Adolescent Adult,Insomnia,149,SD,NA,NA,NA,Adolescent Adult,Insomnia,149,SD,othergrp,NA,NA
+101,416,NA,NA,Adolescent Adult,Insomnia,149,SD,388,NA,NA,Adolescent Adult,Insomnia,149,SD,case,NA,NA
+101,416,NA,NA,Adolescent Adult,Insomnia,149,SD,,NA,NA,Adolescent Adult,Insomnia,149,SD,suic,NA,NA
+102,416,NA,NA,Adolescent Adult,Insomnia,149,SD,NA,NA,NA,Adolescent Adult,Insomnia,149,SD,othergrp,NA,NA
+102,416,NA,NA,Adolescent Adult,Insomnia,149,SD,388,NA,NA,Adolescent Adult,Insomnia,149,SD,case,NA,NA
+102,416,NA,NA,Adolescent Adult,Insomnia,149,SD,,NA,NA,Adolescent Adult,Insomnia,149,SD,suic,NA,NA
+103,NA,NA,NA,Adult,Insomnia,140,SI,,NA,NA,Adult,Insomnia,140,SI,suic,NA,NA
+103,NA,NA,NA,Adult,Insomnia,140,SI,NA,NA,NA,Adult,Insomnia,140,SI,case,NA,NA
+103,NA,NA,NA,Adult,Insomnia,140,SI,NA,NA,NA,Adult,Insomnia,140,SI,othergrp,NA,NA
+104,40,NA,NA,Adult,Insomnia,139,SA,NA,NA,NA,Adult,Insomnia,139,SA,othergrp,NA,NA
+104,40,NA,NA,Adult,Insomnia,139,SA,,NA,NA,Adult,Insomnia,139,SA,suic,NA,NA
+104,40,NA,NA,Adult,Insomnia,139,SA,8,NA,NA,Adult,Insomnia,139,SA,case,NA,NA
+159,NA,NA,NA,Adult,Insomnia,135,SA,NA,NA,NA,Adult,Insomnia,135,SA,case,NA,NA
+159,NA,NA,NA,Adult,Insomnia,135,SA,NA,NA,NA,Adult,Insomnia,135,SA,othergrp,NA,NA
+159,NA,NA,NA,Adult,Insomnia,135,SA,,NA,NA,Adult,Insomnia,135,SA,suic,NA,NA
+160,NA,NA,NA,Adult,Nightmares,135,SA,NA,NA,NA,Adult,Nightmares,135,SA,case,NA,NA
+160,NA,NA,NA,Adult,Nightmares,135,SA,NA,NA,NA,Adult,Nightmares,135,SA,othergrp,NA,NA
+160,NA,NA,NA,Adult,Nightmares,135,SA,,NA,NA,Adult,Nightmares,135,SA,suic,NA,NA
+161,NA,NA,NA,Adult,Insomnia,135,SA,,NA,NA,Adult,Insomnia,135,SA,suic,NA,NA
+161,NA,NA,NA,Adult,Insomnia,135,SA,NA,NA,NA,Adult,Insomnia,135,SA,othergrp,NA,NA
+161,NA,NA,NA,Adult,Insomnia,135,SA,NA,NA,NA,Adult,Insomnia,135,SA,case,NA,NA
+162,NA,NA,NA,Adult,Nightmares,135,SA,,NA,NA,Adult,Nightmares,135,SA,suic,NA,NA
+162,NA,NA,NA,Adult,Nightmares,135,SA,NA,NA,NA,Adult,Nightmares,135,SA,case,NA,NA
+162,NA,NA,NA,Adult,Nightmares,135,SA,NA,NA,NA,Adult,Nightmares,135,SA,othergrp,NA,NA
+163,NA,NA,NA,Adult,Insomnia,113,Suicidality,NA,NA,NA,Adult,Insomnia,113,Suicidality,othergrp,NA,NA
+163,NA,NA,NA,Adult,Insomnia,113,Suicidality,,NA,NA,Adult,Insomnia,113,Suicidality,suic,NA,NA
+163,NA,NA,NA,Adult,Insomnia,113,Suicidality,NA,NA,NA,Adult,Insomnia,113,Suicidality,case,NA,NA
+164,NA,NA,NA,Adult,Nightmares,113,Suicidality,NA,NA,NA,Adult,Nightmares,113,Suicidality,othergrp,NA,NA
+164,NA,NA,NA,Adult,Nightmares,113,Suicidality,NA,NA,NA,Adult,Nightmares,113,Suicidality,case,NA,NA
+164,NA,NA,NA,Adult,Nightmares,113,Suicidality,,NA,NA,Adult,Nightmares,113,Suicidality,suic,NA,NA
+165,NA,NA,NA,Adult,Insomnia,108,Suicidality,NA,NA,NA,Adult,Insomnia,108,Suicidality,case,NA,NA
+165,NA,NA,NA,Adult,Insomnia,108,Suicidality,NA,NA,NA,Adult,Insomnia,108,Suicidality,othergrp,NA,NA
+165,NA,NA,NA,Adult,Insomnia,108,Suicidality,,NA,NA,Adult,Insomnia,108,Suicidality,suic,NA,NA
+167,NA,NA,NA,Adult,Insomnia,64,SA,NA,NA,NA,Adult,Insomnia,64,SA,othergrp,NA,NA
+167,NA,NA,NA,Adult,Insomnia,64,SA,,NA,NA,Adult,Insomnia,64,SA,suic,NA,NA
+167,NA,NA,NA,Adult,Insomnia,64,SA,NA,NA,NA,Adult,Insomnia,64,SA,case,NA,NA
+168,NA,NA,NA,Adult,Insomnia,64,SA,NA,NA,NA,Adult,Insomnia,64,SA,othergrp,NA,NA
+168,NA,NA,NA,Adult,Insomnia,64,SA,NA,NA,NA,Adult,Insomnia,64,SA,case,NA,NA
+168,NA,NA,NA,Adult,Insomnia,64,SA,,NA,NA,Adult,Insomnia,64,SA,suic,NA,NA
+169,NA,NA,NA,Adult,Insomnia,65,Suicidality,NA,NA,NA,Adult,Insomnia,65,Suicidality,case,NA,NA
+169,NA,NA,NA,Adult,Insomnia,65,Suicidality,NA,NA,NA,Adult,Insomnia,65,Suicidality,othergrp,NA,NA
+169,NA,NA,NA,Adult,Insomnia,65,Suicidality,,NA,NA,Adult,Insomnia,65,Suicidality,suic,NA,NA
+170,NA,NA,NA,Adult,Nightmares,65,Suicidality,NA,NA,NA,Adult,Nightmares,65,Suicidality,case,NA,NA
+170,NA,NA,NA,Adult,Nightmares,65,Suicidality,,NA,NA,Adult,Nightmares,65,Suicidality,suic,NA,NA
+170,NA,NA,NA,Adult,Nightmares,65,Suicidality,NA,NA,NA,Adult,Nightmares,65,Suicidality,othergrp,NA,NA
+171,NA,NA,NA,Adult,Insomnia,67,Suicidality,,NA,NA,Adult,Insomnia,67,Suicidality,suic,NA,NA
+171,NA,NA,NA,Adult,Insomnia,67,Suicidality,NA,NA,NA,Adult,Insomnia,67,Suicidality,case,NA,NA
+171,NA,NA,NA,Adult,Insomnia,67,Suicidality,NA,NA,NA,Adult,Insomnia,67,Suicidality,othergrp,NA,NA
+172,NA,NA,NA,Adult,Insomnia,67,Suicidality,NA,NA,NA,Adult,Insomnia,67,Suicidality,othergrp,NA,NA
+172,NA,NA,NA,Adult,Insomnia,67,Suicidality,,NA,NA,Adult,Insomnia,67,Suicidality,suic,NA,NA
+172,NA,NA,NA,Adult,Insomnia,67,Suicidality,NA,NA,NA,Adult,Insomnia,67,Suicidality,case,NA,NA
+173,NA,NA,NA,Adult,Insomnia,67,Suicidality,,NA,NA,Adult,Insomnia,67,Suicidality,suic,NA,NA
+173,NA,NA,NA,Adult,Insomnia,67,Suicidality,NA,NA,NA,Adult,Insomnia,67,Suicidality,case,NA,NA
+173,NA,NA,NA,Adult,Insomnia,67,Suicidality,NA,NA,NA,Adult,Insomnia,67,Suicidality,othergrp,NA,NA
+174,NA,NA,NA,Adult,Insomnia,68,Suicidality,NA,NA,NA,Adult,Insomnia,68,Suicidality,case,NA,NA
+174,NA,NA,NA,Adult,Insomnia,68,Suicidality,,NA,NA,Adult,Insomnia,68,Suicidality,suic,NA,NA
+174,NA,NA,NA,Adult,Insomnia,68,Suicidality,NA,NA,NA,Adult,Insomnia,68,Suicidality,othergrp,NA,NA
+175,NA,NA,NA,Adult,Insomnia,69,SD,93,NA,NA,Adult,Insomnia,69,SD,suic,NA,NA
+175,NA,NA,NA,Adult,Insomnia,69,SD,NA,NA,NA,Adult,Insomnia,69,SD,othergrp,NA,NA
+175,NA,NA,NA,Adult,Insomnia,69,SD,NA,NA,NA,Adult,Insomnia,69,SD,case,NA,NA
+181,NA,NA,NA,Adult,Nightmares,88,Suicidality,NA,NA,NA,Adult,Nightmares,88,Suicidality,othergrp,NA,NA
+181,NA,NA,NA,Adult,Nightmares,88,Suicidality,NA,NA,NA,Adult,Nightmares,88,Suicidality,case,NA,NA
+181,NA,NA,NA,Adult,Nightmares,88,Suicidality,,NA,NA,Adult,Nightmares,88,Suicidality,suic,NA,NA
+182,NA,NA,NA,Adult,Insomnia,88,Suicidality,NA,NA,NA,Adult,Insomnia,88,Suicidality,othergrp,NA,NA
+182,NA,NA,NA,Adult,Insomnia,88,Suicidality,NA,NA,NA,Adult,Insomnia,88,Suicidality,case,NA,NA
+182,NA,NA,NA,Adult,Insomnia,88,Suicidality,,NA,NA,Adult,Insomnia,88,Suicidality,suic,NA,NA
+189,NA,NA,NA,Adult,Sleep disturbance,93,SI,,NA,NA,Adult,Sleep quality,93,SI,suic,NA,NA
+189,NA,NA,NA,Adult,Sleep disturbance,93,SI,NA,NA,NA,Adult,Sleep quality,93,SI,othergrp,NA,NA
+189,NA,NA,NA,Adult,Sleep disturbance,93,SI,NA,NA,NA,Adult,Sleep quality,93,SI,case,NA,NA
+198,NA,NA,NA,Adult,Insomnia,92,SA,,NA,NA,Adult,Insomnia,92,SA,suic,NA,NA
+198,NA,NA,NA,Adult,Insomnia,92,SA,75,NA,NA,Adult,Insomnia,92,SA,case,NA,NA
+198,NA,NA,NA,Adult,Insomnia,92,SA,313,NA,NA,Adult,Insomnia,92,SA,othergrp,NA,NA
+199,NA,NA,NA,Adult,Nightmares,92,SA,35,NA,NA,Adult,Nightmares,92,SA,case,NA,NA
+199,NA,NA,NA,Adult,Nightmares,92,SA,,NA,NA,Adult,Nightmares,92,SA,suic,NA,NA
+199,NA,NA,NA,Adult,Nightmares,92,SA,353,NA,NA,Adult,Nightmares,92,SA,othergrp,NA,NA
+200,NA,NA,NA,Adult,Insomnia,92,SA,NA,NA,NA,Adult,Insomnia,92,SA,case,NA,NA
+200,NA,NA,NA,Adult,Insomnia,92,SA,NA,NA,NA,Adult,Insomnia,92,SA,othergrp,NA,NA
+200,NA,NA,NA,Adult,Insomnia,92,SA,,NA,NA,Adult,Insomnia,92,SA,suic,NA,NA
+207,NA,NA,NA,Adolescent,Insomnia,130,SI,,NA,NA,Adolescent,Insomnia,130,SI,suic,NA,NA
+207,NA,NA,NA,Adolescent,Insomnia,130,SI,NA,NA,NA,Adolescent,Insomnia,130,SI,othergrp,NA,NA
+207,NA,NA,NA,Adolescent,Insomnia,130,SI,NA,NA,NA,Adolescent,Insomnia,130,SI,case,NA,NA
+208,NA,NA,NA,Adolescent,Insomnia,130,SA,NA,NA,NA,Adolescent,Insomnia,130,SA,othergrp,NA,NA
+208,NA,NA,NA,Adolescent,Insomnia,130,SA,NA,NA,NA,Adolescent,Insomnia,130,SA,case,NA,NA
+208,NA,NA,NA,Adolescent,Insomnia,130,SA,,NA,NA,Adolescent,Insomnia,130,SA,suic,NA,NA
+209,NA,NA,NA,Adolescent,Insomnia,130,SA,NA,NA,NA,Adolescent,Insomnia,130,SA,othergrp,NA,NA
+209,NA,NA,NA,Adolescent,Insomnia,130,SA,NA,NA,NA,Adolescent,Insomnia,130,SA,case,NA,NA
+209,NA,NA,NA,Adolescent,Insomnia,130,SA,,NA,NA,Adolescent,Insomnia,130,SA,suic,NA,NA
+210,NA,NA,NA,Adult,Sleep disturbance,121,SD,NA,NA,NA,Adult,Sleep disturbance,121,SD,case,NA,NA
+210,NA,NA,NA,Adult,Sleep disturbance,121,SD,NA,NA,NA,Adult,Sleep disturbance,121,SD,othergrp,NA,NA
+210,NA,NA,NA,Adult,Sleep disturbance,121,SD,,NA,NA,Adult,Sleep disturbance,121,SD,suic,NA,NA
+211,NA,NA,NA,Adult,Sleep disturbance,70,SA,,NA,NA,Adult,Sleep quality,70,SA,suic,NA,NA
+211,NA,NA,NA,Adult,Sleep disturbance,70,SA,56,3.91,14.48,Adult,Sleep quality,70,SA,case,NA,NA
+211,NA,NA,NA,Adult,Sleep disturbance,70,SA,50,7.09,10.18,Adult,Sleep quality,70,SA,othergrp,NA,NA
+213,75,NA,NA,Adult,Insomnia,169,SI,NA,NA,NA,Adult,Insomnia,169,SI,othergrp,NA,NA
+213,75,NA,NA,Adult,Insomnia,169,SI,,NA,NA,Adult,Insomnia,169,SI,suic,NA,NA
+213,75,NA,NA,Adult,Insomnia,169,SI,32,NA,NA,Adult,Insomnia,169,SI,case,NA,NA
+240,19,3.9,8.3,Adult,Sleep disturbance,5,Suicidality,22,2.9,13.4,Adult,Sleep disturbance,5,Suicidality,case,0.478999192154313,0.0137492973214678
+240,19,3.9,8.3,Adult,Sleep disturbance,5,Suicidality,NA,NA,NA,Adult,Sleep disturbance,5,Suicidality,othergrp,NA,NA
+240,19,3.9,8.3,Adult,Sleep disturbance,5,Suicidality,,NA,NA,Adult,Sleep disturbance,5,Suicidality,suic,NA,NA
+241,19,0.8,2.1,Adult,Sleep disturbance,5,Suicidality,NA,NA,NA,Adult,Sleep quality,5,Suicidality,othergrp,NA,NA
+241,19,0.8,2.1,Adult,Sleep disturbance,5,Suicidality,,NA,NA,Adult,Sleep quality,5,Suicidality,suic,NA,NA
+241,19,0.8,2.1,Adult,Sleep disturbance,5,Suicidality,22,0.4,2.7,Adult,Sleep quality,5,Suicidality,case,0.251314428280906,0.0086357736037491
+245,19,0.4,1.6,Adult,Sleep disturbance,5,Suicidality,NA,NA,NA,Adult,Sleep disturbance,5,Suicidality,othergrp,NA,NA
+245,19,0.4,1.6,Adult,Sleep disturbance,5,Suicidality,22,0.6,1.6,Adult,Sleep disturbance,5,Suicidality,case,0,0.00968151913875598
+245,19,0.4,1.6,Adult,Sleep disturbance,5,Suicidality,,NA,NA,Adult,Sleep disturbance,5,Suicidality,suic,NA,NA
+246,19,NA,NA,Adult,Nightmares,6,SA,NA,NA,NA,Adult,Nightmares,6,SA,othergrp,NA,NA
+246,19,NA,NA,Adult,Nightmares,6,SA,11,NA,NA,Adult,Nightmares,6,SA,case,NA,NA
+246,19,NA,NA,Adult,Nightmares,6,SA,,NA,NA,Adult,Nightmares,6,SA,suic,NA,NA
+248,NA,NA,NA,Adult,Sleep disturbance,12,Suicidality,199,NA,NA,Adult,sleep quality,12,Suicidality,othergrp,NA,NA
+248,NA,NA,NA,Adult,Sleep disturbance,12,Suicidality,294,NA,NA,Adult,sleep quality,12,Suicidality,case,NA,NA
+248,NA,NA,NA,Adult,Sleep disturbance,12,Suicidality,,NA,NA,Adult,sleep quality,12,Suicidality,suic,NA,NA
+249,NA,NA,NA,Adult,Nightmares,1,Suicidality,34,1.8,2.9,Adult,Nightmares,1,Suicidality,othergrp,NA,NA
+249,NA,NA,NA,Adult,Nightmares,1,Suicidality,29,2.1,4.2,Adult,Nightmares,1,Suicidality,case,NA,NA
+249,NA,NA,NA,Adult,Nightmares,1,Suicidality,,NA,NA,Adult,Nightmares,1,Suicidality,suic,NA,NA
+250,NA,NA,NA,Adult,Insomnia,2,Suicidality,NA,NA,NA,Adult,Insomnia,2,Suicidality,othergrp,NA,NA
+250,NA,NA,NA,Adult,Insomnia,2,Suicidality,NA,NA,NA,Adult,Insomnia,2,Suicidality,case,NA,NA
+250,NA,NA,NA,Adult,Insomnia,2,Suicidality,,1.3,4.4,Adult,Insomnia,2,Suicidality,suic,NA,NA
+251,NA,NA,NA,Adult,Hypersomnia,2,Suicidality,NA,NA,NA,Adult,Hypersomnia,2,Suicidality,case,NA,NA
+251,NA,NA,NA,Adult,Hypersomnia,2,Suicidality,,1.3,3.7,Adult,Hypersomnia,2,Suicidality,suic,NA,NA
+251,NA,NA,NA,Adult,Hypersomnia,2,Suicidality,NA,NA,NA,Adult,Hypersomnia,2,Suicidality,othergrp,NA,NA
+253,NA,NA,NA,Adult,Sleep disturbance,3,Suicidality,34,1.2,2.8,Adult,Sleep disturbance,3,Suicidality,othergrp,NA,NA
+253,NA,NA,NA,Adult,Sleep disturbance,3,Suicidality,33,1.8,2.7,Adult,Sleep disturbance,3,Suicidality,suic,NA,NA
+253,NA,NA,NA,Adult,Sleep disturbance,3,Suicidality,NA,NA,NA,Adult,Sleep disturbance,3,Suicidality,case,NA,NA
+254,72,NA,NA,Adult,Insomnia,7,SA,NA,NA,28,Adult,Insomnia,7,SA,case,NA,NA
+254,72,NA,NA,Adult,Insomnia,7,SA,NA,NA,NA,Adult,Insomnia,7,SA,othergrp,NA,NA
+254,72,NA,NA,Adult,Insomnia,7,SA,,NA,NA,Adult,Insomnia,7,SA,suic,NA,NA
+255,72,NA,NA,Adult,Insomnia,7,SA,NA,NA,28,Adult,Insomnia,7,SA,case,NA,NA
+255,72,NA,NA,Adult,Insomnia,7,SA,,NA,NA,Adult,Insomnia,7,SA,suic,NA,NA
+255,72,NA,NA,Adult,Insomnia,7,SA,NA,NA,NA,Adult,Insomnia,7,SA,othergrp,NA,NA
+256,72,NA,NA,Adult,Insomnia,7,SA,,NA,NA,Adult,Insomnia,7,SA,suic,NA,NA
+256,72,NA,NA,Adult,Insomnia,7,SA,NA,NA,NA,Adult,Insomnia,7,SA,othergrp,NA,NA
+256,72,NA,NA,Adult,Insomnia,7,SA,NA,NA,28,Adult,Insomnia,7,SA,case,NA,NA
+257,72,NA,NA,Adult,Nightmares,7,SA,,NA,NA,Adult,Nightmares,7,SA,suic,NA,NA
+257,72,NA,NA,Adult,Nightmares,7,SA,NA,NA,NA,Adult,Nightmares,7,SA,othergrp,NA,NA
+257,72,NA,NA,Adult,Nightmares,7,SA,NA,NA,28,Adult,Nightmares,7,SA,case,NA,NA
+258,NA,NA,NA,Adolescent,Insomnia,9,SI,NA,NA,NA,Adolescent,Insomnia,9,SI,othergrp,NA,NA
+258,NA,NA,NA,Adolescent,Insomnia,9,SI,NA,NA,NA,Adolescent,Insomnia,9,SI,case,NA,NA
+258,NA,NA,NA,Adolescent,Insomnia,9,SI,2948,NA,NA,Adolescent,Insomnia,9,SI,suic,NA,NA
+259,NA,NA,NA,Adolescent,Insomnia,9,SP,NA,NA,NA,Adolescent,Insomnia,9,SP,case,NA,NA
+259,NA,NA,NA,Adolescent,Insomnia,9,SP,NA,NA,NA,Adolescent,Insomnia,9,SP,othergrp,NA,NA
+259,NA,NA,NA,Adolescent,Insomnia,9,SP,2968,NA,NA,Adolescent,Insomnia,9,SP,suic,NA,NA
+260,NA,NA,NA,Adolescent,Insomnia,9,SA,2991,NA,NA,Adolescent,Insomnia,9,SA,suic,NA,NA
+260,NA,NA,NA,Adolescent,Insomnia,9,SA,NA,NA,NA,Adolescent,Insomnia,9,SA,case,NA,NA
+260,NA,NA,NA,Adolescent,Insomnia,9,SA,NA,NA,NA,Adolescent,Insomnia,9,SA,othergrp,NA,NA
+261,400,0.66,1.44,Adult,Insomnia,15,SD,NA,NA,NA,Adult,Insomnia,15,SD,othergrp,NA,NA
+261,400,0.66,1.44,Adult,Insomnia,15,SD,20,0.85,1.9,Adult,Insomnia,15,SD,case,0.277210772584486,0.0105320988188673
+261,400,0.66,1.44,Adult,Insomnia,15,SD,,NA,NA,Adult,Insomnia,15,SD,suic,NA,NA
+262,400,0.84,1.84,Adult,Insomnia,15,SD,NA,NA,NA,Adult,Insomnia,15,SD,othergrp,NA,NA
+262,400,0.84,1.84,Adult,Insomnia,15,SD,20,0.89,2.2,Adult,Insomnia,15,SD,case,0.178691788743376,0.00870388148541611
+262,400,0.84,1.84,Adult,Insomnia,15,SD,,NA,NA,Adult,Insomnia,15,SD,suic,NA,NA
+263,400,0.72,1.56,Adult,Insomnia,15,SD,NA,NA,NA,Adult,Insomnia,15,SD,othergrp,NA,NA
+263,400,0.72,1.56,Adult,Insomnia,15,SD,20,0.85,1.75,Adult,Insomnia,15,SD,case,0.114929966673977,0.0123284627460452
+263,400,0.72,1.56,Adult,Insomnia,15,SD,,NA,NA,Adult,Insomnia,15,SD,suic,NA,NA
+264,400,0.65,1.33,Adult,Sleep disturbance,15,SD,20,0.89,1.8,Adult,Nonrestorative sleep,15,SD,case,0.302607722668457,0.0128208879376107
+264,400,0.65,1.33,Adult,Sleep disturbance,15,SD,,NA,NA,Adult,Nonrestorative sleep,15,SD,suic,NA,NA
+264,400,0.65,1.33,Adult,Sleep disturbance,15,SD,NA,NA,NA,Adult,Nonrestorative sleep,15,SD,othergrp,NA,NA
+266,NA,NA,NA,Adult,Insomnia,16,SD,NA,NA,NA,Adult,Insomnia,16,SD,othergrp,NA,NA
+266,NA,NA,NA,Adult,Insomnia,16,SD,,NA,NA,Adult,Insomnia,16,SD,suic,NA,NA
+266,NA,NA,NA,Adult,Insomnia,16,SD,NA,NA,NA,Adult,Insomnia,16,SD,case,NA,NA
+267,NA,NA,NA,Adult,Insomnia,16,SD,NA,NA,NA,Adult,Insomnia,16,SD,case,NA,NA
+267,NA,NA,NA,Adult,Insomnia,16,SD,NA,NA,NA,Adult,Insomnia,16,SD,othergrp,NA,NA
+267,NA,NA,NA,Adult,Insomnia,16,SD,,NA,NA,Adult,Insomnia,16,SD,suic,NA,NA
+268,NA,NA,NA,Adult,Insomnia,16,SD,NA,NA,NA,Adult,Insomnia,16,SD,case,NA,NA
+268,NA,NA,NA,Adult,Insomnia,16,SD,,NA,NA,Adult,Insomnia,16,SD,suic,NA,NA
+268,NA,NA,NA,Adult,Insomnia,16,SD,NA,NA,NA,Adult,Insomnia,16,SD,othergrp,NA,NA
+269,NA,NA,NA,Adult,Insomnia,17,Suicidality,350,0.7,3,Adult,Insomnia,17,Suicidality,suic,NA,NA
+269,NA,NA,NA,Adult,Insomnia,17,Suicidality,NA,NA,NA,Adult,Insomnia,17,Suicidality,othergrp,NA,NA
+269,NA,NA,NA,Adult,Insomnia,17,Suicidality,NA,NA,NA,Adult,Insomnia,17,Suicidality,case,NA,NA
+270,NA,NA,NA,Adult,Sleep disturbance,13,SI,,NA,NA,Adult,Sleep disturbance,13,SI,suic,NA,NA
+270,NA,NA,NA,Adult,Sleep disturbance,13,SI,NA,NA,NA,Adult,Sleep disturbance,13,SI,case,NA,NA
+270,NA,NA,NA,Adult,Sleep disturbance,13,SI,NA,NA,NA,Adult,Sleep disturbance,13,SI,othergrp,NA,NA
+273,NA,NA,NA,Adult,Insomnia,19,SI,NA,NA,NA,Adult,Insomnia,19,SI,case,NA,NA
+273,NA,NA,NA,Adult,Insomnia,19,SI,,NA,NA,Adult,Insomnia,19,SI,suic,NA,NA
+273,NA,NA,NA,Adult,Insomnia,19,SI,NA,NA,NA,Adult,Insomnia,19,SI,othergrp,NA,NA
+275,NA,NA,NA,Adult,Insomnia,24,SA,NA,NA,NA,Adult,Insomnia,24,SA,case,NA,NA
+275,NA,NA,NA,Adult,Insomnia,24,SA,183,NA,NA,Adult,Insomnia,24,SA,suic,NA,NA
+275,NA,NA,NA,Adult,Insomnia,24,SA,NA,NA,NA,Adult,Insomnia,24,SA,othergrp,NA,NA
+277,NA,NA,NA,Adult,Insomnia,32,SI,NA,NA,NA,Adult,Insomnia,32,SI,othergrp,NA,NA
+277,NA,NA,NA,Adult,Insomnia,32,SI,NA,NA,NA,Adult,Insomnia,32,SI,case,NA,NA
+277,NA,NA,NA,Adult,Insomnia,32,SI,,NA,NA,Adult,Insomnia,32,SI,suic,NA,NA
+278,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,,NA,NA,Adult,Sleep disturbance,32,Suicidality,suic,NA,NA
+278,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,othergrp,NA,NA
+278,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,case,NA,NA
+279,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,,NA,NA,Adult,Sleep disturbance,32,Suicidality,suic,NA,NA
+279,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,case,NA,NA
+279,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,NA,NA,NA,Adult,Sleep disturbance,32,Suicidality,othergrp,NA,NA
+280,NA,NA,NA,Adult,Insomnia,36,Suicidality,NA,NA,NA,Adult,Insomnia,36,Suicidality,case,NA,NA
+280,NA,NA,NA,Adult,Insomnia,36,Suicidality,,NA,NA,Adult,Insomnia,36,Suicidality,suic,NA,NA
+280,NA,NA,NA,Adult,Insomnia,36,Suicidality,NA,NA,NA,Adult,Insomnia,36,Suicidality,othergrp,NA,NA
+281,NA,NA,NA,Adult,Nightmares,36,Suicidality,NA,NA,NA,Adult,Nightmares,36,Suicidality,othergrp,NA,NA
+281,NA,NA,NA,Adult,Nightmares,36,Suicidality,NA,NA,NA,Adult,Nightmares,36,Suicidality,case,NA,NA
+281,NA,NA,NA,Adult,Nightmares,36,Suicidality,,NA,NA,Adult,Nightmares,36,Suicidality,suic,NA,NA
+282,NA,NA,NA,Adult,Insomnia,51,SA,,NA,NA,Adult,Insomnia,51,SA,suic,NA,NA
+282,NA,NA,NA,Adult,Insomnia,51,SA,NA,NA,NA,Adult,Insomnia,51,SA,othergrp,NA,NA
+282,NA,NA,NA,Adult,Insomnia,51,SA,NA,NA,NA,Adult,Insomnia,51,SA,case,NA,NA
+283,NA,NA,NA,Adult,Insomnia,51,SI,,NA,NA,Adult,Insomnia,51,SI,suic,NA,NA
+283,NA,NA,NA,Adult,Insomnia,51,SI,NA,NA,NA,Adult,Insomnia,51,SI,othergrp,NA,NA
+283,NA,NA,NA,Adult,Insomnia,51,SI,NA,NA,NA,Adult,Insomnia,51,SI,case,NA,NA
+284,29,NA,NA,Adult,Insomnia,42,Suicidality,36,NA,NA,Adult,Insomnia,42,Suicidality,case,NA,NA
+284,29,NA,NA,Adult,Insomnia,42,Suicidality,,NA,NA,Adult,Insomnia,42,Suicidality,suic,NA,NA
+284,29,NA,NA,Adult,Insomnia,42,Suicidality,NA,NA,NA,Adult,Insomnia,42,Suicidality,othergrp,NA,NA
+285,29,NA,NA,Adult,Sleep disturbance,42,Suicidality,36,NA,NA,Adult,Sleep disturbance,42,Suicidality,case,NA,NA
+285,29,NA,NA,Adult,Sleep disturbance,42,Suicidality,,NA,NA,Adult,Sleep disturbance,42,Suicidality,suic,NA,NA
+285,29,NA,NA,Adult,Sleep disturbance,42,Suicidality,NA,NA,NA,Adult,Sleep disturbance,42,Suicidality,othergrp,NA,NA
+286,29,NA,NA,Adult,Insomnia,42,Suicidality,36,NA,NA,Adult,Insomnia,42,Suicidality,case,NA,NA
+286,29,NA,NA,Adult,Insomnia,42,Suicidality,,NA,NA,Adult,Insomnia,42,Suicidality,suic,NA,NA
+286,29,NA,NA,Adult,Insomnia,42,Suicidality,NA,NA,NA,Adult,Insomnia,42,Suicidality,othergrp,NA,NA
+323,NA,NA,NA,Adult,Insomnia,45,SI,47,2,3.4,Adult,Insomnia,45,SI,othergrp,NA,NA
+323,NA,NA,NA,Adult,Insomnia,45,SI,37,2.4,4.2,Adult,Insomnia,45,SI,suic,NA,NA
+323,NA,NA,NA,Adult,Insomnia,45,SI,NA,NA,NA,Adult,Insomnia,45,SI,case,NA,NA
+337,NA,NA,NA,Adult,Insomnia,50,SA,127,6.6,8.5,Adult,Insomnia,50,SA,suic,NA,NA
+337,NA,NA,NA,Adult,Insomnia,50,SA,NA,NA,NA,Adult,Insomnia,50,SA,case,NA,NA
+337,NA,NA,NA,Adult,Insomnia,50,SA,NA,NA,NA,Adult,Insomnia,50,SA,othergrp,NA,NA
+338,NA,NA,NA,Adult,Insomnia,50,SA,127,NA,NA,Adult,Insomnia,50,SA,suic,NA,NA
+338,NA,NA,NA,Adult,Insomnia,50,SA,NA,NA,NA,Adult,Insomnia,50,SA,case,NA,NA
+338,NA,NA,NA,Adult,Insomnia,50,SA,NA,NA,NA,Adult,Insomnia,50,SA,othergrp,NA,NA
+342,NA,NA,NA,Adult,Hypersomnia,144,SI,44,5.6,NA,Adult,Hypersomnia,144,SI,suic,NA,NA
+342,NA,NA,NA,Adult,Hypersomnia,144,SI,NA,NA,NA,Adult,Hypersomnia,144,SI,case,NA,NA
+342,NA,NA,NA,Adult,Hypersomnia,144,SI,NA,NA,NA,Adult,Hypersomnia,144,SI,othergrp,NA,NA
+343,NA,NA,NA,Adult,Insomnia,144,SI,NA,NA,NA,Adult,Insomnia,144,SI,case,NA,NA
+343,NA,NA,NA,Adult,Insomnia,144,SI,NA,NA,NA,Adult,Insomnia,144,SI,othergrp,NA,NA
+343,NA,NA,NA,Adult,Insomnia,144,SI,404,2.9,NA,Adult,Insomnia,144,SI,suic,NA,NA
+344,NA,NA,NA,Adult,Sleep disturbance,144,SI,NA,NA,NA,Adult,Sleep disturbance,144,SI,case,NA,NA
+344,NA,NA,NA,Adult,Sleep disturbance,144,SI,NA,NA,NA,Adult,Sleep disturbance,144,SI,othergrp,NA,NA
+344,NA,NA,NA,Adult,Sleep disturbance,144,SI,184,4,NA,Adult,Sleep disturbance,144,SI,suic,NA,NA
+346,NA,NA,NA,Adult,Hypersomnia,144,SP,44,5.9,NA,Adult,Hypersomnia,144,SP,suic,NA,NA
+346,NA,NA,NA,Adult,Hypersomnia,144,SP,NA,NA,NA,Adult,Hypersomnia,144,SP,case,NA,NA
+346,NA,NA,NA,Adult,Hypersomnia,144,SP,NA,NA,NA,Adult,Hypersomnia,144,SP,othergrp,NA,NA
+347,NA,NA,NA,Adult,Insomnia,144,SP,NA,NA,NA,Adult,Insomnia,144,SP,case,NA,NA
+347,NA,NA,NA,Adult,Insomnia,144,SP,404,2.2,NA,Adult,Insomnia,144,SP,suic,NA,NA
+347,NA,NA,NA,Adult,Insomnia,144,SP,NA,NA,NA,Adult,Insomnia,144,SP,othergrp,NA,NA
+348,NA,NA,NA,Adult,Sleep disturbance,144,SP,NA,NA,NA,Adult,Sleep disturbance,144,SP,case,NA,NA
+348,NA,NA,NA,Adult,Sleep disturbance,144,SP,NA,NA,NA,Adult,Sleep disturbance,144,SP,othergrp,NA,NA
+348,NA,NA,NA,Adult,Sleep disturbance,144,SP,184,3.5,NA,Adult,Sleep disturbance,144,SP,suic,NA,NA
+350,NA,NA,NA,Adult,Hypersomnia,144,SA,44,5.4,NA,Adult,Hypersomnia,144,SA,suic,NA,NA
+350,NA,NA,NA,Adult,Hypersomnia,144,SA,NA,NA,NA,Adult,Hypersomnia,144,SA,othergrp,NA,NA
+350,NA,NA,NA,Adult,Hypersomnia,144,SA,NA,NA,NA,Adult,Hypersomnia,144,SA,case,NA,NA
+351,NA,NA,NA,Adult,Insomnia,144,SA,404,2.1,NA,Adult,Insomnia,144,SA,suic,NA,NA
+351,NA,NA,NA,Adult,Insomnia,144,SA,NA,NA,NA,Adult,Insomnia,144,SA,case,NA,NA
+351,NA,NA,NA,Adult,Insomnia,144,SA,NA,NA,NA,Adult,Insomnia,144,SA,othergrp,NA,NA
+352,NA,NA,NA,Adult,Sleep disturbance,144,SA,NA,NA,NA,Adult,Sleep disturbance,144,SA,case,NA,NA
+352,NA,NA,NA,Adult,Sleep disturbance,144,SA,184,3,NA,Adult,Sleep disturbance,144,SA,suic,NA,NA
+352,NA,NA,NA,Adult,Sleep disturbance,144,SA,NA,NA,NA,Adult,Sleep disturbance,144,SA,othergrp,NA,NA
+354,NA,NA,NA,Adult,Hypersomnia,144,SA,44,11.1,NA,Adult,Hypersomnia,144,SA,suic,NA,NA
+354,NA,NA,NA,Adult,Hypersomnia,144,SA,NA,NA,NA,Adult,Hypersomnia,144,SA,othergrp,NA,NA
+354,NA,NA,NA,Adult,Hypersomnia,144,SA,NA,NA,NA,Adult,Hypersomnia,144,SA,case,NA,NA
+355,NA,NA,NA,Adult,Insomnia,144,SA,404,2.5,NA,Adult,Insomnia,144,SA,suic,NA,NA
+355,NA,NA,NA,Adult,Insomnia,144,SA,NA,NA,NA,Adult,Insomnia,144,SA,case,NA,NA
+355,NA,NA,NA,Adult,Insomnia,144,SA,NA,NA,NA,Adult,Insomnia,144,SA,othergrp,NA,NA
+356,NA,NA,NA,Adult,Sleep disturbance,144,SA,NA,NA,NA,Adult,Sleep disturbance,144,SA,case,NA,NA
+356,NA,NA,NA,Adult,Sleep disturbance,144,SA,184,5.1,NA,Adult,Sleep disturbance,144,SA,suic,NA,NA
+356,NA,NA,NA,Adult,Sleep disturbance,144,SA,NA,NA,NA,Adult,Sleep disturbance,144,SA,othergrp,NA,NA
+358,145,NA,NA,Adult,Sleep disturbance,82,SD,NA,NA,NA,Adult,Sleep disturbance,82,SD,othergrp,NA,NA
+358,145,NA,NA,Adult,Sleep disturbance,82,SD,,NA,NA,Adult,Sleep disturbance,82,SD,suic,NA,NA
+358,145,NA,NA,Adult,Sleep disturbance,82,SD,49,NA,NA,Adult,Sleep disturbance,82,SD,case,NA,NA
+359,145,NA,NA,Adult,Insomnia,82,SD,NA,NA,NA,Adult,Insomnia,82,SD,othergrp,NA,NA
+359,145,NA,NA,Adult,Insomnia,82,SD,,NA,NA,Adult,Insomnia,82,SD,suic,NA,NA
+359,145,NA,NA,Adult,Insomnia,82,SD,49,NA,NA,Adult,Insomnia,82,SD,case,NA,NA
+360,145,NA,NA,Adult,Sleep disturbance,82,SD,,NA,NA,Adult,Sleep disturbance,82,SD,suic,NA,NA
+360,145,NA,NA,Adult,Sleep disturbance,82,SD,49,NA,NA,Adult,Sleep disturbance,82,SD,case,NA,NA
+360,145,NA,NA,Adult,Sleep disturbance,82,SD,NA,NA,NA,Adult,Sleep disturbance,82,SD,othergrp,NA,NA
+361,145,NA,NA,Adult,Insomnia,82,SD,49,NA,NA,Adult,Insomnia,82,SD,case,NA,NA
+361,145,NA,NA,Adult,Insomnia,82,SD,NA,NA,NA,Adult,Insomnia,82,SD,othergrp,NA,NA
+361,145,NA,NA,Adult,Insomnia,82,SD,,NA,NA,Adult,Insomnia,82,SD,suic,NA,NA
+362,145,NA,NA,Adult,Sleep disturbance,82,SD,NA,NA,NA,Adult,Lack of deep sleep,82,SD,othergrp,NA,NA
+362,145,NA,NA,Adult,Sleep disturbance,82,SD,,NA,NA,Adult,Lack of deep sleep,82,SD,suic,NA,NA
+362,145,NA,NA,Adult,Sleep disturbance,82,SD,49,NA,NA,Adult,Lack of deep sleep,82,SD,case,NA,NA
+364,145,NA,NA,Adult,Sleep disturbance,82,SD,,NA,NA,Adult,Sleep disturbance,82,SD,suic,NA,NA
+364,145,NA,NA,Adult,Sleep disturbance,82,SD,NA,NA,NA,Adult,Sleep disturbance,82,SD,othergrp,NA,NA
+364,145,NA,NA,Adult,Sleep disturbance,82,SD,49,NA,NA,Adult,Sleep disturbance,82,SD,case,NA,NA
+370,NA,NA,NA,Adult,Insomnia,29,SI,NA,NA,NA,Adult,Insomnia,29,SI,othergrp,NA,NA
+370,NA,NA,NA,Adult,Insomnia,29,SI,NA,NA,NA,Adult,Insomnia,29,SI,case,NA,NA
+370,NA,NA,NA,Adult,Insomnia,29,SI,,NA,NA,Adult,Insomnia,29,SI,suic,NA,NA
+371,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,othergrp,NA,NA
+371,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,331,NA,NA,Adult,Sleep disturbance,31,Suicidality,suic,NA,NA
+371,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,case,NA,NA
+372,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,othergrp,NA,NA
+372,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,case,NA,NA
+372,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,245,NA,NA,Adult,Sleep disturbance,31,Suicidality,suic,NA,NA
+373,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,case,NA,NA
+373,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,80,NA,NA,Adult,Sleep disturbance,31,Suicidality,suic,NA,NA
+373,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,NA,NA,NA,Adult,Sleep disturbance,31,Suicidality,othergrp,NA,NA
+375,522,NA,NA,Adult,Sleep disturbance,44,SD,NA,NA,NA,Adult,Sleep disturbance,44,SD,othergrp,NA,NA
+375,522,NA,NA,Adult,Sleep disturbance,44,SD,261,NA,NA,Adult,Sleep disturbance,44,SD,case,NA,NA
+375,522,NA,NA,Adult,Sleep disturbance,44,SD,,NA,NA,Adult,Sleep disturbance,44,SD,suic,NA,NA
+376,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,othergrp,NA,NA
+376,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,case,NA,NA
+376,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,,NA,NA,Adolescent,Sleep disturbance,52,SI,suic,NA,NA
+377,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,case,NA,NA
+377,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,,NA,NA,Adolescent,Sleep disturbance,52,SI,suic,NA,NA
+377,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,othergrp,NA,NA
+378,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,,NA,NA,Adolescent,Sleep disturbance,52,SI,suic,NA,NA
+378,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,othergrp,NA,NA
+378,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,NA,NA,NA,Adolescent,Sleep disturbance,52,SI,case,NA,NA
+379,NA,NA,NA,Adult,Insomnia,53,SD,NA,NA,NA,Adult,Insomnia,53,SD,othergrp,NA,NA
+379,NA,NA,NA,Adult,Insomnia,53,SD,NA,NA,NA,Adult,Insomnia,53,SD,case,NA,NA
+379,NA,NA,NA,Adult,Insomnia,53,SD,48,NA,NA,Adult,Insomnia,53,SD,suic,NA,NA
+380,NA,NA,NA,Adult,Insomnia,53,SD,NA,NA,NA,Adult,Insomnia,53,SD,othergrp,NA,NA
+380,NA,NA,NA,Adult,Insomnia,53,SD,NA,NA,NA,Adult,Insomnia,53,SD,case,NA,NA
+380,NA,NA,NA,Adult,Insomnia,53,SD,48,NA,NA,Adult,Insomnia,53,SD,suic,NA,NA
+381,NA,NA,NA,Adult,Insomnia,53,SD,NA,NA,NA,Adult,Insomnia,53,SD,othergrp,NA,NA
+381,NA,NA,NA,Adult,Insomnia,53,SD,NA,NA,NA,Adult,Insomnia,53,SD,case,NA,NA
+381,NA,NA,NA,Adult,Insomnia,53,SD,48,NA,NA,Adult,Insomnia,53,SD,suic,NA,NA
+382,NA,NA,NA,Adult,Sleep disturbance,53,SD,48,NA,NA,Adult,Nonrestorative sleep,53,SD,suic,NA,NA
+382,NA,NA,NA,Adult,Sleep disturbance,53,SD,NA,NA,NA,Adult,Nonrestorative sleep,53,SD,othergrp,NA,NA
+382,NA,NA,NA,Adult,Sleep disturbance,53,SD,NA,NA,NA,Adult,Nonrestorative sleep,53,SD,case,NA,NA
+383,NA,NA,NA,Adult,Insomnia,53,SD,NA,NA,NA,Adult,Insomnia,53,SD,othergrp,NA,NA
+383,NA,NA,NA,Adult,Insomnia,53,SD,NA,NA,NA,Adult,Insomnia,53,SD,case,NA,NA
+383,NA,NA,NA,Adult,Insomnia,53,SD,48,NA,NA,Adult,Insomnia,53,SD,suic,NA,NA
+391,131,NA,NA,Adolescent,Sleep disturbance,60,SD,,NA,NA,Adolescent,Sleep disturbance,60,SD,suic,NA,NA
+391,131,NA,NA,Adolescent,Sleep disturbance,60,SD,NA,NA,NA,Adolescent,Sleep disturbance,60,SD,othergrp,NA,NA
+391,131,NA,NA,Adolescent,Sleep disturbance,60,SD,140,NA,NA,Adolescent,Sleep disturbance,60,SD,case,NA,NA
+392,131,NA,NA,Adolescent,Insomnia,60,SD,140,NA,NA,Adolescent,Insomnia,60,SD,case,NA,NA
+392,131,NA,NA,Adolescent,Insomnia,60,SD,,NA,NA,Adolescent,Insomnia,60,SD,suic,NA,NA
+392,131,NA,NA,Adolescent,Insomnia,60,SD,NA,NA,NA,Adolescent,Insomnia,60,SD,othergrp,NA,NA
+393,131,NA,NA,Adolescent,Insomnia,60,SD,140,NA,NA,Adolescent,Insomnia,60,SD,case,NA,NA
+393,131,NA,NA,Adolescent,Insomnia,60,SD,,NA,NA,Adolescent,Insomnia,60,SD,suic,NA,NA
+393,131,NA,NA,Adolescent,Insomnia,60,SD,NA,NA,NA,Adolescent,Insomnia,60,SD,othergrp,NA,NA
+394,131,NA,NA,Adolescent,Insomnia,60,SD,140,NA,NA,Adolescent,Insomnia,60,SD,case,NA,NA
+394,131,NA,NA,Adolescent,Insomnia,60,SD,,NA,NA,Adolescent,Insomnia,60,SD,suic,NA,NA
+394,131,NA,NA,Adolescent,Insomnia,60,SD,NA,NA,NA,Adolescent,Insomnia,60,SD,othergrp,NA,NA
+395,131,NA,NA,Adolescent,Insomnia,60,SD,140,NA,NA,Adolescent,Insomnia,60,SD,case,NA,NA
+395,131,NA,NA,Adolescent,Insomnia,60,SD,,NA,NA,Adolescent,Insomnia,60,SD,suic,NA,NA
+395,131,NA,NA,Adolescent,Insomnia,60,SD,NA,NA,NA,Adolescent,Insomnia,60,SD,othergrp,NA,NA
+397,131,NA,NA,Adolescent,Sleep disturbance,60,SD,140,NA,NA,Adolescent,Non-restorative Sleep,60,SD,case,NA,NA
+397,131,NA,NA,Adolescent,Sleep disturbance,60,SD,,NA,NA,Adolescent,Non-restorative Sleep,60,SD,suic,NA,NA
+397,131,NA,NA,Adolescent,Sleep disturbance,60,SD,NA,NA,NA,Adolescent,Non-restorative Sleep,60,SD,othergrp,NA,NA
+398,131,NA,NA,Adolescent,Hypersomnia,60,SD,NA,NA,NA,Adolescent,Hypersomnia,60,SD,othergrp,NA,NA
+398,131,NA,NA,Adolescent,Hypersomnia,60,SD,140,NA,NA,Adolescent,Hypersomnia,60,SD,case,NA,NA
+398,131,NA,NA,Adolescent,Hypersomnia,60,SD,,NA,NA,Adolescent,Hypersomnia,60,SD,suic,NA,NA
+399,131,NA,NA,Adolescent,Sleep disturbance,60,SD,NA,NA,NA,Adolescent,Sleep disturbance,60,SD,othergrp,NA,NA
+399,131,NA,NA,Adolescent,Sleep disturbance,60,SD,140,NA,NA,Adolescent,Sleep disturbance,60,SD,case,NA,NA
+399,131,NA,NA,Adolescent,Sleep disturbance,60,SD,,NA,NA,Adolescent,Sleep disturbance,60,SD,suic,NA,NA
+400,131,NA,NA,Adolescent,Insomnia,60,SD,,NA,NA,Adolescent,Insomnia,60,SD,suic,NA,NA
+400,131,NA,NA,Adolescent,Insomnia,60,SD,NA,NA,NA,Adolescent,Insomnia,60,SD,othergrp,NA,NA
+400,131,NA,NA,Adolescent,Insomnia,60,SD,140,NA,NA,Adolescent,Insomnia,60,SD,case,NA,NA
+401,131,NA,NA,Adolescent,Hypersomnia,60,SD,140,NA,NA,Adolescent,Hypersomnia,60,SD,case,NA,NA
+401,131,NA,NA,Adolescent,Hypersomnia,60,SD,,NA,NA,Adolescent,Hypersomnia,60,SD,suic,NA,NA
+401,131,NA,NA,Adolescent,Hypersomnia,60,SD,NA,NA,NA,Adolescent,Hypersomnia,60,SD,othergrp,NA,NA
+402,409,NA,NA,Adult,Sleep disturbance,71,SA,409,NA,NA,Adult,Sleep disturbance,71,SA,case,NA,NA
+402,409,NA,NA,Adult,Sleep disturbance,71,SA,NA,NA,NA,Adult,Sleep disturbance,71,SA,othergrp,NA,NA
+402,409,NA,NA,Adult,Sleep disturbance,71,SA,,NA,NA,Adult,Sleep disturbance,71,SA,suic,NA,NA
+403,409,NA,NA,Adult,Sleep disturbance,71,SA,NA,NA,NA,Adult,Sleep disturbance,71,SA,othergrp,NA,NA
+403,409,NA,NA,Adult,Sleep disturbance,71,SA,409,NA,NA,Adult,Sleep disturbance,71,SA,case,NA,NA
+403,409,NA,NA,Adult,Sleep disturbance,71,SA,,NA,NA,Adult,Sleep disturbance,71,SA,suic,NA,NA
+404,409,NA,NA,Adult,Sleep disturbance,71,SA,,NA,NA,Adult,Sleep disturbance,71,SA,suic,NA,NA
+404,409,NA,NA,Adult,Sleep disturbance,71,SA,NA,NA,NA,Adult,Sleep disturbance,71,SA,othergrp,NA,NA
+404,409,NA,NA,Adult,Sleep disturbance,71,SA,409,NA,NA,Adult,Sleep disturbance,71,SA,case,NA,NA
+405,NA,NA,NA,Adolescent,Nightmares,73,SI,NA,NA,NA,Adolescent,Nightmares,73,SI,othergrp,NA,NA
+405,NA,NA,NA,Adolescent,Nightmares,73,SI,NA,NA,NA,Adolescent,Nightmares,73,SI,case,NA,NA
+405,NA,NA,NA,Adolescent,Nightmares,73,SI,,NA,NA,Adolescent,Nightmares,73,SI,suic,NA,NA
+406,NA,NA,NA,Adolescent,Sleep disturbance,73,SI,NA,NA,NA,Adolescent,Sleep disturbance,73,SI,case,NA,NA
+406,NA,NA,NA,Adolescent,Sleep disturbance,73,SI,,NA,NA,Adolescent,Sleep disturbance,73,SI,suic,NA,NA
+406,NA,NA,NA,Adolescent,Sleep disturbance,73,SI,NA,NA,NA,Adolescent,Sleep disturbance,73,SI,othergrp,NA,NA
+407,NA,NA,NA,Adult,Insomnia,74,Suicidality,NA,NA,NA,Adult,Insomnia,74,Suicidality,case,NA,NA
+407,NA,NA,NA,Adult,Insomnia,74,Suicidality,NA,NA,NA,Adult,Insomnia,74,Suicidality,othergrp,NA,NA
+407,NA,NA,NA,Adult,Insomnia,74,Suicidality,,NA,NA,Adult,Insomnia,74,Suicidality,suic,NA,NA
+408,35,1.71,2.34,Adult,Insomnia,76,SI,72,1.82,3.49,Adult,Insomnia,76,SI,case,0.399750806844726,0.0190349273014061
+408,35,1.71,2.34,Adult,Insomnia,76,SI,,NA,NA,Adult,Insomnia,76,SI,suic,NA,NA
+408,35,1.71,2.34,Adult,Insomnia,76,SI,28,1.72,2.32,Adult,Insomnia,76,SI,othergrp,-0.00858374369139144,0.0348879363113791
+409,215,4.6,7.3,Adult,Insomnia,81,SI,67,6.1,11.1,Adult,Insomnia,81,SI,case,0.419070760163943,0.0063543823487683
+409,215,4.6,7.3,Adult,Insomnia,81,SI,NA,NA,NA,Adult,Insomnia,81,SI,othergrp,NA,NA
+409,215,4.6,7.3,Adult,Insomnia,81,SI,,NA,NA,Adult,Insomnia,81,SI,suic,NA,NA
+410,215,6.9,11.1,Adult,Sleep disturbance,81,SI,67,7.6,15.4,Adult,Sleep disturbance,81,SI,case,0.327422401101295,0.00543232643005437
+410,215,6.9,11.1,Adult,Sleep disturbance,81,SI,,NA,NA,Adult,Sleep disturbance,81,SI,suic,NA,NA
+410,215,6.9,11.1,Adult,Sleep disturbance,81,SI,NA,NA,NA,Adult,Sleep disturbance,81,SI,othergrp,NA,NA
+417,40,NA,NA,Adolescent,Nightmares,84,SA,40,NA,NA,Adolescent,Nightmares,84,SA,case,NA,NA
+417,40,NA,NA,Adolescent,Nightmares,84,SA,,NA,NA,Adolescent,Nightmares,84,SA,suic,NA,NA
+417,40,NA,NA,Adolescent,Nightmares,84,SA,NA,NA,NA,Adolescent,Nightmares,84,SA,othergrp,NA,NA
+418,40,NA,NA,Adolescent,Insomnia,84,SA,,NA,NA,Adolescent,Insomnia,84,SA,suic,NA,NA
+418,40,NA,NA,Adolescent,Insomnia,84,SA,NA,NA,NA,Adolescent,Insomnia,84,SA,othergrp,NA,NA
+418,40,NA,NA,Adolescent,Insomnia,84,SA,40,NA,NA,Adolescent,Insomnia,84,SA,case,NA,NA
+419,40,NA,NA,Adolescent,Sleep disturbance,84,SA,,NA,NA,Adolescent,Sleep disturbance,84,SA,suic,NA,NA
+419,40,NA,NA,Adolescent,Sleep disturbance,84,SA,NA,NA,NA,Adolescent,Sleep disturbance,84,SA,othergrp,NA,NA
+419,40,NA,NA,Adolescent,Sleep disturbance,84,SA,40,NA,NA,Adolescent,Sleep disturbance,84,SA,case,NA,NA
+420,40,NA,NA,Adolescent,Sleep disturbance,84,SA,,NA,NA,Adolescent,Sleep disturbance,84,SA,suic,NA,NA
+420,40,NA,NA,Adolescent,Sleep disturbance,84,SA,NA,NA,NA,Adolescent,Sleep disturbance,84,SA,othergrp,NA,NA
+420,40,NA,NA,Adolescent,Sleep disturbance,84,SA,40,NA,NA,Adolescent,Sleep disturbance,84,SA,case,NA,NA
+421,40,NA,NA,Adolescent,Sleep disturbance,84,SA,40,NA,NA,Adolescent,Trouble waking,84,SA,case,NA,NA
+421,40,NA,NA,Adolescent,Sleep disturbance,84,SA,NA,NA,NA,Adolescent,Trouble waking,84,SA,othergrp,NA,NA
+421,40,NA,NA,Adolescent,Sleep disturbance,84,SA,,NA,NA,Adolescent,Trouble waking,84,SA,suic,NA,NA
+422,40,NA,NA,Adolescent,Insomnia,84,SA,,NA,NA,Adolescent,Insomnia,84,SA,suic,NA,NA
+422,40,NA,NA,Adolescent,Insomnia,84,SA,40,NA,NA,Adolescent,Insomnia,84,SA,case,NA,NA
+422,40,NA,NA,Adolescent,Insomnia,84,SA,NA,NA,NA,Adolescent,Insomnia,84,SA,othergrp,NA,NA
+424,40,NA,NA,Adolescent,Sleep disturbance,84,SA,NA,NA,NA,Adolescent,Sleep disturbance,84,SA,othergrp,NA,NA
+424,40,NA,NA,Adolescent,Sleep disturbance,84,SA,40,NA,NA,Adolescent,Sleep disturbance,84,SA,case,NA,NA
+424,40,NA,NA,Adolescent,Sleep disturbance,84,SA,,NA,NA,Adolescent,Sleep disturbance,84,SA,suic,NA,NA
+425,40,NA,NA,Adolescent,Sleep disturbance,84,SA,NA,NA,NA,Adolescent,Trouble waking,84,SA,othergrp,NA,NA
+425,40,NA,NA,Adolescent,Sleep disturbance,84,SA,40,NA,NA,Adolescent,Trouble waking,84,SA,case,NA,NA
+425,40,NA,NA,Adolescent,Sleep disturbance,84,SA,,NA,NA,Adolescent,Trouble waking,84,SA,suic,NA,NA
+426,1373,6.08,14.51,Adult,Insomnia,86,SI,211,5.7,8.48,Adult,Insomnia,86,SI,case,-0.537127617092285,0.00226917006450582
+426,1373,6.08,14.51,Adult,Insomnia,86,SI,,NA,NA,Adult,Insomnia,86,SI,suic,NA,NA
+426,1373,6.08,14.51,Adult,Insomnia,86,SI,NA,NA,NA,Adult,Insomnia,86,SI,othergrp,NA,NA
+433,1373,NA,NA,Adult,Nightmares,86,SI,,NA,NA,Adult,Nightmares,86,SI,suic,NA,NA
+433,1373,NA,NA,Adult,Nightmares,86,SI,NA,NA,NA,Adult,Nightmares,86,SI,othergrp,NA,NA
+433,1373,NA,NA,Adult,Nightmares,86,SI,211,NA,NA,Adult,Nightmares,86,SI,case,NA,NA
+434,1373,6.06,3.32,Adult,Nightmares,86,SI,NA,NA,NA,Adult,Nightmares,86,SI,othergrp,NA,NA
+434,1373,6.06,3.32,Adult,Nightmares,86,SI,211,8.26,7.12,Adult,Nightmares,86,SI,case,0.762942942495487,0.00880508862519908
+434,1373,6.06,3.32,Adult,Nightmares,86,SI,,NA,NA,Adult,Nightmares,86,SI,suic,NA,NA
+438,NA,NA,NA,Adult,Nightmares,87,SI,NA,NA,NA,Adult,Nightmares,87,SI,othergrp,NA,NA
+438,NA,NA,NA,Adult,Nightmares,87,SI,NA,NA,NA,Adult,Nightmares,87,SI,case,NA,NA
+438,NA,NA,NA,Adult,Nightmares,87,SI,,NA,NA,Adult,Nightmares,87,SI,suic,NA,NA
+439,NA,NA,NA,Adult,Nightmares,87,SI,NA,NA,NA,Adult,Nightmares,87,SI,case,NA,NA
+439,NA,NA,NA,Adult,Nightmares,87,SI,NA,NA,NA,Adult,Nightmares,87,SI,othergrp,NA,NA
+439,NA,NA,NA,Adult,Nightmares,87,SI,,NA,NA,Adult,Nightmares,87,SI,suic,NA,NA
+440,NA,NA,NA,Adult,Nightmares,87,SI,NA,NA,NA,Adult,Nightmares,87,SI,othergrp,NA,NA
+440,NA,NA,NA,Adult,Nightmares,87,SI,,NA,NA,Adult,Nightmares,87,SI,suic,NA,NA
+440,NA,NA,NA,Adult,Nightmares,87,SI,NA,NA,NA,Adult,Nightmares,87,SI,case,NA,NA
+441,NA,NA,NA,Adult,Sleep disturbance,87,SA,,NA,NA,Adult,Sleep quality,87,SA,suic,NA,NA
+441,NA,NA,NA,Adult,Sleep disturbance,87,SA,NA,NA,NA,Adult,Sleep quality,87,SA,case,NA,NA
+441,NA,NA,NA,Adult,Sleep disturbance,87,SA,NA,NA,NA,Adult,Sleep quality,87,SA,othergrp,NA,NA
+442,NA,NA,NA,Adult,Nightmares,87,SA,NA,NA,NA,Adult,Nightmares,87,SA,case,NA,NA
+442,NA,NA,NA,Adult,Nightmares,87,SA,,NA,NA,Adult,Nightmares,87,SA,suic,NA,NA
+442,NA,NA,NA,Adult,Nightmares,87,SA,NA,NA,NA,Adult,Nightmares,87,SA,othergrp,NA,NA
+443,NA,NA,NA,Adult,Nightmares,87,SA,NA,NA,NA,Adult,Nightmares,87,SA,case,NA,NA
+443,NA,NA,NA,Adult,Nightmares,87,SA,NA,NA,NA,Adult,Nightmares,87,SA,othergrp,NA,NA
+443,NA,NA,NA,Adult,Nightmares,87,SA,,NA,NA,Adult,Nightmares,87,SA,suic,NA,NA
+444,NA,NA,NA,Adult,Nightmares,87,SA,NA,NA,NA,Adult,Nightmares,87,SA,othergrp,NA,NA
+444,NA,NA,NA,Adult,Nightmares,87,SA,,NA,NA,Adult,Nightmares,87,SA,suic,NA,NA
+444,NA,NA,NA,Adult,Nightmares,87,SA,NA,NA,NA,Adult,Nightmares,87,SA,case,NA,NA
+445,NA,NA,NA,Adult,Nightmares,91,SA,252,NA,NA,Adult,Nightmares,91,SA,suic,NA,NA
+445,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,case,NA,NA
+445,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,othergrp,NA,NA
+446,NA,NA,NA,Adult,Insomnia,91,SA,252,NA,NA,Adult,Insomnia,91,SA,suic,NA,NA
+446,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,othergrp,NA,NA
+446,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,case,NA,NA
+447,NA,NA,NA,Adult,Sleep disturbance,91,SA,NA,NA,NA,Adult,Sleep disturbance,91,SA,othergrp,NA,NA
+447,NA,NA,NA,Adult,Sleep disturbance,91,SA,NA,NA,NA,Adult,Sleep disturbance,91,SA,case,NA,NA
+447,NA,NA,NA,Adult,Sleep disturbance,91,SA,252,NA,NA,Adult,Sleep disturbance,91,SA,suic,NA,NA
+448,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,othergrp,NA,NA
+448,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,case,NA,NA
+448,NA,NA,NA,Adult,Nightmares,91,SA,12,NA,NA,Adult,Nightmares,91,SA,suic,NA,NA
+449,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,case,NA,NA
+449,NA,NA,NA,Adult,Insomnia,91,SA,12,NA,NA,Adult,Insomnia,91,SA,suic,NA,NA
+449,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,othergrp,NA,NA
+450,NA,NA,NA,Adult,Sleep disturbance,91,SA,12,NA,NA,Adult,Sleep disturbance,91,SA,suic,NA,NA
+450,NA,NA,NA,Adult,Sleep disturbance,91,SA,NA,NA,NA,Adult,Sleep disturbance,91,SA,othergrp,NA,NA
+450,NA,NA,NA,Adult,Sleep disturbance,91,SA,NA,NA,NA,Adult,Sleep disturbance,91,SA,case,NA,NA
+451,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,othergrp,NA,NA
+451,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,case,NA,NA
+451,NA,NA,NA,Adult,Insomnia,91,SA,130,NA,NA,Adult,Insomnia,91,SA,suic,NA,NA
+452,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,othergrp,NA,NA
+452,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,case,NA,NA
+452,NA,NA,NA,Adult,Insomnia,91,SA,151,NA,NA,Adult,Insomnia,91,SA,suic,NA,NA
+453,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,case,NA,NA
+453,NA,NA,NA,Adult,Insomnia,91,SA,NA,NA,NA,Adult,Insomnia,91,SA,othergrp,NA,NA
+453,NA,NA,NA,Adult,Insomnia,91,SA,480,NA,NA,Adult,Insomnia,91,SA,suic,NA,NA
+454,NA,NA,NA,Adult,Nightmares,91,SA,141,NA,NA,Adult,Nightmares,91,SA,suic,NA,NA
+454,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,case,NA,NA
+454,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,othergrp,NA,NA
+455,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,othergrp,NA,NA
+455,NA,NA,NA,Adult,Nightmares,91,SA,104,NA,NA,Adult,Nightmares,91,SA,suic,NA,NA
+455,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,case,NA,NA
+456,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,othergrp,NA,NA
+456,NA,NA,NA,Adult,Nightmares,91,SA,173,NA,NA,Adult,Nightmares,91,SA,suic,NA,NA
+456,NA,NA,NA,Adult,Nightmares,91,SA,NA,NA,NA,Adult,Nightmares,91,SA,case,NA,NA
+457,43,NA,0.9,Adult,Sleep disturbance,94,SA,43,NA,2.1,Adult,Sleep disturbance,94,SA,case,0.847297860387204,NA
+457,43,NA,0.9,Adult,Sleep disturbance,94,SA,NA,NA,NA,Adult,Sleep disturbance,94,SA,othergrp,NA,NA
+457,43,NA,0.9,Adult,Sleep disturbance,94,SA,,NA,NA,Adult,Sleep disturbance,94,SA,suic,NA,NA
+462,1052,NA,NA,Adolescent,Nightmares,96,SI,NA,NA,NA,Adolescent,Nightmares,96,SI,othergrp,NA,NA
+462,1052,NA,NA,Adolescent,Nightmares,96,SI,,NA,NA,Adolescent,Nightmares,96,SI,suic,NA,NA
+462,1052,NA,NA,Adolescent,Nightmares,96,SI,167,NA,NA,Adolescent,Nightmares,96,SI,case,NA,NA
+463,1052,NA,NA,Adolescent,Nightmares,96,SI,,NA,NA,Adolescent,Nightmares,96,SI,suic,NA,NA
+463,1052,NA,NA,Adolescent,Nightmares,96,SI,NA,NA,NA,Adolescent,Nightmares,96,SI,othergrp,NA,NA
+463,1052,NA,NA,Adolescent,Nightmares,96,SI,167,NA,NA,Adolescent,Nightmares,96,SI,case,NA,NA
+464,1052,NA,NA,Adolescent,Nightmares,96,SI,NA,NA,NA,Adolescent,Nightmares,96,SI,othergrp,NA,NA
+464,1052,NA,NA,Adolescent,Nightmares,96,SI,167,NA,NA,Adolescent,Nightmares,96,SI,case,NA,NA
+464,1052,NA,NA,Adolescent,Nightmares,96,SI,,NA,NA,Adolescent,Nightmares,96,SI,suic,NA,NA
+465,1052,NA,NA,Adolescent,Insomnia,96,SI,NA,NA,NA,Adolescent,Insomnia,96,SI,othergrp,NA,NA
+465,1052,NA,NA,Adolescent,Insomnia,96,SI,167,NA,NA,Adolescent,Insomnia,96,SI,case,NA,NA
+465,1052,NA,NA,Adolescent,Insomnia,96,SI,,NA,NA,Adolescent,Insomnia,96,SI,suic,NA,NA
+466,1052,NA,NA,Adolescent,Insomnia,96,SI,NA,NA,NA,Adolescent,Insomnia,96,SI,othergrp,NA,NA
+466,1052,NA,NA,Adolescent,Insomnia,96,SI,167,NA,NA,Adolescent,Insomnia,96,SI,case,NA,NA
+466,1052,NA,NA,Adolescent,Insomnia,96,SI,,NA,NA,Adolescent,Insomnia,96,SI,suic,NA,NA
+467,1052,NA,NA,Adolescent,Insomnia,96,SI,,NA,NA,Adolescent,Insomnia,96,SI,suic,NA,NA
+467,1052,NA,NA,Adolescent,Insomnia,96,SI,167,NA,NA,Adolescent,Insomnia,96,SI,case,NA,NA
+467,1052,NA,NA,Adolescent,Insomnia,96,SI,NA,NA,NA,Adolescent,Insomnia,96,SI,othergrp,NA,NA
+468,1052,NA,NA,Adolescent,Insomnia,96,SI,NA,NA,NA,Adolescent,Insomnia,96,SI,othergrp,NA,NA
+468,1052,NA,NA,Adolescent,Insomnia,96,SI,,NA,NA,Adolescent,Insomnia,96,SI,suic,NA,NA
+468,1052,NA,NA,Adolescent,Insomnia,96,SI,167,NA,NA,Adolescent,Insomnia,96,SI,case,NA,NA
+472,81,NA,NA,Adult,Insomnia,105,SD,,NA,NA,Adult,Insomnia,105,SD,suic,NA,NA
+472,81,NA,NA,Adult,Insomnia,105,SD,NA,NA,NA,Adult,Insomnia,105,SD,othergrp,NA,NA
+472,81,NA,NA,Adult,Insomnia,105,SD,156,NA,NA,Adult,Insomnia,105,SD,case,NA,NA
+473,81,NA,NA,Adult,Hypersomnia,105,SD,,NA,NA,Adult,Hypersomnia,105,SD,suic,NA,NA
+473,81,NA,NA,Adult,Hypersomnia,105,SD,NA,NA,NA,Adult,Hypersomnia,105,SD,othergrp,NA,NA
+473,81,NA,NA,Adult,Hypersomnia,105,SD,156,NA,NA,Adult,Hypersomnia,105,SD,case,NA,NA
+476,NA,NA,NA,Adult,Sleep disturbance,110,SI,,NA,NA,Adult,Sleep disturbance,110,SI,suic,NA,NA
+476,NA,NA,NA,Adult,Sleep disturbance,110,SI,NA,NA,NA,Adult,Sleep disturbance,110,SI,othergrp,NA,NA
+476,NA,NA,NA,Adult,Sleep disturbance,110,SI,NA,NA,NA,Adult,Sleep disturbance,110,SI,case,NA,NA
+477,NA,NA,NA,Adult,Sleep disturbance,110,SI,,NA,NA,Adult,Sleep disturbance,110,SI,suic,NA,NA
+477,NA,NA,NA,Adult,Sleep disturbance,110,SI,NA,NA,NA,Adult,Sleep disturbance,110,SI,othergrp,NA,NA
+477,NA,NA,NA,Adult,Sleep disturbance,110,SI,NA,NA,NA,Adult,Sleep disturbance,110,SI,case,NA,NA
+478,NA,NA,NA,Adult,Insomnia,111,Suicidality,NA,NA,NA,Adult,Insomnia,111,Suicidality,othergrp,NA,NA
+478,NA,NA,NA,Adult,Insomnia,111,Suicidality,NA,NA,NA,Adult,Insomnia,111,Suicidality,case,NA,NA
+478,NA,NA,NA,Adult,Insomnia,111,Suicidality,,NA,NA,Adult,Insomnia,111,Suicidality,suic,NA,NA
+479,NA,NA,NA,Adult,Insomnia,111,SA,NA,NA,NA,Adult,Insomnia,111,SA,case,NA,NA
+479,NA,NA,NA,Adult,Insomnia,111,SA,NA,NA,NA,Adult,Insomnia,111,SA,othergrp,NA,NA
+479,NA,NA,NA,Adult,Insomnia,111,SA,,NA,NA,Adult,Insomnia,111,SA,suic,NA,NA
+480,NA,NA,NA,Adult,Nightmares,111,Suicidality,NA,NA,NA,Adult,Nightmares,111,Suicidality,othergrp,NA,NA
+480,NA,NA,NA,Adult,Nightmares,111,Suicidality,,NA,NA,Adult,Nightmares,111,Suicidality,suic,NA,NA
+480,NA,NA,NA,Adult,Nightmares,111,Suicidality,NA,NA,NA,Adult,Nightmares,111,Suicidality,case,NA,NA
+481,NA,NA,NA,Adult,Nightmares,111,SA,,NA,NA,Adult,Nightmares,111,SA,suic,NA,NA
+481,NA,NA,NA,Adult,Nightmares,111,SA,NA,NA,NA,Adult,Nightmares,111,SA,case,NA,NA
+481,NA,NA,NA,Adult,Nightmares,111,SA,NA,NA,NA,Adult,Nightmares,111,SA,othergrp,NA,NA
+482,NA,NA,NA,Adult,Insomnia,111,SA,NA,NA,NA,Adult,Insomnia,111,SA,case,NA,NA
+482,NA,NA,NA,Adult,Insomnia,111,SA,,NA,NA,Adult,Insomnia,111,SA,suic,NA,NA
+482,NA,NA,NA,Adult,Insomnia,111,SA,NA,NA,NA,Adult,Insomnia,111,SA,othergrp,NA,NA
+483,NA,NA,NA,Adult,Nightmares,111,SA,NA,NA,NA,Adult,Nightmares,111,SA,case,NA,NA
+483,NA,NA,NA,Adult,Nightmares,111,SA,NA,NA,NA,Adult,Nightmares,111,SA,othergrp,NA,NA
+483,NA,NA,NA,Adult,Nightmares,111,SA,,NA,NA,Adult,Nightmares,111,SA,suic,NA,NA
+484,NA,NA,NA,Adult,Insomnia,112,Suicidality,NA,NA,NA,Adult,Insomnia,112,Suicidality,othergrp,NA,NA
+484,NA,NA,NA,Adult,Insomnia,112,Suicidality,307,NA,NA,Adult,Insomnia,112,Suicidality,suic,NA,NA
+484,NA,NA,NA,Adult,Insomnia,112,Suicidality,NA,NA,NA,Adult,Insomnia,112,Suicidality,case,NA,NA
+485,NA,NA,NA,Adult,Insomnia,112,Suicidality,307,NA,NA,Adult,Insomnia,112,Suicidality,suic,NA,NA
+485,NA,NA,NA,Adult,Insomnia,112,Suicidality,NA,NA,NA,Adult,Insomnia,112,Suicidality,case,NA,NA
+485,NA,NA,NA,Adult,Insomnia,112,Suicidality,NA,NA,NA,Adult,Insomnia,112,Suicidality,othergrp,NA,NA
+486,NA,NA,NA,Adult,Nightmares,112,Suicidality,307,NA,NA,Adult,Nightmares,112,Suicidality,suic,NA,NA
+486,NA,NA,NA,Adult,Nightmares,112,Suicidality,NA,NA,NA,Adult,Nightmares,112,Suicidality,othergrp,NA,NA
+486,NA,NA,NA,Adult,Nightmares,112,Suicidality,NA,NA,NA,Adult,Nightmares,112,Suicidality,case,NA,NA
+487,NA,NA,NA,Adult,Nightmares,112,Suicidality,NA,NA,NA,Adult,Nightmares,112,Suicidality,othergrp,NA,NA
+487,NA,NA,NA,Adult,Nightmares,112,Suicidality,NA,NA,NA,Adult,Nightmares,112,Suicidality,case,NA,NA
+487,NA,NA,NA,Adult,Nightmares,112,Suicidality,307,NA,NA,Adult,Nightmares,112,Suicidality,suic,NA,NA
+488,NA,NA,NA,Adult,Insomnia,114,SI,NA,NA,NA,Adult,Insomnia,114,SI,othergrp,NA,NA
+488,NA,NA,NA,Adult,Insomnia,114,SI,NA,NA,NA,Adult,Insomnia,114,SI,case,NA,NA
+488,NA,NA,NA,Adult,Insomnia,114,SI,74,NA,NA,Adult,Insomnia,114,SI,suic,NA,NA
+489,NA,NA,NA,Adult,Nightmares,114,SI,NA,NA,NA,Adult,Nightmares,114,SI,othergrp,NA,NA
+489,NA,NA,NA,Adult,Nightmares,114,SI,NA,NA,NA,Adult,Nightmares,114,SI,case,NA,NA
+489,NA,NA,NA,Adult,Nightmares,114,SI,74,NA,NA,Adult,Nightmares,114,SI,suic,NA,NA
+490,NA,NA,NA,Adult,Insomnia,116,SI,29,NA,NA,Adult,Insomnia,116,SI,suic,NA,NA
+490,NA,NA,NA,Adult,Insomnia,116,SI,NA,NA,NA,Adult,Insomnia,116,SI,othergrp,NA,NA
+490,NA,NA,NA,Adult,Insomnia,116,SI,NA,NA,NA,Adult,Insomnia,116,SI,case,NA,NA
+507,4,NA,NA,Adult,Insomnia,119,SA,46,NA,NA,Adult,Insomnia,119,SA,case,NA,NA
+507,4,NA,NA,Adult,Insomnia,119,SA,226,NA,NA,Adult,Insomnia,119,SA,suic,NA,NA
+507,4,NA,NA,Adult,Insomnia,119,SA,NA,NA,NA,Adult,Insomnia,119,SA,othergrp,NA,NA
+508,696,NA,NA,Adult,Insomnia,120,SI,71,NA,NA,Adult,Insomnia,120,SI,case,NA,NA
+508,696,NA,NA,Adult,Insomnia,120,SI,NA,NA,NA,Adult,Insomnia,120,SI,othergrp,NA,NA
+508,696,NA,NA,Adult,Insomnia,120,SI,,NA,NA,Adult,Insomnia,120,SI,suic,NA,NA
+514,696,NA,NA,Adult,Sleep disturbance,120,SI,NA,NA,NA,Adult,Nocturnal leg jerks,120,SI,othergrp,NA,NA
+514,696,NA,NA,Adult,Sleep disturbance,120,SI,,NA,NA,Adult,Nocturnal leg jerks,120,SI,suic,NA,NA
+514,696,NA,NA,Adult,Sleep disturbance,120,SI,71,NA,NA,Adult,Nocturnal leg jerks,120,SI,case,NA,NA
+515,40,NA,NA,Adult,Insomnia,122,SD,40,NA,NA,Adult,Insomnia,122,SD,case,NA,NA
+515,40,NA,NA,Adult,Insomnia,122,SD,NA,NA,NA,Adult,Insomnia,122,SD,othergrp,NA,NA
+515,40,NA,NA,Adult,Insomnia,122,SD,,NA,NA,Adult,Insomnia,122,SD,suic,NA,NA
+516,67,4,11.9,Adult,Sleep disturbance,123,SI,,NA,NA,Adult,Sleep quality,123,SI,suic,NA,NA
+516,67,4,11.9,Adult,Sleep disturbance,123,SI,21,3.1,15.1,Adult,Sleep quality,123,SI,case,0.238156343703395,0.00369337680571207
+516,67,4,11.9,Adult,Sleep disturbance,123,SI,NA,NA,NA,Adult,Sleep quality,123,SI,othergrp,NA,NA
+517,39,1.07,10.97,Adult,Sleep disturbance,143,SI,,NA,NA,Adult,Sleep disturbance,143,SI,suic,NA,NA
+517,39,1.07,10.97,Adult,Sleep disturbance,143,SI,NA,NA,NA,Adult,Sleep disturbance,143,SI,othergrp,NA,NA
+517,39,1.07,10.97,Adult,Sleep disturbance,143,SI,12,3.66,12.5,Adult,Sleep disturbance,143,SI,case,0.130564370021116,0.00738826374860426
+518,39,4.42,1.72,Adult,Sleep disturbance,143,SI,NA,NA,NA,Adult,Sleep quality,143,SI,othergrp,NA,NA
+518,39,4.42,1.72,Adult,Sleep disturbance,143,SI,,NA,NA,Adult,Sleep quality,143,SI,suic,NA,NA
+518,39,4.42,1.72,Adult,Sleep disturbance,143,SI,12,0.57,2.2,Adult,Sleep quality,143,SI,case,0.246133069538909,0.174919769937439
+522,39,0.56,2,Adult,Sleep disturbance,143,SI,,NA,NA,Adult,Sleep disturbance,143,SI,suic,NA,NA
+522,39,0.56,2,Adult,Sleep disturbance,143,SI,12,0.39,2.2,Adult,Sleep disturbance,143,SI,case,0.0953101798043249,0.00462905806314897
+522,39,0.56,2,Adult,Sleep disturbance,143,SI,NA,NA,NA,Adult,Sleep disturbance,143,SI,othergrp,NA,NA
+523,400,NA,10.2,Adult,Sleep disturbance,154,SD,20,NA,12,Adult,Sleep quality,154,SD,case,0.162518929497775,NA
+523,400,NA,10.2,Adult,Sleep disturbance,154,SD,NA,NA,NA,Adult,Sleep quality,154,SD,othergrp,NA,NA
+523,400,NA,10.2,Adult,Sleep disturbance,154,SD,,NA,NA,Adult,Sleep quality,154,SD,suic,NA,NA
+524,410,NA,NA,Adult,Sleep disturbance,160,Suicidality,50,NA,NA,Adult,Sleep quality,160,Suicidality,case,NA,NA
+524,410,NA,NA,Adult,Sleep disturbance,160,Suicidality,NA,NA,NA,Adult,Sleep quality,160,Suicidality,othergrp,NA,NA
+524,410,NA,NA,Adult,Sleep disturbance,160,Suicidality,,NA,NA,Adult,Sleep quality,160,Suicidality,suic,NA,NA
+525,86,0.8,1.1,Adult,Sleep disturbance,161,SI,,NA,NA,Adult,Sleep quality,161,SI,suic,NA,NA
+525,86,0.8,1.1,Adult,Sleep disturbance,161,SI,NA,NA,NA,Adult,Sleep quality,161,SI,othergrp,NA,NA
+525,86,0.8,1.1,Adult,Sleep disturbance,161,SI,13,0.8,2,Adult,Sleep quality,161,SI,case,0.59783700075562,0.0184579902127471
+529,86,0.7,1.4,Adult,Sleep disturbance,161,SI,13,0.7,1.9,Adult,Sleep disturbance,161,SI,case,0.305381649551182,0.0133480592074292
+529,86,0.7,1.4,Adult,Sleep disturbance,161,SI,NA,NA,NA,Adult,Sleep disturbance,161,SI,othergrp,NA,NA
+529,86,0.7,1.4,Adult,Sleep disturbance,161,SI,,NA,NA,Adult,Sleep disturbance,161,SI,suic,NA,NA
+530,86,4.1,6.2,Adult,Sleep disturbance,161,SI,,NA,NA,Adult,Sleep disturbance,161,SI,suic,NA,NA
+530,86,4.1,6.2,Adult,Sleep disturbance,161,SI,13,4.8,9.5,Adult,Sleep disturbance,161,SI,case,0.426742506555449,0.0247226989535063
+530,86,4.1,6.2,Adult,Sleep disturbance,161,SI,NA,NA,NA,Adult,Sleep disturbance,161,SI,othergrp,NA,NA
+531,NA,NA,NA,Adult,Insomnia,163,SI,119,NA,NA,Adult,Insomnia,163,SI,othergrp,NA,NA
+531,NA,NA,NA,Adult,Insomnia,163,SI,109,NA,NA,Adult,Insomnia,163,SI,suic,NA,NA
+531,NA,NA,NA,Adult,Insomnia,163,SI,NA,NA,NA,Adult,Insomnia,163,SI,case,NA,NA
+532,NA,NA,NA,Adult,Insomnia,163,SP,26,NA,NA,Adult,Insomnia,163,SP,othergrp,NA,NA
+532,NA,NA,NA,Adult,Insomnia,163,SP,NA,NA,NA,Adult,Insomnia,163,SP,case,NA,NA
+532,NA,NA,NA,Adult,Insomnia,163,SP,39,NA,NA,Adult,Insomnia,163,SP,suic,NA,NA
+533,NA,NA,NA,Adult,Insomnia,163,SA,NA,NA,NA,Adult,Insomnia,163,SA,case,NA,NA
+533,NA,NA,NA,Adult,Insomnia,163,SA,19,NA,NA,Adult,Insomnia,163,SA,othergrp,NA,NA
+533,NA,NA,NA,Adult,Insomnia,163,SA,26,NA,NA,Adult,Insomnia,163,SA,suic,NA,NA
+534,NA,NA,NA,Adult,Insomnia,163,SI,NA,NA,NA,Adult,Insomnia,163,SI,case,NA,NA
+534,NA,NA,NA,Adult,Insomnia,163,SI,116,NA,NA,Adult,Insomnia,163,SI,suic,NA,NA
+534,NA,NA,NA,Adult,Insomnia,163,SI,113,NA,NA,Adult,Insomnia,163,SI,othergrp,NA,NA
+535,NA,NA,NA,Adult,Insomnia,163,SP,29,NA,NA,Adult,Insomnia,163,SP,suic,NA,NA
+535,NA,NA,NA,Adult,Insomnia,163,SP,NA,NA,NA,Adult,Insomnia,163,SP,case,NA,NA
+535,NA,NA,NA,Adult,Insomnia,163,SP,26,NA,NA,Adult,Insomnia,163,SP,othergrp,NA,NA
+536,NA,NA,NA,Adult,Insomnia,163,SA,15,NA,NA,Adult,Insomnia,163,SA,othergrp,NA,NA
+536,NA,NA,NA,Adult,Insomnia,163,SA,30,NA,NA,Adult,Insomnia,163,SA,suic,NA,NA
+536,NA,NA,NA,Adult,Insomnia,163,SA,NA,NA,NA,Adult,Insomnia,163,SA,case,NA,NA
+537,NA,NA,NA,Adult,Insomnia,163,SI,96,NA,NA,Adult,Insomnia,163,SI,suic,NA,NA
+537,NA,NA,NA,Adult,Insomnia,163,SI,NA,NA,NA,Adult,Insomnia,163,SI,case,NA,NA
+537,NA,NA,NA,Adult,Insomnia,163,SI,133,NA,NA,Adult,Insomnia,163,SI,othergrp,NA,NA
+538,NA,NA,NA,Adult,Insomnia,163,SP,NA,NA,NA,Adult,Insomnia,163,SP,case,NA,NA
+538,NA,NA,NA,Adult,Insomnia,163,SP,33,NA,NA,Adult,Insomnia,163,SP,suic,NA,NA
+538,NA,NA,NA,Adult,Insomnia,163,SP,32,NA,NA,Adult,Insomnia,163,SP,othergrp,NA,NA
+539,NA,NA,NA,Adult,Insomnia,163,SA,25,NA,NA,Adult,Insomnia,163,SA,suic,NA,NA
+539,NA,NA,NA,Adult,Insomnia,163,SA,20,NA,NA,Adult,Insomnia,163,SA,othergrp,NA,NA
+539,NA,NA,NA,Adult,Insomnia,163,SA,NA,NA,NA,Adult,Insomnia,163,SA,case,NA,NA
+540,NA,NA,NA,Adolescent,Sleep disturbance,165,SI,30,NA,NA,Adolescent,Sleep disturbance,165,SI,suic,NA,NA
+540,NA,NA,NA,Adolescent,Sleep disturbance,165,SI,NA,NA,NA,Adolescent,Sleep disturbance,165,SI,othergrp,NA,NA
+540,NA,NA,NA,Adolescent,Sleep disturbance,165,SI,NA,NA,NA,Adolescent,Sleep disturbance,165,SI,case,NA,NA
+541,NA,NA,NA,Adolescent,Nightmares,165,SI,30,NA,NA,Adolescent,Nightmares,165,SI,suic,NA,NA
+541,NA,NA,NA,Adolescent,Nightmares,165,SI,NA,NA,NA,Adolescent,Nightmares,165,SI,othergrp,NA,NA
+541,NA,NA,NA,Adolescent,Nightmares,165,SI,NA,NA,NA,Adolescent,Nightmares,165,SI,case,NA,NA
+542,NA,NA,NA,Adult,Insomnia,167,SI,NA,NA,NA,Adult,Insomnia,167,SI,case,NA,NA
+542,NA,NA,NA,Adult,Insomnia,167,SI,NA,NA,NA,Adult,Insomnia,167,SI,othergrp,NA,NA
+542,NA,NA,NA,Adult,Insomnia,167,SI,71,NA,NA,Adult,Insomnia,167,SI,suic,NA,NA
+548,128,NA,NA,Adult,Insomnia,179,SD,,NA,NA,Adult,Insomnia,179,SD,suic,NA,NA
+548,128,NA,NA,Adult,Insomnia,179,SD,64,NA,NA,Adult,Insomnia,179,SD,case,NA,NA
+548,128,NA,NA,Adult,Insomnia,179,SD,NA,NA,NA,Adult,Insomnia,179,SD,othergrp,NA,NA
+550,NA,NA,NA,Adult,Sleep disturbance,187,SI,200,NA,NA,Adult,Sleep disturbance,187,SI,suic,NA,NA
+550,NA,NA,NA,Adult,Sleep disturbance,187,SI,NA,NA,NA,Adult,Sleep disturbance,187,SI,case,NA,NA
+550,NA,NA,NA,Adult,Sleep disturbance,187,SI,NA,NA,NA,Adult,Sleep disturbance,187,SI,othergrp,NA,NA
+551,NA,NA,NA,Adult,Sleep disturbance,187,SI,NA,NA,NA,Adult,Sleep quality,187,SI,case,NA,NA
+551,NA,NA,NA,Adult,Sleep disturbance,187,SI,200,NA,NA,Adult,Sleep quality,187,SI,suic,NA,NA
+551,NA,NA,NA,Adult,Sleep disturbance,187,SI,NA,NA,NA,Adult,Sleep quality,187,SI,othergrp,NA,NA
+552,1394,NA,NA,Adult,Insomnia,188,SA,,NA,NA,Adult,Insomnia,188,SA,suic,NA,NA
+552,1394,NA,NA,Adult,Insomnia,188,SA,NA,NA,NA,Adult,Insomnia,188,SA,othergrp,NA,NA
+552,1394,NA,NA,Adult,Insomnia,188,SA,393,NA,NA,Adult,Insomnia,188,SA,case,NA,NA
+553,203,NA,NA,Adult,Insomnia,188,SA,,NA,NA,Adult,Insomnia,188,SA,suic,NA,NA
+553,203,NA,NA,Adult,Insomnia,188,SA,NA,NA,NA,Adult,Insomnia,188,SA,othergrp,NA,NA
+553,203,NA,NA,Adult,Insomnia,188,SA,48,NA,NA,Adult,Insomnia,188,SA,case,NA,NA
+554,4263,NA,NA,Adult,Insomnia,190,SA,,NA,NA,Adult,Insomnia,190,SA,suic,NA,NA
+554,4263,NA,NA,Adult,Insomnia,190,SA,NA,NA,NA,Adult,Insomnia,190,SA,othergrp,NA,NA
+554,4263,NA,NA,Adult,Insomnia,190,SA,249,NA,NA,Adult,Insomnia,190,SA,case,NA,NA
+555,4263,NA,NA,Adult,Insomnia,190,SA,NA,NA,NA,Adult,Insomnia,190,SA,othergrp,NA,NA
+555,4263,NA,NA,Adult,Insomnia,190,SA,249,NA,NA,Adult,Insomnia,190,SA,case,NA,NA
+555,4263,NA,NA,Adult,Insomnia,190,SA,,NA,NA,Adult,Insomnia,190,SA,suic,NA,NA
+556,4263,NA,NA,Adult,Insomnia,190,SA,,NA,NA,Adult,Insomnia,190,SA,suic,NA,NA
+556,4263,NA,NA,Adult,Insomnia,190,SA,NA,NA,NA,Adult,Insomnia,190,SA,othergrp,NA,NA
+556,4263,NA,NA,Adult,Insomnia,190,SA,249,NA,NA,Adult,Insomnia,190,SA,case,NA,NA
+557,4263,NA,NA,Adult,Insomnia,190,SA,,NA,NA,Adult,Insomnia,190,SA,suic,NA,NA
+557,4263,NA,NA,Adult,Insomnia,190,SA,NA,NA,NA,Adult,Insomnia,190,SA,othergrp,NA,NA
+557,4263,NA,NA,Adult,Insomnia,190,SA,616,NA,NA,Adult,Insomnia,190,SA,case,NA,NA
+558,4263,NA,NA,Adult,Insomnia,190,SA,,NA,NA,Adult,Insomnia,190,SA,suic,NA,NA
+558,4263,NA,NA,Adult,Insomnia,190,SA,NA,NA,NA,Adult,Insomnia,190,SA,othergrp,NA,NA
+558,4263,NA,NA,Adult,Insomnia,190,SA,616,NA,NA,Adult,Insomnia,190,SA,case,NA,NA
+559,4263,NA,NA,Adult,Insomnia,190,SA,NA,NA,NA,Adult,Insomnia,190,SA,othergrp,NA,NA
+559,4263,NA,NA,Adult,Insomnia,190,SA,616,NA,NA,Adult,Insomnia,190,SA,case,NA,NA
+559,4263,NA,NA,Adult,Insomnia,190,SA,,NA,NA,Adult,Insomnia,190,SA,suic,NA,NA
+560,NA,NA,NA,Adult,Insomnia,192,Suicidality,NA,NA,NA,Adult,Insomnia,192,Suicidality,case,NA,NA
+560,NA,NA,NA,Adult,Insomnia,192,Suicidality,NA,NA,NA,Adult,Insomnia,192,Suicidality,othergrp,NA,NA
+560,NA,NA,NA,Adult,Insomnia,192,Suicidality,22,NA,NA,Adult,Insomnia,192,Suicidality,suic,NA,NA
+561,150,0.3,7.8,Adult,Sleep disturbance,193,SA,NA,NA,NA,Adult,Sleep quality,193,SA,othergrp,NA,NA
+561,150,0.3,7.8,Adult,Sleep disturbance,193,SA,,NA,NA,Adult,Sleep quality,193,SA,suic,NA,NA
+561,150,0.3,7.8,Adult,Sleep disturbance,193,SA,30,0.2,9.4,Adult,Sleep quality,193,SA,case,0.186585955580412,2.49517171549417e-05
+563,347,NA,NA,Adolescent,Sleep disturbance,201,SI,40,NA,NA,Adolescent,Sleep disturbance,201,SI,case,NA,NA
+563,347,NA,NA,Adolescent,Sleep disturbance,201,SI,,NA,NA,Adolescent,Sleep disturbance,201,SI,suic,NA,NA
+563,347,NA,NA,Adolescent,Sleep disturbance,201,SI,NA,NA,NA,Adolescent,Sleep disturbance,201,SI,othergrp,NA,NA
+564,170,NA,NA,Adolescent,Sleep disturbance,201,SI,31,NA,NA,Adolescent,Sleep disturbance,201,SI,case,NA,NA
+564,170,NA,NA,Adolescent,Sleep disturbance,201,SI,NA,NA,NA,Adolescent,Sleep disturbance,201,SI,othergrp,NA,NA
+564,170,NA,NA,Adolescent,Sleep disturbance,201,SI,,NA,NA,Adolescent,Sleep disturbance,201,SI,suic,NA,NA
+565,NA,NA,NA,Adult,Insomnia,200,SI,NA,NA,NA,Adult,Insomnia,200,SI,othergrp,NA,NA
+565,NA,NA,NA,Adult,Insomnia,200,SI,24,NA,NA,Adult,Insomnia,200,SI,suic,NA,NA
+565,NA,NA,NA,Adult,Insomnia,200,SI,NA,NA,NA,Adult,Insomnia,200,SI,case,NA,NA
+566,720,NA,NA,Adolescent,Nightmares,202,SI,,NA,NA,Adolescent,Nightmares,202,SI,suic,NA,NA
+566,720,NA,NA,Adolescent,Nightmares,202,SI,78,NA,NA,Adolescent,Nightmares,202,SI,case,NA,NA
+566,720,NA,NA,Adolescent,Nightmares,202,SI,38,NA,NA,Adolescent,Nightmares,202,SI,othergrp,NA,NA
+567,720,NA,NA,Adolescent,Sleep disturbance,202,SI,,NA,NA,Adolescent,Sleep disturbance,202,SI,suic,NA,NA
+567,720,NA,NA,Adolescent,Sleep disturbance,202,SI,38,NA,NA,Adolescent,Sleep disturbance,202,SI,othergrp,NA,NA
+567,720,NA,NA,Adolescent,Sleep disturbance,202,SI,78,NA,NA,Adolescent,Sleep disturbance,202,SI,case,NA,NA
+569,526,NA,NA,Adolescent,Nightmares,202,SI,67,NA,NA,Adolescent,Nightmares,202,SI,othergrp,NA,NA
+569,526,NA,NA,Adolescent,Nightmares,202,SI,90,NA,NA,Adolescent,Nightmares,202,SI,case,NA,NA
+569,526,NA,NA,Adolescent,Nightmares,202,SI,,NA,NA,Adolescent,Nightmares,202,SI,suic,NA,NA
+570,526,NA,NA,Adolescent,Sleep disturbance,202,SI,90,NA,NA,Adolescent,Sleep disturbance,202,SI,case,NA,NA
+570,526,NA,NA,Adolescent,Sleep disturbance,202,SI,,NA,NA,Adolescent,Sleep disturbance,202,SI,suic,NA,NA
+570,526,NA,NA,Adolescent,Sleep disturbance,202,SI,67,NA,NA,Adolescent,Sleep disturbance,202,SI,othergrp,NA,NA
+572,NA,NA,NA,Adult,Insomnia,204,SI,NA,NA,NA,Adult,Insomnia,204,SI,othergrp,NA,NA
+572,NA,NA,NA,Adult,Insomnia,204,SI,NA,NA,NA,Adult,Insomnia,204,SI,case,NA,NA
+572,NA,NA,NA,Adult,Insomnia,204,SI,,NA,NA,Adult,Insomnia,204,SI,suic,NA,NA
+573,30,1.12,1.3,Adult,Insomnia,210,SA,NA,NA,NA,Adult,Insomnia,210,SA,othergrp,NA,NA
+573,30,1.12,1.3,Adult,Insomnia,210,SA,30,1.88,2.8,Adult,Insomnia,210,SA,case,0.767255152713667,0.0397688282413557
+573,30,1.12,1.3,Adult,Insomnia,210,SA,,NA,NA,Adult,Insomnia,210,SA,suic,NA,NA
+579,NA,NA,NA,Adult,Sleep disturbance,214,SA,,NA,NA,Adult,Sleep disturbance,214,SA,suic,NA,NA
+579,NA,NA,NA,Adult,Sleep disturbance,214,SA,163,NA,NA,Adult,Sleep disturbance,214,SA,othergrp,NA,NA
+579,NA,NA,NA,Adult,Sleep disturbance,214,SA,203,NA,NA,Adult,Sleep disturbance,214,SA,case,NA,NA
+580,NA,NA,NA,Adult,Insomnia,218,SD,32,NA,NA,Adult,Insomnia,218,SD,suic,NA,NA
+580,NA,NA,NA,Adult,Insomnia,218,SD,NA,NA,NA,Adult,Insomnia,218,SD,othergrp,NA,NA
+580,NA,NA,NA,Adult,Insomnia,218,SD,NA,NA,NA,Adult,Insomnia,218,SD,case,NA,NA
+581,205899,NA,NA,Adult,Insomnia,219,SA,,NA,NA,Adult,Insomnia,219,SA,suic,NA,NA
+581,205899,NA,NA,Adult,Insomnia,219,SA,753,NA,NA,Adult,Insomnia,219,SA,othergrp,NA,NA
+581,205899,NA,NA,Adult,Insomnia,219,SA,4310,NA,NA,Adult,Insomnia,219,SA,case,NA,NA
+618,NA,NA,NA,Adult,Insomnia,225,SI,NA,NA,NA,Adult,Insomnia,225,SI,case,NA,NA
+618,NA,NA,NA,Adult,Insomnia,225,SI,NA,NA,NA,Adult,Insomnia,225,SI,othergrp,NA,NA
+618,NA,NA,NA,Adult,Insomnia,225,SI,,NA,NA,Adult,Insomnia,225,SI,suic,NA,NA
+619,NA,NA,NA,Adult,Insomnia,225,SI,NA,NA,NA,Adult,Insomnia,225,SI,case,NA,NA
+619,NA,NA,NA,Adult,Insomnia,225,SI,,NA,NA,Adult,Insomnia,225,SI,suic,NA,NA
+619,NA,NA,NA,Adult,Insomnia,225,SI,NA,NA,NA,Adult,Insomnia,225,SI,othergrp,NA,NA
+620,NA,NA,NA,Adult,Nightmares,225,SI,,NA,NA,Adult,Nightmares,225,SI,suic,NA,NA
+620,NA,NA,NA,Adult,Nightmares,225,SI,NA,NA,NA,Adult,Nightmares,225,SI,othergrp,NA,NA
+620,NA,NA,NA,Adult,Nightmares,225,SI,NA,NA,NA,Adult,Nightmares,225,SI,case,NA,NA
+621,NA,NA,NA,Adult,Nightmares,225,SI,,NA,NA,Adult,Nightmares,225,SI,suic,NA,NA
+621,NA,NA,NA,Adult,Nightmares,225,SI,NA,NA,NA,Adult,Nightmares,225,SI,othergrp,NA,NA
+621,NA,NA,NA,Adult,Nightmares,225,SI,NA,NA,NA,Adult,Nightmares,225,SI,case,NA,NA
+622,NA,NA,NA,Adolescent,Insomnia,238,SA,NA,NA,NA,Adolescent,Insomnia,238,SA,othergrp,NA,NA
+622,NA,NA,NA,Adolescent,Insomnia,238,SA,NA,NA,NA,Adolescent,Insomnia,238,SA,case,NA,NA
+622,NA,NA,NA,Adolescent,Insomnia,238,SA,141,NA,NA,Adolescent,Insomnia,238,SA,suic,NA,NA
+623,NA,NA,NA,Adolescent,Hypersomnia,238,SA,NA,NA,NA,Adolescent,Hypersomnia,238,SA,case,NA,NA
+623,NA,NA,NA,Adolescent,Hypersomnia,238,SA,NA,NA,NA,Adolescent,Hypersomnia,238,SA,othergrp,NA,NA
+623,NA,NA,NA,Adolescent,Hypersomnia,238,SA,141,NA,NA,Adolescent,Hypersomnia,238,SA,suic,NA,NA
+624,24,NA,NA,Adult,Sleep disturbance,242,SD,,NA,NA,Adult,Sleep disturbance,242,SD,suic,NA,NA
+624,24,NA,NA,Adult,Sleep disturbance,242,SD,74,NA,NA,Adult,Sleep disturbance,242,SD,case,NA,NA
+624,24,NA,NA,Adult,Sleep disturbance,242,SD,NA,NA,NA,Adult,Sleep disturbance,242,SD,othergrp,NA,NA
+625,82,NA,NA,Adult,Insomnia,245,SD,NA,NA,NA,Adult,Insomnia,245,SD,othergrp,NA,NA
+625,82,NA,NA,Adult,Insomnia,245,SD,15,NA,NA,Adult,Insomnia,245,SD,case,NA,NA
+625,82,NA,NA,Adult,Insomnia,245,SD,,NA,NA,Adult,Insomnia,245,SD,suic,NA,NA
+626,NA,NA,NA,Adolescent,Sleep disturbance,257,SI,NA,NA,NA,Adolescent,Sleep quality,257,SI,othergrp,NA,NA
+626,NA,NA,NA,Adolescent,Sleep disturbance,257,SI,NA,NA,NA,Adolescent,Sleep quality,257,SI,case,NA,NA
+626,NA,NA,NA,Adolescent,Sleep disturbance,257,SI,268,NA,NA,Adolescent,Sleep quality,257,SI,suic,NA,NA
+628,NA,NA,NA,Adult,Nightmares,258,SA,14,NA,NA,Adult,Nightmares,258,SA,case,NA,NA
+628,NA,NA,NA,Adult,Nightmares,258,SA,,NA,NA,Adult,Nightmares,258,SA,suic,NA,NA
+628,NA,NA,NA,Adult,Nightmares,258,SA,136,NA,NA,Adult,Nightmares,258,SA,othergrp,NA,NA
+629,NA,NA,NA,Adult,Insomnia,258,SA,29,NA,NA,Adult,Insomnia,258,SA,case,NA,NA
+629,NA,NA,NA,Adult,Insomnia,258,SA,121,NA,NA,Adult,Insomnia,258,SA,othergrp,NA,NA
+629,NA,NA,NA,Adult,Insomnia,258,SA,,NA,NA,Adult,Insomnia,258,SA,suic,NA,NA
+630,NA,NA,NA,Adult,Nightmares,258,SA,136,NA,NA,Adult,Nightmares,258,SA,othergrp,NA,NA
+630,NA,NA,NA,Adult,Nightmares,258,SA,,NA,NA,Adult,Nightmares,258,SA,suic,NA,NA
+630,NA,NA,NA,Adult,Nightmares,258,SA,14,NA,NA,Adult,Nightmares,258,SA,case,NA,NA
+631,NA,NA,NA,Adult,Nightmares,259,SI,NA,NA,NA,Adult,Nightmares,259,SI,case,NA,NA
+631,NA,NA,NA,Adult,Nightmares,259,SI,NA,NA,NA,Adult,Nightmares,259,SI,othergrp,NA,NA
+631,NA,NA,NA,Adult,Nightmares,259,SI,,NA,NA,Adult,Nightmares,259,SI,suic,NA,NA
+632,NA,NA,NA,Adult,Insomnia,259,SI,NA,NA,NA,Adult,Insomnia,259,SI,case,NA,NA
+632,NA,NA,NA,Adult,Insomnia,259,SI,,NA,NA,Adult,Insomnia,259,SI,suic,NA,NA
+632,NA,NA,NA,Adult,Insomnia,259,SI,NA,NA,NA,Adult,Insomnia,259,SI,othergrp,NA,NA
+633,958,NA,NA,Adult,Sleep disturbance,261,SI,,NA,NA,Adult,Sleep quality,261,SI,suic,NA,NA
+633,958,NA,NA,Adult,Sleep disturbance,261,SI,NA,NA,NA,Adult,Sleep quality,261,SI,othergrp,NA,NA
+633,958,NA,NA,Adult,Sleep disturbance,261,SI,360,NA,NA,Adult,Sleep quality,261,SI,case,NA,NA
+634,76,NA,NA,Adolescent,Insomnia,263,SA,,NA,NA,Adolescent,Insomnia,263,SA,suic,NA,NA
+634,76,NA,NA,Adolescent,Insomnia,263,SA,38,NA,NA,Adolescent,Insomnia,263,SA,case,NA,NA
+634,76,NA,NA,Adolescent,Insomnia,263,SA,NA,NA,NA,Adolescent,Insomnia,263,SA,othergrp,NA,NA
+635,120,NA,NA,Adult,Sleep disturbance,264,SI,9,NA,NA,Adult,Sleep disorder,264,SI,case,NA,NA
+635,120,NA,NA,Adult,Sleep disturbance,264,SI,,NA,NA,Adult,Sleep disorder,264,SI,suic,NA,NA
+635,120,NA,NA,Adult,Sleep disturbance,264,SI,NA,NA,NA,Adult,Sleep disorder,264,SI,othergrp,NA,NA
+636,NA,NA,NA,Adult,Insomnia,271,SI,,NA,NA,Adult,Insomnia,271,SI,suic,NA,NA
+636,NA,NA,NA,Adult,Insomnia,271,SI,NA,NA,NA,Adult,Insomnia,271,SI,case,NA,NA
+636,NA,NA,NA,Adult,Insomnia,271,SI,NA,NA,NA,Adult,Insomnia,271,SI,othergrp,NA,NA
+637,NA,NA,NA,Adult,Nightmares,271,SI,NA,NA,NA,Adult,Nightmares,271,SI,case,NA,NA
+637,NA,NA,NA,Adult,Nightmares,271,SI,,NA,NA,Adult,Nightmares,271,SI,suic,NA,NA
+637,NA,NA,NA,Adult,Nightmares,271,SI,NA,NA,NA,Adult,Nightmares,271,SI,othergrp,NA,NA
+638,NA,NA,NA,Adult,Sleep disturbance,283,SA,,NA,NA,Adult,Sleep quality,283,SA,suic,NA,NA
+638,NA,NA,NA,Adult,Sleep disturbance,283,SA,16,2.87,14.47,Adult,Sleep quality,283,SA,case,NA,NA
+638,NA,NA,NA,Adult,Sleep disturbance,283,SA,36,3.95,11.17,Adult,Sleep quality,283,SA,othergrp,NA,NA
+639,NA,NA,NA,Adult,Insomnia,286,SA,NA,NA,NA,Adult,Insomnia,286,SA,case,NA,NA
+639,NA,NA,NA,Adult,Insomnia,286,SA,264,NA,NA,Adult,Insomnia,286,SA,suic,NA,NA
+639,NA,NA,NA,Adult,Insomnia,286,SA,NA,NA,NA,Adult,Insomnia,286,SA,othergrp,NA,NA
+640,NA,NA,NA,Adult,Insomnia,286,SA,264,NA,NA,Adult,Insomnia,286,SA,suic,NA,NA
+640,NA,NA,NA,Adult,Insomnia,286,SA,NA,NA,NA,Adult,Insomnia,286,SA,othergrp,NA,NA
+640,NA,NA,NA,Adult,Insomnia,286,SA,NA,NA,NA,Adult,Insomnia,286,SA,case,NA,NA
+641,262,1,1,Adult,Insomnia,292,SD,NA,NA,NA,Adult,Insomnia,292,SD,othergrp,NA,NA
+641,262,1,1,Adult,Insomnia,292,SD,16,0.8,1.4,Adult,Insomnia,292,SD,case,0.336472236621213,0.0242249571584359
+641,262,1,1,Adult,Insomnia,292,SD,,NA,NA,Adult,Insomnia,292,SD,suic,NA,NA
+642,262,0.9,1.2,Adult,Insomnia,292,SD,,NA,NA,Adult,Insomnia,292,SD,suic,NA,NA
+642,262,0.9,1.2,Adult,Insomnia,292,SD,NA,NA,NA,Adult,Insomnia,292,SD,othergrp,NA,NA
+642,262,0.9,1.2,Adult,Insomnia,292,SD,16,0.9,1,Adult,Insomnia,292,SD,case,-0.182321556793955,0.0527719465648855
+643,262,0.9,1.1,Adult,Insomnia,292,SD,,NA,NA,Adult,Insomnia,292,SD,suic,NA,NA
+643,262,0.9,1.1,Adult,Insomnia,292,SD,16,0.9,1.1,Adult,Insomnia,292,SD,case,0,0.0443938868210208
+643,262,0.9,1.1,Adult,Insomnia,292,SD,NA,NA,NA,Adult,Insomnia,292,SD,othergrp,NA,NA
+644,NA,NA,NA,Adolescent,Insomnia,303,SI,NA,NA,NA,Adolescent,Insomnia,303,SI,case,NA,NA
+644,NA,NA,NA,Adolescent,Insomnia,303,SI,408,NA,NA,Adolescent,Insomnia,303,SI,suic,NA,NA
+644,NA,NA,NA,Adolescent,Insomnia,303,SI,NA,NA,NA,Adolescent,Insomnia,303,SI,othergrp,NA,NA
+646,NA,NA,NA,Adult,Insomnia,304,SI,705,NA,NA,Adult,Insomnia,304,SI,suic,NA,NA
+646,NA,NA,NA,Adult,Insomnia,304,SI,273,NA,NA,Adult,Insomnia,304,SI,othergrp,NA,NA
+646,NA,NA,NA,Adult,Insomnia,304,SI,NA,NA,NA,Adult,Insomnia,304,SI,case,NA,NA
+647,NA,NA,NA,Adult,Insomnia,304,SI,705,NA,NA,Adult,Insomnia,304,SI,suic,NA,NA
+647,NA,NA,NA,Adult,Insomnia,304,SI,273,NA,NA,Adult,Insomnia,304,SI,othergrp,NA,NA
+647,NA,NA,NA,Adult,Insomnia,304,SI,NA,NA,NA,Adult,Insomnia,304,SI,case,NA,NA
+648,NA,NA,NA,Adult,Insomnia,304,SI,NA,NA,NA,Adult,Insomnia,304,SI,case,NA,NA
+648,NA,NA,NA,Adult,Insomnia,304,SI,705,NA,NA,Adult,Insomnia,304,SI,suic,NA,NA
+648,NA,NA,NA,Adult,Insomnia,304,SI,273,NA,NA,Adult,Insomnia,304,SI,othergrp,NA,NA
+649,416,NA,NA,Adolescent Adult,Insomnia,305,SD,388,NA,NA,Adolescent Adult,Insomnia,305,SD,case,NA,NA
+649,416,NA,NA,Adolescent Adult,Insomnia,305,SD,,NA,NA,Adolescent Adult,Insomnia,305,SD,suic,NA,NA
+649,416,NA,NA,Adolescent Adult,Insomnia,305,SD,NA,NA,NA,Adolescent Adult,Insomnia,305,SD,othergrp,NA,NA
+650,416,NA,NA,Adolescent Adult,Insomnia,305,SD,388,NA,NA,Adolescent Adult,Insomnia,305,SD,case,NA,NA
+650,416,NA,NA,Adolescent Adult,Insomnia,305,SD,,NA,NA,Adolescent Adult,Insomnia,305,SD,suic,NA,NA
+650,416,NA,NA,Adolescent Adult,Insomnia,305,SD,NA,NA,NA,Adolescent Adult,Insomnia,305,SD,othergrp,NA,NA
+651,416,NA,NA,Adolescent Adult,Insomnia,305,SD,388,NA,NA,Adolescent Adult,Insomnia,305,SD,case,NA,NA
+651,416,NA,NA,Adolescent Adult,Insomnia,305,SD,,NA,NA,Adolescent Adult,Insomnia,305,SD,suic,NA,NA
+651,416,NA,NA,Adolescent Adult,Insomnia,305,SD,NA,NA,NA,Adolescent Adult,Insomnia,305,SD,othergrp,NA,NA
+652,416,NA,NA,Adolescent Adult,Insomnia,305,SD,388,NA,NA,Adolescent Adult,Insomnia,305,SD,case,NA,NA
+652,416,NA,NA,Adolescent Adult,Insomnia,305,SD,,NA,NA,Adolescent Adult,Insomnia,305,SD,suic,NA,NA
+652,416,NA,NA,Adolescent Adult,Insomnia,305,SD,NA,NA,NA,Adolescent Adult,Insomnia,305,SD,othergrp,NA,NA
+653,NA,NA,NA,Adult,Insomnia,307,SI,NA,NA,NA,Adult,Insomnia,307,SI,case,NA,NA
+653,NA,NA,NA,Adult,Insomnia,307,SI,34,NA,NA,Adult,Insomnia,307,SI,suic,NA,NA
+653,NA,NA,NA,Adult,Insomnia,307,SI,NA,NA,NA,Adult,Insomnia,307,SI,othergrp,NA,NA
+654,1937,NA,NA,Adult,Insomnia,308,SA,NA,NA,NA,Adult,Insomnia,308,SA,othergrp,NA,NA
+654,1937,NA,NA,Adult,Insomnia,308,SA,486,NA,NA,Adult,Insomnia,308,SA,case,NA,NA
+654,1937,NA,NA,Adult,Insomnia,308,SA,,NA,NA,Adult,Insomnia,308,SA,suic,NA,NA
+655,157,NA,NA,Adult,Sleep disturbance,311,SD,379,NA,NA,Adult,Sleep disorder,311,SD,case,NA,NA
+655,157,NA,NA,Adult,Sleep disturbance,311,SD,,NA,NA,Adult,Sleep disorder,311,SD,suic,NA,NA
+655,157,NA,NA,Adult,Sleep disturbance,311,SD,NA,NA,NA,Adult,Sleep disorder,311,SD,othergrp,NA,NA
+659,NA,NA,NA,Adolescent,Insomnia,115,SA,NA,NA,NA,Adolescent,Insomnia,115,SA,case,NA,NA
+659,NA,NA,NA,Adolescent,Insomnia,115,SA,36,NA,NA,Adolescent,Insomnia,115,SA,suic,NA,NA
+659,NA,NA,NA,Adolescent,Insomnia,115,SA,NA,NA,NA,Adolescent,Insomnia,115,SA,othergrp,NA,NA
+660,NA,NA,NA,Adolescent,Insomnia,115,SA,,NA,NA,Adolescent,Insomnia,115,SA,suic,NA,NA
+660,NA,NA,NA,Adolescent,Insomnia,115,SA,NA,NA,NA,Adolescent,Insomnia,115,SA,othergrp,NA,NA
+660,NA,NA,NA,Adolescent,Insomnia,115,SA,NA,NA,NA,Adolescent,Insomnia,115,SA,case,NA,NA
+661,NA,NA,NA,Adolescent,Insomnia,115,SA,,NA,NA,Adolescent,Insomnia,115,SA,suic,NA,NA
+661,NA,NA,NA,Adolescent,Insomnia,115,SA,NA,NA,NA,Adolescent,Insomnia,115,SA,othergrp,NA,NA
+661,NA,NA,NA,Adolescent,Insomnia,115,SA,NA,NA,NA,Adolescent,Insomnia,115,SA,case,NA,NA
+662,NA,NA,NA,Adolescent,Insomnia,115,SA,,NA,NA,Adolescent,Insomnia,115,SA,suic,NA,NA
+662,NA,NA,NA,Adolescent,Insomnia,115,SA,NA,NA,NA,Adolescent,Insomnia,115,SA,othergrp,NA,NA
+662,NA,NA,NA,Adolescent,Insomnia,115,SA,NA,NA,NA,Adolescent,Insomnia,115,SA,case,NA,NA
+664,NA,NA,NA,Adolescent,Hypersomnia,115,SA,,NA,NA,Adolescent,Hypersomnia,115,SA,suic,NA,NA
+664,NA,NA,NA,Adolescent,Hypersomnia,115,SA,NA,NA,NA,Adolescent,Hypersomnia,115,SA,othergrp,NA,NA
+664,NA,NA,NA,Adolescent,Hypersomnia,115,SA,NA,NA,NA,Adolescent,Hypersomnia,115,SA,case,NA,NA
+665,70,NA,NA,Adult,Insomnia,141,SA,,NA,NA,Adult,Insomnia,141,SA,suic,NA,NA
+665,70,NA,NA,Adult,Insomnia,141,SA,NA,NA,NA,Adult,Insomnia,141,SA,othergrp,NA,NA
+665,70,NA,NA,Adult,Insomnia,141,SA,28,NA,NA,Adult,Insomnia,141,SA,case,NA,NA
+666,70,NA,NA,Adult,Insomnia,141,SA,,NA,NA,Adult,Insomnia,141,SA,suic,NA,NA
+666,70,NA,NA,Adult,Insomnia,141,SA,NA,NA,NA,Adult,Insomnia,141,SA,othergrp,NA,NA
+666,70,NA,NA,Adult,Insomnia,141,SA,28,NA,NA,Adult,Insomnia,141,SA,case,NA,NA
+667,70,NA,NA,Adult,Insomnia,141,SA,NA,NA,NA,Adult,Insomnia,141,SA,othergrp,NA,NA
+667,70,NA,NA,Adult,Insomnia,141,SA,28,NA,NA,Adult,Insomnia,141,SA,case,NA,NA
+667,70,NA,NA,Adult,Insomnia,141,SA,,NA,NA,Adult,Insomnia,141,SA,suic,NA,NA
+668,70,NA,NA,Adult,Nightmares,141,SA,28,NA,NA,Adult,Nightmares,141,SA,case,NA,NA
+668,70,NA,NA,Adult,Nightmares,141,SA,,NA,NA,Adult,Nightmares,141,SA,suic,NA,NA
+668,70,NA,NA,Adult,Nightmares,141,SA,NA,NA,NA,Adult,Nightmares,141,SA,othergrp,NA,NA
+679,NA,NA,NA,Adult,Insomnia,62,SD,,NA,NA,Adult,Insomnia,62,SD,suic,NA,NA
+679,NA,NA,NA,Adult,Insomnia,62,SD,NA,NA,NA,Adult,Insomnia,62,SD,othergrp,NA,NA
+679,NA,NA,NA,Adult,Insomnia,62,SD,NA,NA,NA,Adult,Insomnia,62,SD,case,NA,NA
